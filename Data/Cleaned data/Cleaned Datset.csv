@@ -1,0 +1,1802 @@
+﻿No.,Company,Location HQ,USState,Country,Continent,LaidOff,Date layoffs,Percentage,Company Size  Before Layoff,Company Size  After Layoff,Industry,Stage,Money Raised in millions,Year
+1,Tamara Mellon,Los Angeles,California,USA,North America,20,12-03-2020,40,50,30,Retail,Series C,90,2020
+14,Leafly,Seattle,Washington,USA,North America,91,23-03-2020,50,182,91,Retail,Acquired,2,2020
+26,B8ta,San Francisco,California,USA,North America,250,26-03-2020,50,500,250,Retail,Series C,88,2020
+29,GoSpotCheck,Denver,Colorado,USA,North America,23,26-03-2020,20,115,92,Retail,Series B,47,2020
+73,1stdibs,New York City,New York,USA,North America,70,02-04-2020,17,412,342,Retail,Series D,253,2020
+87,ThirdLove,San Francisco,California,USA,North America,65,02-04-2020,30,217,152,Retail,Series B,68,2020
+94,Minted,San Francisco,California,USA,North America,147,03-04-2020,37,397,250,Retail,Series E,297,2020
+96,Salsify,Boston,Massachusetts,USA,North America,60,03-04-2020,13,462,402,Retail,Series D,97,2020
+108,Away,New York City,New York,USA,North America,60,07-04-2020,10,600,540,Retail,Series D,181,2020
+112,Ibotta,Denver,Colorado,USA,North America,87,07-04-2020,15,580,493,Retail,Series D,85,2020
+123,Meesho,Bengaluru,Unknown,India,Asia,200,08-04-2020,28,714,514,Retail,Series D,215,2020
+135,Mejuri,Toronto,Unknown,Canada,North America,36,09-04-2020,15,240,204,Retail,Series B,28,2020
+2,HopSkipDrive,Los Angeles,California,USA,North America,8,13-03-2020,10,80,72,Transportation,Unknown,45,2020
+34,Bird,Los Angeles,California,USA,North America,406,27-03-2020,30,1353,947,Transportation,Series D,623,2020
+37,Getaround,San Francisco,California,USA,North America,100,27-03-2020,25,400,300,Transportation,Series D,403,2020
+43,Zipcar,Boston,Massachusetts,USA,North America,100,27-03-2020,20,500,400,Transportation,Acquired,107,2020
+59,Turo,San Francisco,California,USA,North America,108,31-03-2020,30,360,252,Transportation,Series E,467,2020
+102,BusBud,Montreal,Unknown,Canada,North America,23,06-04-2020,32,72,49,Transportation,Series B,21,2020
+125,Scoop,San Francisco,California,USA,North America,92,08-04-2020,33,279,187,Transportation,Series C,95,2020
+3,Panda Squad,San Francisco,California,USA,North America,6,13-03-2020,75,8,2,Consumer,Seed,1,2020
+38,HOOQ,Singapore,Unknown,Singapore,Asia,250,27-03-2020,100,250,0,Consumer,Unknown,95,2020
+54,Thumbtack,San Francisco,California,USA,North America,250,30-03-2020,30,833,583,Consumer,Series F,423,2020
+58,Rover,Seattle,Washington,USA,North America,194,31-03-2020,41,473,279,Consumer,Series G,310,2020
+98,Iflix,Kuala Lumpur,Unknown,Malaysia,Asia,50,04-04-2020,12,417,367,Consumer,Unknown,348,2020
+119,Eventbrite,San Francisco,California,USA,North America,500,08-04-2020,45,1111,611,Consumer,Post-IPO,332,2020
+120,GetNinjas,Sao Paulo,Unknown,Brazil,South America,11,08-04-2020,10,110,99,Consumer,Series B,16,2020
+138,Yelp,San Francisco,California,USA,North America,1000,09-04-2020,17,5882,4882,Consumer,Post-IPO,56,2020
+4,Help.com,Austin,Texas,USA,North America,16,16-03-2020,100,16,0,Support,Seed,6,2020
+103,Cogito,Boston,Massachusetts,USA,North America,24,06-04-2020,14,171,147,Support,Series C,92,2020
+127,Unbabel,Lisbon,Unknown,Portugal,Europe,80,08-04-2020,35,229,149,Support,Series C,91,2020
+130,Clinc,Ann Arbor,Michigan,USA,North America,40,09-04-2020,32,125,85,Support,Series B,59,2020
+5,Inspirato,Denver,Colorado,USA,North America,130,16-03-2020,22,591,461,Travel,Series C,79,2020
+7,Remote Year,Chicago,Illinois,USA,North America,50,19-03-2020,50,100,50,Travel,Series B,17,2020
+15,The Guild,Austin,Texas,USA,North America,38,23-03-2020,22,173,135,Travel,Series B,36,2020
+18,Sonder,San Francisco,California,USA,North America,400,24-03-2020,33,1212,812,Travel,Series D,359,2020
+23,TripActions,Palo Alto,California,USA,North America,300,25-03-2020,25,1200,900,Travel,Series D,Null,2020
+24,WanderJaunt,San Francisco,California,USA,North America,56,25-03-2020,23,243,187,Travel,Series B,26,2020
+44,TravelTriangle,Gurugram,Unknown,India,Asia,250,28-03-2020,50,500,250,Travel,Series D,47,2020
+47,FabHotels,New Delhi,Unknown,India,Asia,80,30-03-2020,20,400,320,Travel,Series B,48,2020
+140,Frontdesk,Milwaukee,Wisconsin,USA,North America,35,10-04-2020,16,219,184,Travel,Unknown,3,2020
+6,Flytedesk,Boulder,Colorado,USA,North America,4,18-03-2020,20,20,16,Marketing,Seed,4,2020
+21,OutboundEngine,Austin,Texas,USA,North America,52,25-03-2020,28,186,134,Marketing,Series C,48,2020
+45,Amplero,Seattle,Washington,USA,North America,17,29-03-2020,100,17,0,Marketing,Series B,25,2020
+55,AdRoll,Salt Lake City,Utah,USA,North America,210,31-03-2020,30,700,490,Marketing,Series C,89,2020
+56,DialSource,Sacramento,California,USA,North America,5,31-03-2020,14,36,31,Marketing,Series B,26,2020
+64,Crayon,Boston,Massachusetts,USA,North America,20,01-04-2020,20,100,80,Marketing,Series A,16,2020
+70,Showpad,Chicago,Illinois,USA,North America,52,01-04-2020,12,433,381,Marketing,Series D,159,2020
+71,Usermind,Seattle,Washington,USA,North America,15,01-04-2020,25,60,45,Marketing,Series C,46,2020
+88,TripleLift,New York City,New York,USA,North America,23,02-04-2020,7,329,306,Marketing,Series B,16,2020
+97,Sojern,San Francisco,California,USA,North America,300,03-04-2020,50,600,300,Marketing,Series D,162,2020
+101,BounceX,New York City,New York,USA,North America,77,06-04-2020,20,385,308,Marketing,Series B,75,2020
+106,Rock Content,Belo Horizonte,Unknown,Brazil,South America,100,06-04-2020,20,500,400,Marketing,Series A,1,2020
+107,Wordstream,Boston,Massachusetts,USA,North America,26,06-04-2020,10,260,234,Marketing,Acquired,28,2020
+109,Branch Metrics,Palo Alto,California,USA,North America,100,07-04-2020,20,500,400,Marketing,Series E,367,2020
+113,MediaMath,New York City,New York,USA,North America,53,07-04-2020,8,663,610,Marketing,Private Equity,607,2020
+117,Button,New York City,New York,USA,North America,48,08-04-2020,35,137,89,Marketing,Series C,64,2020
+124,Quantcast,San Francisco,California,USA,North America,30,08-04-2020,5,600,570,Marketing,Series C,65,2020
+129,VideoAmp,Los Angeles,California,USA,North America,21,08-04-2020,10,210,189,Marketing,Series C,106,2020
+133,LoopMe,London,Unknown,UK,Europe,8,09-04-2020,4,200,192,Marketing,Unknown,32,2020
+8,CTO.ai,Vancouver,Unknown,Canada,North America,30,20-03-2020,50,60,30,Infrastructure,Seed,7,2020
+31,Puppet,Portland,Oregon,USA,North America,50,26-03-2020,10,500,450,Infrastructure,Series F,149,2020
+84,Sauce Labs,San Francisco,California,USA,North America,30,02-04-2020,15,200,170,Infrastructure,Unknown,151,2020
+91,D2iQ,San Francisco,California,USA,North America,34,03-04-2020,13,262,228,Infrastructure,Series D,247,2020
+139,Atsu,Seattle,Washington,USA,North America,6,10-04-2020,100,6,0,Infrastructure,Unknown,1,2020
+9,Flywheel Sports,New York City,New York,USA,North America,784,20-03-2020,98,800,16,Fitness,Acquired,120,2020
+61,Zenoti,Seattle,Washington,USA,North America,17,31-03-2020,4,425,408,Fitness,Series C,91,2020
+74,ClassPass,New York City,New York,USA,North America,154,02-04-2020,22,700,546,Fitness,Series E,549,2020
+77,eGym,Munich,Bayern,Germany,Europe,100,02-04-2020,25,400,300,Fitness,Series D,109,2020
+82,MindBody,San Luis Obispo,California,USA,North America,700,02-04-2020,35,2000,1300,Fitness,Post-IPO,114,2020
+92,Gympass,Sao Paulo,Unknown,Brazil,South America,467,03-04-2020,33,1415,948,Fitness,Series D,300,2020
+10,Compass,New York City,New York,USA,North America,375,23-03-2020,15,2500,2125,Real Estate,Series G,1600,2020
+11,Convene,New York City,New York,USA,North America,150,23-03-2020,18,833,683,Real Estate,Series D,280,2020
+19,Zeus Living,San Francisco,California,USA,North America,80,24-03-2020,30,267,187,Real Estate,Series B,79,2020
+30,Peerspace,San Francisco,California,USA,North America,41,26-03-2020,75,55,14,Real Estate,Series B,34,2020
+35,Blueground,New York City,New York,USA,North America,130,27-03-2020,25,520,390,Real Estate,Series B,77,2020
+39,Knotel,New York City,New York,USA,North America,127,27-03-2020,30,423,296,Real Estate,Series C,560,2020
+50,Loftsmart,New York City,New York,USA,North America,25,30-03-2020,75,33,8,Real Estate,Series A,18,2020
+78,Industrious,New York City,New York,USA,North America,90,02-04-2020,20,450,360,Real Estate,Series D,222,2020
+114,Redfin,Seattle,Washington,USA,North America,236,07-04-2020,7,3371,3135,Real Estate,Post-IPO,319,2020
+118,Eden / Managed …,New York City,New York,USA,North America,40,08-04-2020,40,100,60,Real Estate,Series B,40,2020
+12,GrayMeta,Los Angeles,California,USA,North America,20,23-03-2020,40,50,30,Data,Unknown,7,2020
+131,Code42,Minneapolis,Minnesota,USA,North America,25,09-04-2020,5,500,475,Data,Series B,138,2020
+132,Domo,Salt Lake City,Utah,USA,North America,90,09-04-2020,10,900,810,Data,Post-IPO,689,2020
+134,Matterport,Sunnyvale,California,USA,North America,90,09-04-2020,34,265,175,Data,Series D,114,2020
+141,NuoDB,Boston,Massachusetts,USA,North America,20,10-04-2020,29,69,49,Data,Unknown,85,2020
+13,Ladder Life,Palo Alto,California,USA,North America,13,23-03-2020,25,52,39,Finance,Series C,94,2020
+32,Bench,Vancouver,Unknown,Canada,North America,47,27-03-2020,10,470,423,Finance,Series B,49,2020
+40,Mogo,Vancouver,Unknown,Canada,North America,78,27-03-2020,30,260,182,Finance,Post-IPO,201,2020
+52,PeerStreet,Los Angeles,California,USA,North America,51,30-03-2020,30,170,119,Finance,Series C,110,2020
+65,Earnin,Palo Alto,California,USA,North America,50,01-04-2020,20,250,200,Finance,Series C,190,2020
+69,Sensibill,Toronto,Unknown,Canada,North America,17,01-04-2020,20,85,68,Finance,Series B,50,2020
+79,Instamojo,Bengaluru,Unknown,India,Asia,6,02-04-2020,6,100,94,Finance,Unknown,8,2020
+93,Jetty,New York City,New York,USA,North America,35,03-04-2020,40,88,53,Finance,Series B,40,2020
+100,Borrowell,Toronto,Unknown,Canada,North America,15,06-04-2020,20,75,60,Finance,Series B,72,2020
+104,Metromile,San Francisco,California,USA,North America,100,06-04-2020,33,303,203,Finance,Series E,293,2020
+128,Unison,San Francisco,California,USA,North America,89,08-04-2020,45,198,109,Finance,Series B,40,2020
+136,Omie,Sao Paulo,Unknown,Brazil,South America,136,09-04-2020,31,439,303,Finance,Series B,26,2020
+143,Clearbanc,Toronto,Unknown,Canada,North America,17,13-04-2020,8,213,196,Finance,Series B,119,2020
+16,Triplebyte,San Francisco,California,USA,North America,15,23-03-2020,17,88,73,HR,Series B,48,2020
+42,Textio,Seattle,Washington,USA,North America,30,27-03-2020,20,150,120,HR,Unknown,41,2020
+46,ZipRecruiter,Los Angeles,California,USA,North America,400,29-03-2020,39,1026,626,HR,Series B,219,2020
+48,Hibob,Tel Aviv,Unknown,Israel,Asia,70,30-03-2020,30,233,163,HR,Series A,45,2020
+72,Wonolo,San Francisco,California,USA,North America,46,01-04-2020,13,354,308,HR,Series C,52,2020
+76,Dynamic Signal,San Bruno,California,USA,North America,35,02-04-2020,19,184,149,HR,Series E,114,2020
+80,Jobcase,Boston,Massachusetts,USA,North America,39,02-04-2020,20,195,156,HR,Private Equity,118,2020
+86,The Predictive Investment,Boston,Massachusetts,USA,North America,59,02-04-2020,25,236,177,HR,Acquired,65,2020
+105,PerkSpot,Chicago,Illinois,USA,North America,10,06-04-2020,10,100,90,HR,Private Equity,50,2020
+121,Kenoby,Sao Paulo,Unknown,Brazil,South America,18,08-04-2020,16,113,95,HR,Unknown,23,2020
+122,Lever,San Francisco,California,USA,North America,86,08-04-2020,40,215,129,HR,Series C,72,2020
+17,Foodsby,Minneapolis,Minnesota,USA,North America,87,24-03-2020,67,130,43,Food,Series B,20,2020
+33,Bevi,Boston,Massachusetts,USA,North America,30,27-03-2020,20,150,120,Food,Series C,60,2020
+49,Iris Nova,New York City,New York,USA,North America,9,30-03-2020,50,18,9,Food,Seed,15,2020
+83,Ritual,Toronto,Unknown,Canada,North America,196,02-04-2020,54,363,167,Food,Series C,112,2020
+85,Synergysuite,Salt Lake City,Utah,USA,North America,5,02-04-2020,7,71,66,Food,Series A,6,2020
+110,ezCater,Boston,Massachusetts,USA,North America,400,07-04-2020,44,909,509,Food,Series D,319,2020
+116,Toast,Boston,Massachusetts,USA,North America,1300,07-04-2020,50,2600,1300,Food,Series F,902,2020
+126,Spyce,Boston,Massachusetts,USA,North America,4,08-04-2020,12,33,29,Food,Series A,26,2020
+20,Jama,Portland,Oregon,USA,North America,12,25-03-2020,5,240,228,Product,Unknown,233,2020
+22,Overtime,New York City,New York,USA,North America,30,25-03-2020,23,130,100,Media,Series B,35,2020
+51,Maven,Seattle,Washington,USA,North America,31,30-03-2020,9,344,313,Media,Post-IPO,77,2020
+66,Highsnobiety,Berlin,Berlin,Germany,Europe,51,01-04-2020,25,204,153,Media,Series A,9,2020
+90,Bustle Digital Group,New York City,New York,USA,North America,24,03-04-2020,8,300,276,Media,Series E,80,2020
+111,Group Nine Media,New York City,New York,USA,North America,50,07-04-2020,7,714,664,Media,Unknown,190,2020
+25,Wonderschool,San Francisco,California,USA,North America,50,25-03-2020,75,67,17,Education,Series A,24,2020
+75,Coding Dojo,Seattle,Washington,USA,North America,7,02-04-2020,7,100,93,Education,Unknown,2,2020
+27,Consider.co,Mountain View,California,USA,North America,13,26-03-2020,100,13,0,Other,Seed,5,2020
+28,Ecobee,Toronto,Unknown,Canada,North America,47,26-03-2020,10,470,423,Energy,Series C,149,2020
+53,RigUp,Austin,Texas,USA,North America,120,30-03-2020,25,480,360,Energy,Series D,423,2020
+41,OneWeb,London,Unknown,UK,Europe,451,27-03-2020,85,531,80,Aerospace,Unknown,Null,2020
+99,Astra,Alameda,California,USA,North America,40,05-04-2020,25,160,120,Aerospace,Unknown,100,2020
+57,KeepTruckin,San Francisco,California,USA,North America,349,31-03-2020,18,1939,1590,Logistics,Series D,227,2020
+60,uShip,Austin,Texas,USA,North America,65,31-03-2020,37,176,111,Logistics,Series D,69,2020
+89,Arrive Logistics,Austin,Texas,USA,North America,75,03-04-2020,7,1071,996,Logistics,Series B,35,2020
+144,EasyPost,San Francisco,California,USA,North America,50,13-04-2020,25,200,150,Logistics,Series A,12,2020
+62,Acko,Mumbai,Unknown,India,Asia,45,01-04-2020,9,500,455,Finance,Unknown,143,2024
+63,Aqua Security,Tel Aviv,Unknown,Israel,Asia,24,01-04-2020,9,267,243,Security,Series C,100,2020
+67,Incredible Health,San Francisco,California,USA,North America,9,01-04-2020,40,23,14,Healthcare,Series A,15,2020
+68,PatientPop,Los Angeles,California,USA,North America,100,01-04-2020,20,500,400,Healthcare,Series B,75,2020
+95,Opencare,Toronto,Unknown,Canada,North America,18,03-04-2020,25,72,54,Healthcare,Series A,24,2020
+115,Sage Therapeutics,Boston,Massachusetts,USA,North America,340,07-04-2020,53,642,302,Healthcare,Post-IPO,438,2020
+81,Katerra,Menlo Park,California,USA,North America,240,02-04-2020,3,8000,7760,Construction,Series D,1200,2020
+142,Rhumbix,San Francisco,California,USA,North America,16,10-04-2020,27,59,43,Construction,Series B,35,2020
+137,OneTrust,Atlanta,Georgia,USA,North America,150,09-04-2020,10,1500,1350,Legal,Series B,410,2020
+145,Groupon,Chicago,Illinois,USA,North America,2800,13-04-2020,44,6364,3564,Retail,Post-IPO,Null,2020
+146,Neon,Sao Paulo,Unknown,Brazil,South America,70,13-04-2020,10,700,630,Finance,Series B,120,2020
+147,Zoox,Forster City,California,USA,North America,100,13-04-2020,10,1000,900,Transportation,Series B,955,2020
+148,Envoy,San Francisco,California,USA,North America,58,14-04-2020,30,193,135,HR,Series B,59,2020
+149,The RealReal,San Francisco,California,USA,North America,235,14-04-2020,10,2350,2115,Retail,Post-IPO,358,2020
+150,TouchBistro,Toronto,Unknown,Canada,North America,131,14-04-2020,23,570,439,Food,Series E,224,2020
+151,VSCO,Oakland,California,USA,North America,45,14-04-2020,35,129,84,Consumer,Series B,90,2020
+152,Carta,San Francisco,California,USA,North America,161,15-04-2020,16,1006,845,Finance,Series E,447,2020
+153,GoPro,San Mateo,California,USA,North America,200,15-04-2020,20,1000,800,Consumer,Post-IPO,288,2020
+154,Kodiak Robotics,Mountain View,California,USA,North America,15,15-04-2020,20,75,60,Transportation,Series A,40,2020
+155,Opendoor,San Francisco,California,USA,North America,600,15-04-2020,35,1714,1114,Real Estate,Series E,1500,2020
+156,Parsable,San Francisco,California,USA,North America,40,15-04-2020,25,160,120,HR,Series C,72,2020
+157,Shop101,Mumbai,Unknown,India,Asia,200,15-04-2020,40,500,300,Retail,Series C,19,2020
+158,Zume,Camarillo,California,USA,North America,200,15-04-2020,67,299,99,Food,Unknown,423,2020
+159,CarGurus,Boston,Massachusetts,USA,North America,130,16-04-2020,13,1000,870,Transportation,Post-IPO,1,2020
+160,CleverTap,Mumbai,Unknown,India,Asia,60,16-04-2020,20,300,240,Marketing,Series C,76,2020
+161,Funding Societies,Singapore,Unknown,Singapore,Asia,65,16-04-2020,18,361,296,Finance,Series B,42,2020
+162,ContaAzul,Joinville,Unknown,Brazil,South America,140,17-04-2020,35,400,260,Education,Series D,37,2020
+163,Greenhouse,New York City,New York,USA,North America,120,17-04-2020,28,429,309,HR,Series D,110,2020
+164,Loft,Sao Paulo,Unknown,Brazil,South America,47,17-04-2020,10,470,423,Real Estate,Series C,263,2020
+165,People.ai,San Francisco,California,USA,North America,30,17-04-2020,18,167,137,Marketing,Series C,100,2020
+166,QuintoAndar,Sao Paulo,Unknown,Brazil,South America,88,17-04-2020,8,1100,1012,Real Estate,Series D,335,2020
+167,Sweetgreen,Los Angeles,California,USA,North America,35,17-04-2020,10,350,315,Food,Series I,478,2020
+168,Tor,Boston,Massachusetts,USA,North America,13,17-04-2020,37,35,22,Security,Unknown,1,2020
+169,Zilingo,Singapore,Unknown,Singapore,Asia,44,17-04-2020,5,880,836,Retail,Series D,307,2020
+170,ConsenSys,New York City,New York,USA,North America,91,20-04-2020,14,650,559,Crypto,Unknown,10,2020
+171,Forward,San Francisco,California,USA,North America,10,20-04-2020,3,333,323,Healthcare,Series C,100,2020
+172,GumGum,Los Angeles,California,USA,North America,90,20-04-2020,25,360,270,Marketing,Series D,58,2020
+173,Klook,Hong Kong,Unknown,Hong Kong,Asia,300,20-04-2020,15,2000,1700,Travel,Series D,521,2020
+174,Komodo Health,San Francisco,California,USA,North America,23,20-04-2020,9,256,233,Healthcare,Series C,50,2020
+175,Kueski,Guadalajara,Unknown,Mexico,North America,90,20-04-2020,30,300,210,Finance,Series B,38,2020
+176,Movidesk,Blumenau,Unknown,Brazil,South America,33,20-04-2020,25,132,99,Support,Seed,1,2020
+177,Bringg,Tel Aviv,Unknown,Israel,Asia,10,21-04-2020,10,100,90,Logistics,Series D,84,2020
+178,Casper,New York City,New York,USA,North America,78,21-04-2020,21,371,293,Retail,Post-IPO,339,2020
+179,Freshbooks,Toronto,Unknown,Canada,North America,38,21-04-2020,9,422,384,Finance,Series B,75,2020
+180,Houzz,Palo Alto,California,USA,North America,155,21-04-2020,10,1550,1395,Consumer,Series E,613,2020
+181,Lending Club,San Francisco,California,USA,North America,460,21-04-2020,30,1533,1073,Finance,Post-IPO,392,2020
+182,Patreon,San Francisco,California,USA,North America,30,21-04-2020,13,231,201,Media,Series D,165,2020
+183,RealSelf,Seattle,Washington,USA,North America,40,21-04-2020,13,308,268,Healthcare,Series B,42,2020
+185,Ike,San Francisco,California,USA,North America,10,22-04-2020,14,71,61,Transportation,Series A,52,2020
+186,Magic Leap,Miami,Florida,USA,North America,1000,22-04-2020,50,2000,1000,Consumer,Series E,2600,2020
+187,When I Work,Minneapolis,Minnesota,USA,North America,55,22-04-2020,35,157,102,HR,Series B,24,2020
+188,Oscar Health,New York City,New York,USA,North America,70,23-04-2020,5,1400,1330,Healthcare,Unknown,Null,2020
+189,Sisense,New York City,New York,USA,North America,80,23-04-2020,9,889,809,Data,Series F,274,2020
+190,StockX,Detroit,Michigan,USA,North America,100,23-04-2020,12,833,733,Retail,Series C,160,2020
+191,Zenefits,San Francisco,California,USA,North America,87,23-04-2020,15,580,493,HR,Series C,583,2020
+192,Ada Support,Toronto,Unknown,Canada,North America,36,24-04-2020,23,157,121,Support,Series B,60,2024
+193,Divergent 3D,Los Angeles,California,USA,North America,57,24-04-2020,36,158,101,Transportation,Series B,88,2020
+194,Horizn Studios,Berlin,Berlin,Germany,Europe,15,24-04-2020,25,60,45,Travel,Series B,30,2020
+195,Jiobit,Chicago,Illinois,USA,North America,6,24-04-2020,21,29,23,Consumer,Unknown,12,2020
+196,Lighter Capital,Seattle,Washington,USA,North America,18,24-04-2020,22,82,64,Finance,Series B,15,2020
+197,TutorMundi,Sao Paulo,Unknown,Brazil,South America,4,24-04-2020,100,4,0,Education,Series A,2,2020
+198,UPshow,Chicago,Illinois,USA,North America,19,24-04-2020,30,63,44,Marketing,Series A,7,2020
+199,Welkin Health,San Francisco,California,USA,North America,10,24-04-2020,33,30,20,Healthcare,Series B,29,2020
+200,Submittable,Missoula,Montana,USA,North America,30,25-04-2020,20,150,120,Other,Series B,17,2020
+201,Automation Anything,San Jose,California,USA,North America,260,27-04-2020,10,2600,2340,Other,Series B,840,2020
+202,JetClosing,Seattle,Washington,USA,North America,20,27-04-2020,20,100,80,Real Estate,Series A,24,2020
+203,App Annie,San Francisco,California,USA,North America,80,28-04-2020,18,444,364,Data,Unknown,156,2020
+204,Deliveroo,London,Unknown,UK,Europe,367,28-04-2020,15,2447,2080,Food,Series G,1500,2020
+205,OpenX,Los Angeles,California,USA,North America,35,28-04-2020,15,233,198,Marketing,Unknown,70,2020
+206,PayJoy,San Francisco,California,USA,North America,27,28-04-2020,25,108,81,Finance,Series B,71,2020
+207,Shipsi,Los Angeles,California,USA,North America,20,28-04-2020,50,40,20,Retail,Seed,2,2020
+208,TripAdvisor,Boston,Massachusetts,USA,North America,900,28-04-2020,25,3600,2700,Travel,Post-IPO,3,2020
+209,Kayak / OpenTable,Stamford,Connecticut,USA,North America,160,29-04-2020,8,2000,1840,Travel,Acquired,229,2020
+210,Lime,San Francisco,California,USA,North America,80,29-04-2020,13,615,535,Transportation,Series D,765,2020
+211,Lyft,San Francisco,California,USA,North America,982,29-04-2020,17,5776,4794,Transportation,Post-IPO,4900,2020
+212,TranSan Francisco Bay Areaix,New York City,New York,USA,North America,24,29-04-2020,10,240,216,Logistics,Series D,128,2020
+213,Culture Trip,London,Unknown,UK,Europe,95,01-05-2020,32,297,202,Media,Series B,102,2020
+214,Namely,New York City,New York,USA,North America,110,01-05-2020,40,275,165,HR,Series E,217,2020
+215,Sandbox VR,San Francisco,California,USA,North America,80,01-05-2020,80,100,20,Consumer,Series A,82,2020
+216,TheSkimm,New York City,New York,USA,North America,26,01-05-2020,20,130,104,Media,Series C,28,2020
+217,Trax,Tel Aviv,Unknown,Israel,Asia,120,03-05-2020,10,1200,1080,Retail,Series D,386,2020
+218,Careem,Dubai,Unknown,United Arabian Emirates,Asia,536,04-05-2020,31,1729,1193,Transportation,Acquired,771,2020
+219,CureFit,Bengaluru,Unknown,India,Asia,800,04-05-2020,16,5000,4200,Fitness,Series D,404,2020
+220,Deputy,Sydney,Unknown,Australia,Oceana,60,04-05-2020,30,200,140,HR,Series B,106,2020
+221,Element AI,Montreal,Unknown,Canada,North America,62,04-05-2020,15,413,351,Other,Series B,257,2020
+222,Loopio,Toronto,Unknown,Canada,North America,11,04-05-2020,8,138,127,Sales,Series A,11,2020
+223,Oriente,Hong Kong,Unknown,Hong Kong,Asia,400,04-05-2020,20,2000,1600,Finance,Series B,175,2020
+224,Veriff,Tallinn,Unknown,Estonia,Europe,63,04-05-2020,21,300,237,Security,Series A,7,2020
+225,Airbnb,San Francisco,California,USA,North America,1900,05-05-2020,25,7600,5700,Travel,Private Equity,5400,2020
+226,Andela,New York City,New York,USA,North America,135,05-05-2020,10,1350,1215,HR,Series D,181,2020
+227,Juul,San Francisco,California,USA,North America,900,05-05-2020,30,3000,2100,Consumer,Unknown,1500,2020
+228,Stack Overflow,New York City,New York,USA,North America,40,05-05-2020,15,267,227,HR,Series D,68,2020
+229,Workable,Boston,Massachusetts,USA,North America,25,05-05-2020,10,250,225,HR,Series C,84,2020
+230,Rubicon Project,Los Angeles,California,USA,North America,50,06-05-2020,8,625,575,Marketing,Post-IPO,60,2020
+231,Segment,San Francisco,California,USA,North America,50,06-05-2020,10,500,450,Data,Series D,283,2020
+232,Uber,San Francisco,California,USA,North America,3700,06-05-2020,14,26429,22729,Transportation,Post-IPO,24700,2020
+233,Flywire,Boston,Massachusetts,USA,North America,60,07-05-2020,12,500,440,Finance,Series E,263,2020
+234,Glassdoor,San Francisco,California,USA,North America,300,07-05-2020,30,1000,700,HR,Acquired,204,2020
+235,Jump,New York City,New York,USA,North America,500,07-05-2020,100,500,0,Transportation,Acquired,11,2020
+236,Numbrs,Zurich,Unknown,Switzerland,Europe,62,07-05-2020,50,124,62,Finance,Series B,78,2020
+237,Tally,San Francisco,California,USA,North America,28,07-05-2020,23,122,94,Finance,Series C,92,2020
+238,N26,New York City,New York,USA,North America,9,08-05-2020,1,900,891,Finance,Series D,782,2020
+239,Cadre,New York City,New York,USA,North America,28,11-05-2020,25,112,84,Real Estate,Series C,133,2020
+240,Revolut,London,Unknown,UK,Europe,60,11-05-2020,3,2000,1940,Finance,Series D,837,2020
+241,Hireology,Chicago,Illinois,USA,North America,36,12-05-2020,17,212,176,HR,Series D,52,2020
+242,Mixpanel,San Francisco,California,USA,North America,65,12-05-2020,19,342,277,Data,Series B,77,2020
+243,Top Hat,Toronto,Unknown,Canada,North America,16,12-05-2020,3,533,517,Education,Series D,104,2020
+244,Zeus Living,San Francisco,California,USA,North America,73,12-05-2020,50,146,73,Real Estate,Series B,79,2020
+245,Deliv,Menlo Park,California,USA,North America,669,13-05-2020,100,669,0,Retail,Series C,80,2020
+246,Kickstarter,New York City,New York,USA,North America,25,13-05-2020,18,139,114,Finance,Unknown,10,2020
+247,Mercos,Joinville,Unknown,Brazil,South America,51,13-05-2020,40,128,77,Sales,Unknown,2,2020
+248,Cruise,San Francisco,California,USA,North America,150,14-05-2020,8,1875,1725,Transportation,Acquired,5300,2020
+249,Integral Ad Science,New York City,New York,USA,North America,70,14-05-2020,10,700,630,Marketing,Acquired,116,2020
+250,Ridecell,San Francisco,California,USA,North America,35,14-05-2020,15,233,198,Transportation,Series B,73,2020
+251,Lattice,San Francisco,California,USA,North America,16,15-05-2020,10,160,144,HR,Series C,49,2020
+252,Lendingkart,Ahmedabad,Unknown,India,Asia,500,15-05-2020,50,1000,500,Finance,Unknown,200,2020
+253,Zomato,Gurugram,Unknown,India,Asia,520,15-05-2020,13,4000,3480,Food,Series J,914,2020
+254,Swiggy,Bengaluru,Unknown,India,Asia,1100,18-05-2020,14,7857,6757,Food,Series I,1600,2020
+255,Uber,San Francisco,California,USA,North America,3000,18-05-2020,13,23077,20077,Transportation,Post-IPO,24700,2020
+256,WeWork,New Delhi,Unknown,India,Asia,100,18-05-2020,20,500,400,Real Estate,Series H,19500,2020
+257,Livspace,Bengaluru,Unknown,India,Asia,450,19-05-2020,15,3000,2550,Retail,Series D,157,2020
+258,Pollen,London,Unknown,UK,Europe,69,19-05-2020,31,223,154,Travel,Series B,88,2020
+259,Intercom,San Francisco,California,USA,North America,39,20-05-2020,6,650,611,Support,Series D,240,2020
+260,Ola,Bengaluru,Unknown,India,Asia,1400,20-05-2020,35,4000,2600,Transportation,Series J,3800,2020
+261,Samsara,San Francisco,California,USA,North America,300,20-05-2020,18,1667,1367,Logistics,Series F,530,2020
+262,ShareChat,Bengaluru,Unknown,India,Asia,101,20-05-2020,25,404,303,Marketing,Series D,222,2020
+263,SoFi,San Francisco,California,USA,North America,112,20-05-2020,7,1600,1488,Finance,Private Equity,2500,2020
+264,Stay Alfred,Spokane,Washington,USA,North America,221,20-05-2020,100,221,0,Travel,Series B,62,2020
+265,Cvent,Washington DC,District of Columbia,USA,North America,400,21-05-2020,10,4000,3600,Marketing,Acquired,146,2020
+266,Glitch,New York City,New York,USA,North America,18,21-05-2020,36,50,32,Product,Series A,30,2020
+267,PickYourTrail,Chennai,Unknown,India,Asia,70,21-05-2020,35,200,130,Travel,Series A,3,2020
+268,Bluprint,Denver,Colorado,USA,North America,137,26-05-2020,100,137,0,Education,Acquired,108,2020
+269,Uber,Bengaluru,Unknown,India,Asia,600,26-05-2020,23,2609,2009,Transportation,Post-IPO,24700,2020
+270,Ebanx,Curitiba,Unknown,Brazil,South America,62,27-05-2020,8,775,713,Finance,Unknown,30,2020
+271,Instructure,Salt Lake City,Utah,USA,North America,150,27-05-2020,12,1250,1100,Education,Acquired,89,2020
+272,BookMyShow,Mumbai,Unknown,India,Asia,270,28-05-2020,18,1500,1230,Consumer,Unknown,224,2020
+273,Culture Amp,Melbourne,Unknown,Australia,Oceana,36,28-05-2020,8,450,414,HR,Series E,157,2020
+274,The Sill,New York City,New York,USA,North America,20,28-05-2020,25,80,60,Retail,Series A,7,2020
+275,TrueCar,Los Angeles,California,USA,North America,219,28-05-2020,30,730,511,Transportation,Post-IPO,340,2020
+276,Brex,San Francisco,California,USA,North America,62,29-05-2020,15,413,351,Finance,Series C,732,2020
+277,Loftium,Seattle,Washington,USA,North America,32,29-05-2020,60,53,21,Real Estate,Series A,17,2020
+278,CrowdStreet,Portland,Oregon,USA,North America,24,01-06-2020,22,109,85,Real Estate,Series C,24,2020
+279,Stitch Fix,San Francisco,California,USA,North America,1400,01-06-2020,18,7778,6378,Retail,Post-IPO,79,2020
+280,Descartes Labs,Santa Fe,New Mexico,USA,North America,12,02-06-2020,16,75,63,Data,Series B,58,2020
+281,Fundbox,San Francisco,California,USA,North America,14,02-06-2020,15,93,79,Finance,Series C,453,2020
+282,Rivian,Detroit,Michigan,USA,North America,40,02-06-2020,2,2000,1960,Transportation,Post-IPO,10700,2020
+283,Credit Sesame,Mountain View,California,USA,North America,22,03-06-2020,14,157,135,Finance,Series F,120,2020
+284,Monzo,London,Unknown,UK,Europe,120,03-06-2020,8,1500,1380,Finance,Series F,324,2020
+285,SpotHero,Chicago,Illinois,USA,North America,40,03-06-2020,21,190,150,Transportation,Series D,117,2020
+286,Builder,Los Angeles,California,USA,North America,39,04-06-2020,14,279,240,Product,Series A,29,2020
+287,Lastline,Redwood City,California,USA,North America,50,04-06-2020,40,125,75,Security,Series C,52,2020
+288,Ethos Life,San Francisco,California,USA,North America,18,05-06-2020,14,129,111,Finance,Series C,106,2020
+289,The Athletic,San Francisco,California,USA,North America,46,05-06-2020,8,575,529,Media,Series D,139,2020
+290,Branch,New York City,New York,USA,North America,3,11-06-2020,27,11,8,Retail,Seed,2,2020
+291,SynapseFI,San Francisco,California,USA,North America,63,12-06-2020,48,131,68,Finance,Series B,50,2020
+292,Uber,Amsterdam,Unknown,Netherlands,Europe,225,12-06-2020,25,900,675,Transportation,Post-IPO,Null,2020
+293,Grab,Singapore,Unknown,Singapore,Asia,360,16-06-2020,5,7200,6840,Transportation,Series I,Null,2020
+294,PaisaBazaar,Gurugram,Unknown,India,Asia,1500,16-06-2020,50,3000,1500,Finance,Series G,496,2020
+295,Redox,Madison,Wisconsin,USA,North America,44,16-06-2020,25,176,132,Healthcare,Series C,50,2020
+296,Splunk,San Jose,California,USA,North America,70,16-06-2020,1,7000,6930,Data,Post-IPO,40,2020
+297,Navi,Bengaluru,Unknown,India,Asia,40,17-06-2020,25,160,120,Finance,Private Equity,582,2020
+298,Intuit,Mountain View,California,USA,North America,715,22-06-2020,7,10214,9499,Finance,Post-IPO,18,2020
+299,Dark,San Francisco,California,USA,North America,6,23-06-2020,100,6,0,Product,Seed,3,2020
+300,Gojek,Jakarta,Unknown,Indonesia,Asia,430,23-06-2020,9,4778,4348,Transportation,Series F,4800,2020
+301,ScaleFactor,Austin,Texas,USA,North America,90,23-06-2020,90,100,10,Finance,Series C,103,2020
+302,Sonos,New York City,New York,USA,North America,174,24-06-2020,12,1450,1276,Consumer,Post-IPO,455,2020
+303,Bounce,Bengaluru,Unknown,India,Asia,130,29-06-2020,22,591,461,Transportation,Series D,214,2020
+304,Katerra,Menlo Park,California,USA,North America,400,29-06-2020,7,5714,5314,Construction,Series E,1300,2020
+305,G2,Chicago,Illinois,USA,North America,17,30-06-2020,5,340,323,Marketing,Series C,101,2020
+306,Zilingo,Singapore,Unknown,Singapore,Asia,100,09-07-2020,12,833,733,Retail,Series D,307,2020
+307,Skyscanner,Edinburgh,Unknown,UK,Europe,300,14-07-2020,20,1500,1200,Travel,Acquired,197,2020
+308,Optimizely,San Francisco,California,USA,North America,60,15-07-2020,15,400,340,Marketing,Series D,251,2020
+309,Lighter Capital,Seattle,Washington,USA,North America,22,20-07-2020,49,45,23,Finance,Series B,15,2020
+310,LinkedIn,Sunnyvale,California,USA,North America,960,21-07-2020,6,16000,15040,HR,Acquired,154,2020
+311,Checkr,San Francisco,California,USA,North America,64,23-07-2020,12,533,469,HR,Series D,309,2020
+312,Swiggy,Bengaluru,Unknown,India,Asia,350,27-07-2020,5,7000,6650,Food,Series I,1600,2020
+313,Zeitgold,Berlin,Berlin,Germany,Europe,75,27-07-2020,72,104,29,Finance,Series B,60,2020
+314,Procore,Los Angeles,California,USA,North America,180,28-07-2020,9,2000,1820,Construction,Unknown,649,2020
+315,Buy.com,San Mateo,California,USA,North America,87,30-07-2020,100,87,0,Retail,Acquired,42,2020
+316,Thriver,Toronto,Unknown,Canada,North America,75,06-08-2020,50,150,75,Food,Series B,53,2020
+317,Glossier,New York City,New York,USA,North America,150,07-08-2020,38,395,245,Retail,Series D,186,2020
+318,Eatsy,Singapore,Unknown,Singapore,Asia,20,08-08-2020,100,20,0,Food,Seed,1,2020
+319,Mozilla,San Francisco,California,USA,North America,250,11-08-2020,25,1000,750,Consumer,Unknown,2,2020
+320,Docly,London,Unknown,UK,Europe,8,19-08-2020,80,10,2,Healthcare,Seed,16,2020
+321,SaleSan Francisco Bay Areaorce,San Francisco,California,USA,North America,1000,26-08-2020,2,50000,49000,Sales,Post-IPO,65,2020
+322,MakeMyTrip,New Delhi,Unknown,India,Asia,350,31-08-2020,10,3500,3150,Travel,Post-IPO,548,2020
+323,GoBear,Singapore,Unknown,Singapore,Asia,22,01-09-2020,11,200,178,Finance,Unknown,97,2020
+324,Waze,Palo Alto,California,USA,North America,30,09-09-2020,5,600,570,Transportation,Acquired,67,2020
+325,NS8,Las Vegas,Nevada,USA,North America,240,11-09-2020,95,253,13,Data,Series A,158,2020
+326,Alto Pharmacy,San Francisco,California,USA,North America,47,29-09-2020,6,783,736,Healthcare,Series D,356,2020
+327,GetYourGuide,Berlin,Berlin,Germany,Europe,90,14-10-2020,17,529,439,Travel,Series E,656,2020
+328,Knotel,New York City,New York,USA,North America,20,29-10-2020,8,250,230,Real Estate,Series C,560,2020
+329,Worksmith,Austin,Texas,USA,North America,30,09-11-2020,50,60,30,Retail,Unknown,4,2020
+330,Bridge Connector,Nashville,Tennessee,USA,North America,154,17-11-2020,100,154,0,Healthcare,Series B,45,2020
+331,Aya,Toronto,Unknown,Canada,North America,5,19-11-2020,25,20,15,Finance,Seed,3,2020
+332,Breather,Montreal,Unknown,Canada,North America,120,16-12-2020,80,150,30,Real Estate,Series D,131,2020
+333,Dropbox,San Francisco,California,USA,North America,315,13-01-2021,15,2100,1785,Other,Post-IPO,1700,2021
+334,Pocketmath,Singapore,Unknown,Singapore,Asia,21,20-01-2021,100,21,0,Marketing,Unknown,20,2021
+335,Postmates,San Francisco,California,USA,North America,180,23-01-2021,15,1200,1020,Food,Acquired,763,2021
+336,Hubba,Toronto,Unknown,Canada,North America,45,01-02-2021,100,45,0,Retail,Series B,61,2021
+337,Quandoo,Berlin,Berlin,Germany,Europe,87,03-02-2021,20,435,348,Food,Acquired,39,2021
+338,Bounce,Bengaluru,Unknown,India,Asia,200,22-02-2021,40,500,300,Transportation,Series D,214,2021
+339,New Relic,San Francisco,California,USA,North America,160,06-04-2021,7,2286,2126,Infrastructure,Post-IPO,215,2021
+340,Katerra,Menlo Park,California,USA,North America,2434,01-06-2021,100,2434,0,Construction,Unknown,1600,2021
+341,Flockjay,San Francisco,California,USA,North America,37,24-08-2021,50,74,37,Education,Series A,14,2021
+342,Treehouse,Portland,Oregon,USA,North America,41,14-09-2021,90,46,5,Education,Series B,12,2021
+343,Zillow,Seattle,Washington,USA,North America,2000,02-11-2021,25,8000,6000,Real Estate,Post-IPO,97,2021
+344,BitTitan,Seattle,Washington,USA,North America,70,18-11-2021,27,259,189,Data,Acquired,46,2021
+345,Better.com,New York City,New York,USA,North America,900,01-12-2021,9,10000,9100,Real Estate,Unknown,905,2021
+346,Delivery Hero,Berlin,Berlin,Germany,Europe,300,22-12-2021,7,4286,3986,Food,Post-IPO,Null,2021
+347,Glossier,New York City,New York,USA,North America,80,26-01-2022,33,242,162,Consumer,Series E,266,2022
+349,Rhino,New York City,New York,USA,North America,57,03-02-2022,20,285,228,Real Estate,Unknown,133,2022
+350,Peloton,New York City,New York,USA,North America,2800,08-02-2022,20,14000,11200,Fitness,Post-IPO,1900,2022
+351,Daily Harvest,New York City,New York,USA,North America,60,10-02-2022,20,300,240,Food,Series D,120,2022
+352,Hopin,London,Unknown,UK,Europe,138,10-02-2022,12,1150,1012,Other,Series D,1000,2022
+353,Homie,Salt Lake City,Utah,USA,North America,119,14-02-2022,29,410,291,Real Estate,Series B,35,2022
+354,Liv Up,Sao Paulo,Unknown,Brazil,South America,100,16-02-2022,15,667,567,Food,Series D,118,2022
+355,Virgin Hyperloop,Los Angeles,California,USA,North America,111,21-02-2022,50,222,111,Transportation,Unknown,368,2022
+356,Wish,San Francisco,California,USA,North America,190,01-03-2022,15,1267,1077,Retail,Post-IPO,1600,2022
+357,Hyperscience,New York City,New York,USA,North America,100,03-03-2022,25,400,300,Data,Series E,289,2022
+358,Adaptive Biotechnology,Seattle,Washington,USA,North America,100,08-03-2022,12,833,733,Healthcare,Post-IPO,406,2022
+359,Better.com,New York City,New York,USA,North America,3000,08-03-2022,33,9091,6091,Real Estate,Unknown,905,2022
+360,Knock,New York City,New York,USA,North America,115,15-03-2022,46,250,135,Real Estate,Unknown,654,2022
+361,Trell,Bengaluru,Unknown,India,Asia,300,15-03-2022,50,600,300,Retail,Series B,62,2022
+362,Storytel,Stockholm,Unknown,Sweden,Europe,100,17-03-2022,10,1000,900,Media,Post-IPO,275,2022
+363,Gopuff,Philadelphia,Pennsylvania,USA,North America,450,29-03-2022,3,15000,14550,Food,Series H,3400,2022
+364,Thinkific,Vancouver,Unknown,Canada,North America,100,29-03-2022,20,500,400,Education,Post-IPO,22,2022
+365,Rasa,Berlin,Berlin,Germany,Europe,59,30-03-2022,40,148,89,Data,Series B,40,2022
+366,Legible,Vancouver,Unknown,Canada,North America,23,04-04-2022,38,61,38,Media,Post-IPO,3,2022
+367,Unacademy,Bengaluru,Unknown,India,Asia,1000,07-04-2022,17,5882,4882,Education,Series H,838,2022
+368,Food52,New York City,New York,USA,North America,20,08-04-2022,10,200,180,Food,Acquired,176,2022
+369,Rad Power Bikes,Seattle,Washington,USA,North America,100,12-04-2022,14,714,614,Transportation,Series D,329,2022
+370,Ahead,San Francisco,California,USA,North America,44,14-04-2022,100,44,0,Healthcare,Unknown,9,2022
+371,Blend,San Francisco,California,USA,North America,200,19-04-2022,10,2000,1800,Finance,Post-IPO,665,2022
+372,QuintoAndar,Sao Paulo,Unknown,Brazil,South America,160,19-04-2022,4,4000,3840,Real Estate,Series E,755,2022
+373,Facily,Sao Paulo,Unknown,Brazil,South America,260,20-04-2022,30,867,607,Retail,Series D,502,2022
+374,Xiaohongshu,Shanghai,Unknown,China,Asia,180,21-04-2022,9,2000,1820,Consumer,Series E,917,2022
+375,Bonsai,Toronto,Unknown,Canada,North America,29,26-04-2022,34,85,56,Retail,Series A,27,2022
+376,Robinhood,Menlo Park,California,USA,North America,340,26-04-2022,9,3778,3438,Finance,Post-IPO,5600,2022
+377,Domestika,Berkeley,California,USA,North America,150,28-04-2022,19,789,639,Education,Series D,130,2022
+378,Avo,Tel Aviv,Unknown,Israel,Asia,500,01-05-2022,67,746,246,Food,Series B,45,2022
+379,Cameo,Chicago,Illinois,USA,North America,87,04-05-2022,25,348,261,Consumer,Unknown,165,2022
+380,Mainstreet,San Francisco,California,USA,North America,45,04-05-2022,30,150,105,Finance,Series A,64,2022
+381,SEND,Sydney,Unknown,Australia,Oceana,300,04-05-2022,100,300,0,Food,Seed,3,2022
+382,Mural,San Francisco,California,USA,North America,90,05-05-2022,10,900,810,Product,Series C,192,2022
+383,On Deck,San Francisco,California,USA,North America,72,05-05-2022,25,288,216,Education,Series A,20,2022
+384,Vedantu,Bengaluru,Unknown,India,Asia,200,05-05-2022,3,6667,6467,Education,Series E,292,2022
+385,Reef,Miami,Florida,USA,North America,750,06-05-2022,5,15000,14250,Transportation,Unknown,Null,2022
+386,Meero,Paris,Unknown,France,Europe,350,09-05-2022,50,700,350,Other,Series C,293,2022
+387,Vroom,New York City,New York,USA,North America,270,09-05-2022,14,1929,1659,Transportation,Post-IPO,Null,2022
+388,Carvana,Phoenix,Arizona,USA,North America,2500,10-05-2022,12,20833,18333,Transportation,Post-IPO,Null,2022
+389,Doma,Huntington Beach,California,USA,North America,310,10-05-2022,15,2067,1757,Finance,Post-IPO,679,2022
+390,Latch,New York City,New York,USA,North America,30,10-05-2022,6,500,470,Security,Post-IPO,342,2022
+391,Pollen,London,Unknown,UK,Europe,200,10-05-2022,33,606,406,Travel,Series C,238,2022
+392,DataRobot,Boston,Massachusetts,USA,North America,70,11-05-2022,7,1000,930,Data,Series G,1000,2022
+393,AliExpress Russia,Moscow,Unknown,Russia,Europe,400,14-05-2022,40,1000,600,Retail,Acquired,60,2022
+394,Zak,Sao Paulo,Unknown,Brazil,South America,100,16-05-2022,40,250,150,Food,Series A,29,2022
+395,Kry,Stockholm,Unknown,Sweden,Europe,100,17-05-2022,10,1000,900,Healthcare,Series D,568,2022
+396,Netflix,Los Gatos,California,USA,North America,150,17-05-2022,1,15000,14850,Media,Post-IPO,121900,2022
+397,Picsart,Miami,Florida,USA,North America,90,17-05-2022,8,1125,1035,Consumer,Series C,195,2022
+398,Vedantu,Bengaluru,Unknown,India,Asia,424,18-05-2022,7,6057,5633,Education,Series E,292,2022
+399,Cars24,Gurugram,Unknown,India,Asia,600,19-05-2022,6,10000,9400,Transportation,Series G,1300,2022
+400,Latch,New York City,New York,USA,North America,130,20-05-2022,28,464,334,Security,Post-IPO,342,2022
+401,Outside,Boulder,Colorado,USA,North America,87,20-05-2022,15,580,493,Media,Series B,174,2022
+402,Skillz,San Francisco,California,USA,North America,70,20-05-2022,10,700,630,Consumer,Post-IPO,287,2022
+403,MFine,Bengaluru,Unknown,India,Asia,600,21-05-2022,75,800,200,Healthcare,Series C,97,2022
+404,Airtime,New York City,New York,USA,North America,30,23-05-2022,20,150,120,Consumer,Series B,33,2022
+405,BeyondMinds,Tel Aviv,Unknown,Israel,Asia,65,23-05-2022,100,65,0,Data,Series A,16,2022
+406,Buenbit,Buenos Aires,Unknown,Argentina,South America,80,23-05-2022,45,178,98,Crypto,Series A,11,2022
+407,ClickUp,San Diego,California,USA,North America,60,23-05-2022,7,857,797,Other,Series C,537,2022
+408,Klarna,Stockholm,Unknown,Sweden,Europe,700,23-05-2022,10,7000,6300,Finance,Unknown,3700,2022
+409,Gorillas,Berlin,Berlin,Germany,Europe,300,24-05-2022,50,600,300,Food,Series C,1300,2022
+410,Bolt,San Francisco,California,USA,North America,240,25-05-2022,27,889,649,Finance,Series E,1300,2022
+411,Coterie Insurance,Cincinnati,Ohio,USA,North America,30,25-05-2022,20,150,120,Finance,Series B,70,2022
+412,Kontist,Berlin,Berlin,Germany,Europe,50,25-05-2022,25,200,150,Finance,Series B,53,2022
+413,Lacework,Mountain View,California,USA,North America,300,25-05-2022,20,1500,1200,Security,Series D,1900,2022
+414,Nuri,Berlin,Berlin,Germany,Europe,45,25-05-2022,20,225,180,Finance,Series B,42,2022
+415,Bitso,Mexico City,Unknown,Mexico,North America,80,26-05-2022,11,727,647,Crypto,Series C,378,2022
+416,VTEX,Sao Paulo,Unknown,Brazil,South America,200,26-05-2022,13,1538,1338,Retail,Post-IPO,365,2022
+417,FrontRow,Bengaluru,Unknown,India,Asia,145,27-05-2022,30,483,338,Education,Series A,17,2022
+418,Uncapped,London,Unknown,UK,Europe,29,27-05-2022,26,112,83,Finance,Unknown,118,2022
+419,Mobile Premier League,Bengaluru,Unknown,India,Asia,100,30-05-2022,10,1000,900,Consumer,Series E,375,2022
+420,SumUp,Sao Paulo,Unknown,Brazil,South America,100,30-05-2022,3,3333,3233,Finance,Unknown,50,2022
+421,SWVL,Dubai,Unknown,United Arabian Emirates,Asia,400,30-05-2022,32,1250,850,Transportation,Post-IPO,132,2022
+422,BookClub,Salt Lake City,Utah,USA,North America,12,31-05-2022,25,48,36,Education,Series A,26,2022
+423,Tomo,Stamford,Connecticut,USA,North America,44,31-05-2022,33,133,89,Finance,Series A,110,2022
+424,2TM,Sao Paulo,Unknown,Brazil,South America,90,01-06-2022,12,750,660,Crypto,Unknown,250,2022
+425,Curve,London,Unknown,UK,Europe,65,01-06-2022,10,650,585,Finance,Series C,182,2022
+426,Cybereason,Boston,Massachusetts,USA,North America,100,01-06-2022,6,1667,1567,Security,Series F,750,2022
+427,Impala,London,Unknown,UK,Europe,30,01-06-2022,35,86,56,Travel,Series B,32,2022
+428,Loom,San Francisco,California,USA,North America,34,01-06-2022,14,243,209,Product,Series C,203,2022
+429,Udayy,Gurugram,Unknown,India,Asia,100,01-06-2022,100,100,0,Education,Seed,2,2022
+430,Carbon Health,San Francisco,California,USA,North America,250,02-06-2022,8,3125,2875,Healthcare,Series D,522,2022
+431,Gather,Palo Alto,California,USA,North America,30,02-06-2022,33,91,61,Consumer,Series B,76,2022
+432,Gemini,New York City,New York,USA,North America,100,02-06-2022,10,1000,900,Crypto,Unknown,423,2022
+433,IRL,Berkeley,California,USA,North America,25,02-06-2022,25,100,75,Consumer,Series C,197,2022
+434,PolicyGenius,New York City,New York,USA,North America,170,02-06-2022,25,680,510,Finance,Series E,286,2022
+435,Stord,Atlanta,Georgia,USA,North America,59,02-06-2022,8,738,679,Logistics,Series D,325,2022
+436,Yojak,Gurugram,Unknown,India,Asia,140,02-06-2022,50,280,140,Construction,Seed,3,2022
+437,Food52,New York City,New York,USA,North America,21,03-06-2022,15,140,119,Food,Acquired,176,2022
+438,Superhuman,San Francisco,California,USA,North America,23,03-06-2022,22,105,82,Consumer,Series C,108,2022
+439,Dutchie,Bend,Oregon,USA,North America,50,06-06-2022,7,714,664,Other,Series D,603,2022
+440,Bird,Los Angeles,California,USA,North America,138,07-06-2022,23,600,462,Transportation,Post-IPO,783,2022
+441,Cazoo,London,Unknown,UK,Europe,750,07-06-2022,15,5000,4250,Transportation,Post-IPO,2000,2022
+442,Rupeek,Bengaluru,Unknown,India,Asia,180,07-06-2022,15,1200,1020,Finance,Unknown,172,2022
+443,iPrice Group,Kuala Lumpur,Unknown,Malaysia,Asia,50,08-06-2022,20,250,200,Retail,Unknown,26,2022
+444,Sonder,San Francisco,California,USA,North America,250,08-06-2022,21,1190,940,Travel,Post-IPO,839,2022
+445,Truepill,Hayward,California,USA,North America,150,08-06-2022,15,1000,850,Healthcare,Series D,255,2022
+446,Boozt,Malmö,Unknown,Sweden,Europe,70,09-06-2022,5,1400,1330,Retail,Post-IPO,56,2022
+447,Convoy,Seattle,Washington,USA,North America,90,09-06-2022,7,1286,1196,Logistics,Series E,1100,2022
+448,Hologram,Chicago,Illinois,USA,North America,80,09-06-2022,40,200,120,Infrastructure,Series B,82,2022
+449,OneTrust,Atlanta,Georgia,USA,North America,950,09-06-2022,25,3800,2850,Security,Series C,926,2022
+450,Preply,Boston,Massachusetts,USA,North America,26,09-06-2022,5,520,494,Education,Series C,100,2022
+451,Stashaway,Singapore,Unknown,Singapore,Asia,31,09-06-2022,14,221,190,Finance,Series D,61,2022
+452,Stitch Fix,San Francisco,California,USA,North America,330,09-06-2022,15,2200,1870,Retail,Post-IPO,79,2022
+453,The Grommet,Boston,Massachusetts,USA,North America,40,09-06-2022,100,40,0,Retail,Acquired,5,2022
+454,Albert,Los Angeles,California,USA,North America,20,10-06-2022,8,250,230,Finance,Series C,175,2022
+455,Berlin Brands Group,Berlin,Berlin,Germany,Europe,100,10-06-2022,10,1000,900,Retail,Unknown,1000,2022
+456,Crypto.com,Singapore,Unknown,Singapore,Asia,260,10-06-2022,5,5200,4940,Crypto,Unknown,156,2022
+457,FarEye,New Delhi,Unknown,India,Asia,250,10-06-2022,30,833,583,Logistics,Series E,150,2022
+458,Freetrade,London,Unknown,UK,Europe,45,10-06-2022,15,300,255,Finance,Unknown,133,2022
+459,Sanar,Sao Paulo,Unknown,Brazil,South America,60,10-06-2022,20,300,240,Healthcare,Unknown,11,2022
+460,BlockFi,New York City,New York,USA,North America,250,13-06-2022,20,1250,1000,Crypto,Series E,1000,2022
+461,Studio,San Francisco,California,USA,North America,33,13-06-2022,40,83,50,Education,Series B,50,2022
+462,Wave Sports and Entertainment,Los Angeles,California,USA,North America,56,13-06-2022,33,170,114,Media,Series B,65,2022
+463,Breathe,New Delhi,Unknown,India,Asia,50,14-06-2022,33,152,102,Healthcare,Series A,6,2022
+464,Coinbase,San Francisco,California,USA,North America,1100,14-06-2022,18,6111,5011,Crypto,Post-IPO,549,2022
+465,Compass,New York City,New York,USA,North America,450,14-06-2022,10,4500,4050,Real Estate,Post-IPO,Null,2022
+466,Redfin,Seattle,Washington,USA,North America,470,14-06-2022,8,5875,5405,Real Estate,Post-IPO,319,2022
+467,Sami,Sao Paulo,Unknown,Brazil,South America,75,14-06-2022,15,500,425,Healthcare,Unknown,36,2022
+468,TIFIN,Boulder,Colorado,USA,North America,24,14-06-2022,10,240,216,Crypto,Series D,204,2022
+469,Notarize,Boston,Massachusetts,USA,North America,110,15-06-2022,25,440,330,Legal,Series D,213,2022
+470,OpenWeb,Tel Aviv,Unknown,Israel,Asia,14,15-06-2022,5,280,266,Media,Series E,223,2022
+471,Swappie,Helsinki,Unknown,Finland,Europe,250,15-06-2022,17,1471,1221,Retail,Series C,169,2022
+472,Swyft,Toronto,Unknown,Canada,North America,10,15-06-2022,30,33,23,Logistics,Series A,20,2022
+473,Tonkean,Palo Alto,California,USA,North America,23,15-06-2022,23,100,77,Other,Series B,83,2022
+474,Wealthsimple,Toronto,Unknown,Canada,North America,159,15-06-2022,13,1223,1064,Finance,Unknown,900,2022
+475,Weee!,Fremont,California,USA,North America,150,15-06-2022,10,1500,1350,Food,Series E,863,2022
+476,JOKR,New York City,New York,USA,North America,50,16-06-2022,5,1000,950,Food,Series B,430,2022
+477,Zumper,San Francisco,California,USA,North America,45,16-06-2022,15,300,255,Real Estate,Series D,178,2022
+478,Finite State,Columbus,Ohio,USA,North America,16,17-06-2022,20,80,64,Security,Series B,49,2022
+479,Socure,Reno,Nevada,USA,North America,69,17-06-2022,13,531,462,Finance,Series E,646,2022
+480,Unacademy,Bengaluru,Unknown,India,Asia,150,18-06-2022,3,5000,4850,Education,Series H,838,2022
+481,BitOasis,Dubai,Unknown,United Arabian Emirates,Asia,9,19-06-2022,5,180,171,Crypto,Series B,30,2022
+482,CityMall,Gurugram,Unknown,India,Asia,191,19-06-2022,30,637,446,Retail,Series C,112,2022
+483,Aqgromalin,Chennai,Unknown,India,Asia,80,20-06-2022,30,267,187,Food,Unknown,12,2022
+484,Bonsai,Toronto,Unknown,Canada,North America,30,20-06-2022,55,55,25,Retail,Series A,27,2022
+485,Brighte,Sydney,Unknown,Australia,Oceana,30,20-06-2022,15,200,170,Energy,Series C,145,2022
+486,SummerBio,Menlo Park,California,USA,North America,101,20-06-2022,100,101,0,Healthcare,Unknown,7,2022
+487,Trax,Singapore,Unknown,Singapore,Asia,100,20-06-2022,12,833,733,Retail,Series E,1000,2022
+488,Community,Los Angeles,California,USA,North America,40,21-06-2022,30,133,93,Marketing,Unknown,40,2022
+489,Ebanx,Curitiba,Unknown,Brazil,South America,340,21-06-2022,20,1700,1360,Finance,Series B,460,2022
+490,Sourcegraph,San Francisco,California,USA,North America,24,21-06-2022,8,300,276,Product,Series D,248,2022
+491,IronNet,Washington DC,District of Columbia,USA,North America,90,22-06-2022,35,257,167,Security,Post-IPO,410,2022
+492,MasterClass,San Francisco,California,USA,North America,120,22-06-2022,20,600,480,Education,Series E,461,2022
+493,Ritual,Toronto,Unknown,Canada,North America,23,22-06-2022,16,144,121,Food,Series C,134,2022
+494,Superpedestrian,Boston,Massachusetts,USA,North America,35,22-06-2022,7,500,465,Transportation,Series C,261,2022
+495,Voi,Stockholm,Unknown,Sweden,Europe,35,22-06-2022,10,350,315,Transportation,Series D,515,2022
+496,Aura,Boston,Massachusetts,USA,North America,70,23-06-2022,9,778,708,Security,Series F,500,2022
+497,Netflix,Los Gatos,California,USA,North America,300,23-06-2022,3,10000,9700,Media,Post-IPO,121900,2022
+498,Pipl,Spokane,Washington,USA,North America,22,23-06-2022,13,169,147,Security,Unknown,19,2022
+499,Vouch,San Francisco,California,USA,North America,15,23-06-2022,7,214,199,Finance,Series C,159,2022
+500,Voyage SMS,Los Angeles,California,USA,North America,8,23-06-2022,13,62,54,Marketing,Unknown,10,2022
+501,Bestow,Dallas,Texas,USA,North America,41,24-06-2022,14,293,252,Finance,Series C,137,2022
+502,Bitpanda,Vienna,Unknown,Austria,Europe,270,24-06-2022,27,1000,730,Crypto,Series C,546,2022
+503,Ethos Life,San Francisco,California,USA,North America,40,24-06-2022,12,333,293,Finance,Series D,406,2022
+504,Sunday,Atlanta,Georgia,USA,North America,90,24-06-2022,23,391,301,Finance,Series A,124,2022
+505,AppLovin,Palo Alto,California,USA,North America,300,27-06-2022,12,2500,2200,Marketing,Post-IPO,1600,2022
+506,Banxa,Melbourne,Unknown,Australia,Oceana,70,27-06-2022,30,233,163,Crypto,Post-IPO,13,2022
+507,SafeGraph,San Francisco,California,USA,North America,27,27-06-2022,25,108,81,Data,Series B,61,2022
+508,Udaan,Bengaluru,Unknown,India,Asia,180,27-06-2022,4,4500,4320,Retail,Unknown,Null,2022
+509,UiPath,New York City,New York,USA,North America,210,27-06-2022,5,4200,3990,Data,Post-IPO,2000,2022
+510,Bright Machines,San Francisco,California,USA,North America,30,28-06-2022,8,375,345,Data,Unknown,250,2022
+511,HealthMatch,Sydney,Unknown,Australia,Oceana,18,28-06-2022,50,36,18,Healthcare,Series B,20,2022
+512,Huobi,Bejing,Unknown,China,Asia,300,28-06-2022,30,1000,700,Crypto,Unknown,2,2022
+513,Sidecar Health,Los Angeles,California,USA,North America,110,28-06-2022,40,275,165,Healthcare,Series C,163,2022
+514,StockX,Detroit,Michigan,USA,North America,120,28-06-2022,8,1500,1380,Retail,Series E,690,2022
+515,Vezeeta,Dubai,Unknown,United Arabian Emirates,Asia,50,28-06-2022,10,500,450,Healthcare,Series D,71,2022
+516,Baton,San Francisco,California,USA,North America,16,29-06-2022,25,64,48,Transportation,Series A,13,2022
+517,Clutch,Toronto,Unknown,Canada,North America,76,29-06-2022,22,345,269,Transportation,Series B,153,2022
+518,Niantic,San Francisco,California,USA,North America,85,29-06-2022,8,1063,978,Consumer,Series D,770,2022
+519,Oye Rickshaw,New Delhi,Unknown,India,Asia,40,29-06-2022,20,200,160,Transportation,Unknown,13,2022
+520,Qumulo,Seattle,Washington,USA,North America,80,29-06-2022,19,421,341,Data,Series E,347,2022
+521,Rows,Berlin,Berlin,Germany,Europe,18,29-06-2022,30,60,42,Other,Series B,25,2022
+522,Substack,San Francisco,California,USA,North America,13,29-06-2022,14,93,80,Media,Series B,82,2022
+523,Unity,San Francisco,California,USA,North America,200,29-06-2022,4,5000,4800,Other,Post-IPO,1300,2022
+524,Abra,Mountain View,California,USA,North America,12,30-06-2022,5,240,228,Crypto,Series C,106,2024
+525,Crejo.Fun,Bengaluru,Unknown,India,Asia,170,30-06-2022,100,170,0,Education,Seed,3,2022
+526,Enjoy,Mountain View,California,USA,North America,400,30-06-2022,18,2222,1822,Retail,Post-IPO,310,2022
+527,Finleap Connect,Hamburg,Hamburg,Germany,Europe,14,30-06-2022,10,140,126,Finance,Series A,22,2022
+528,Nate,New York City,New York,USA,North America,30,30-06-2022,20,150,120,Retail,Series A,47,2022
+529,Stash Financial,New York City,New York,USA,North America,40,30-06-2022,8,500,460,Finance,Unknown,480,2022
+530,Stream,Boulder,Colorado,USA,North America,20,30-06-2022,12,167,147,Product,Series B,58,2022
+531,Canoo,Los Angeles,California,USA,North America,58,01-07-2022,6,967,909,Transportation,Post-IPO,300,2022
+532,Teleport,Oakland,California,USA,North America,15,01-07-2022,6,250,235,Infrastructure,Series C,169,2022
+533,WanderJaunt,San Francisco,California,USA,North America,85,01-07-2022,100,85,0,Travel,Series B,26,2022
+534,Celsius,New York City,New York,USA,North America,150,03-07-2022,25,600,450,Crypto,Series B,864,2022
+535,Lendis,Berlin,Berlin,Germany,Europe,18,04-07-2022,15,120,102,Other,Series A,90,2022
+536,Lightricks,Jerusalem,Unknown,Israel,Asia,80,04-07-2022,12,667,587,Consumer,Series D,335,2022
+537,Sendle,Sydney,Unknown,Australia,Oceana,27,04-07-2022,12,225,198,Logistics,Series C,69,2022
+538,Bizzabo,New York City,New York,USA,North America,120,05-07-2022,30,400,280,Marketing,Series E,194,2022
+539,Bullish,Hong Kong,Unknown,Hong Kong,Asia,30,05-07-2022,8,375,345,Crypto,Unknown,300,2022
+540,eToro,Tel Aviv,Unknown,Israel,Asia,100,05-07-2022,6,1667,1567,Finance,Unknown,322,2022
+541,Loft,Sao Paulo,Unknown,Brazil,South America,384,05-07-2022,12,3200,2816,Real Estate,Unknown,788,2022
+542,Outschool,San Francisco,California,USA,North America,31,05-07-2022,18,172,141,Education,Series D,240,2022
+543,Syte,Tel Aviv,Unknown,Israel,Asia,13,05-07-2022,8,163,150,Retail,Series C,71,2022
+544,Thimble,New York City,New York,USA,North America,20,05-07-2022,33,61,41,Finance,Series A,28,2022
+545,Transmit Security,Boston,Massachusetts,USA,North America,27,05-07-2022,7,386,359,Security,Series A,583,2022
+546,Verbit,New York City,New York,USA,North America,80,05-07-2022,10,800,720,Data,Series E,569,2022
+547,Anodot,Tel Aviv,Unknown,Israel,Asia,35,06-07-2022,27,130,95,Data,Series C,64,2022
+548,Remote,San Francisco,California,USA,North America,100,06-07-2022,9,1111,1011,HR,Series C,496,2022
+549,SQream,New York City,New York,USA,North America,30,06-07-2022,18,167,137,Data,Series B,77,2022
+550,Argo AI,Pittsburgh,Pennsylvania,USA,North America,150,07-07-2022,5,3000,2850,Transportation,Unknown,Null,2022
+551,Emotive,Los Angeles,California,USA,North America,30,07-07-2022,18,167,137,Marketing,Series B,78,2022
+552,Next Insurance,Palo Alto,California,USA,North America,150,07-07-2022,17,882,732,Finance,Series E,881,2022
+553,Butler Hospitality,New York City,New York,USA,North America,1000,08-07-2022,100,1000,0,Food,Series B,50,2022
+554,Calibrate,New York City,New York,USA,North America,156,08-07-2022,24,650,494,Healthcare,Series B,127,2022
+555,Hopin,London,Unknown,UK,Europe,242,11-07-2022,29,834,592,Other,Series D,1000,2022
+556,SundaySky,New York City,New York,USA,North America,24,11-07-2022,13,185,161,Marketing,Series D,74,2022
+557,Gopuff,Philadelphia,Pennsylvania,USA,North America,1500,12-07-2022,10,15000,13500,Food,Series H,3400,2022
+558,Hubilo,San Francisco,California,USA,North America,45,12-07-2022,12,375,330,Marketing,Series B,153,2022
+559,Arrival,London,Unknown,UK,Europe,480,13-07-2022,30,1600,1120,Transportation,Post-IPO,629,2022
+560,Bryter,Berlin,Berlin,Germany,Europe,100,13-07-2022,30,333,233,Product,Series B,89,2022
+561,ChowNow,Los Angeles,California,USA,North America,100,13-07-2022,20,500,400,Food,Series C,64,2022
+562,Fabric,New York City,New York,USA,North America,120,13-07-2022,40,300,180,Logistics,Series C,336,2022
+563,Involves,Florianopolis,Unknown,Brazil,South America,70,13-07-2022,18,389,319,Retail,Unknown,23,2022
+564,Tonal,San Francisco,California,USA,North America,262,13-07-2022,35,749,487,Fitness,Series E,450,2022
+565,Wave,Dakar,Unknown,Senegal,Africa,300,13-07-2022,15,2000,1700,Finance,Series A,292,2022
+566,Kiavi,San Francisco,California,USA,North America,39,14-07-2022,7,557,518,Real Estate,Series E,240,2022
+567,The Mom Project,Chicago,Illinois,USA,North America,54,14-07-2022,15,360,306,HR,Series C,115,2022
+568,Unstoppable Do.,San Francisco,California,USA,North America,42,14-07-2022,25,168,126,Crypto,Series B,7,2022
+569,Zego,London,Unknown,UK,Europe,85,14-07-2022,17,500,415,Finance,Series C,202,2022
+570,Bright Money,Bengaluru,Unknown,India,Asia,100,15-07-2022,50,200,100,Finance,Series A,31,2022
+571,Heroes,London,Unknown,UK,Europe,24,15-07-2022,20,120,96,Retail,Unknown,265,2022
+572,Project44,Chicago,Illinois,USA,North America,63,15-07-2022,5,1260,1197,Logistics,Unknown,817,2022
+573,Gemini,New York City,New York,USA,North America,68,18-07-2022,7,971,903,Crypto,Unknown,423,2022
+574,Lusha,New York City,New York,USA,North America,30,18-07-2022,10,300,270,Marketing,Series B,245,2022
+575,Olive AI,Columbus,Ohio,USA,North America,450,19-07-2022,31,1452,1002,Healthcare,Series H,856,2022
+576,Flyhomes,Seattle,Washington,USA,North America,200,20-07-2022,20,1000,800,Real Estate,Series C,310,2022
+577,Forma.ai,Toronto,Unknown,Canada,North America,15,20-07-2022,9,167,152,Sales,Series B,58,2022
+578,Introhive,Ferdericton,Unknown,Canada,North America,57,20-07-2022,16,356,299,Sales,Series C,125,2022
+579,Lyft,San Francisco,California,USA,North America,60,20-07-2022,2,3000,2940,Transportation,Post-IPO,4900,2022
+580,Zencity,Tel Aviv,Unknown,Israel,Asia,30,20-07-2022,20,150,120,Other,Unknown,51,2022
+581,Blockchain.com,London,Unknown,UK,Europe,150,21-07-2022,25,600,450,Crypto,Series D,490,2022
+582,Lunchbox,New York City,New York,USA,North America,60,21-07-2022,33,182,122,Food,Series B,72,2022
+583,Rad Power Bikes,Seattle,Washington,USA,North America,63,21-07-2022,10,630,567,Transportation,Series D,329,2022
+584,RealSelf,Seattle,Washington,USA,North America,11,21-07-2022,5,220,209,Healthcare,Series B,42,2022
+585,WHOOP,Boston,Massachusetts,USA,North America,95,21-07-2022,15,633,538,Fitness,Series F,404,2022
+586,Clarify Health,San Francisco,California,USA,North America,15,22-07-2022,5,300,285,Healthcare,Series D,328,2022
+587,Eucalyptus,Sydney,Unknown,Australia,Oceana,50,22-07-2022,20,250,200,Healthcare,Series C,69,2022
+588,Quanto,Sao Paulo,Unknown,Brazil,South America,28,22-07-2022,22,127,99,Finance,Series A,15,2022
+589,Soluto,Tel Aviv,Unknown,Israel,Asia,120,24-07-2022,100,120,0,Support,Acquired,18,2022
+590,Pear Therapeutics,Boston,Massachusetts,USA,North America,25,25-07-2022,9,278,253,Healthcare,Post-IPO,409,2022
+591,Dover,San Jose,California,USA,North America,23,26-07-2022,30,77,54,HR,Series A,22,2022
+592,Fiverr,Tel Aviv,Unknown,Israel,Asia,60,26-07-2022,8,750,690,Other,Post-IPO,111,2022
+593,Immutable,Sydney,Unknown,Australia,Oceana,20,26-07-2022,6,333,313,Crypto,Series C,279,2022
+594,InDebted,Sydney,Unknown,Australia,Oceana,40,26-07-2022,17,235,195,Finance,Series B,41,2022
+595,Outbrain,New York City,New York,USA,North America,38,26-07-2022,3,1267,1229,Marketing,Post-IPO,394,2022
+596,Shopify,Ottawa,Unknown,Canada,North America,1000,26-07-2022,10,10000,9000,Retail,Post-IPO,122,2022
+597,Coinsquare,Toronto,Unknown,Canada,North America,30,27-07-2022,24,125,95,Crypto,Unknown,98,2022
+598,Rivian,Detroit,Michigan,USA,North America,840,27-07-2022,6,14000,13160,Transportation,Post-IPO,10700,2022
+599,Skai,Tel Aviv,Unknown,Israel,Asia,30,27-07-2022,4,750,720,Marketing,Series E,60,2022
+600,Vox Media,Washington DC,District of Columbia,USA,North America,39,27-07-2022,2,1950,1911,Media,Series F,307,2022
+601,Career Karma,San Francisco,California,USA,North America,60,28-07-2022,33,182,122,Education,Series B,51,2022
+602,Metromile,San Francisco,California,USA,North America,60,28-07-2022,20,300,240,Finance,Acquired,510,2022
+603,Clearco,Toronto,Unknown,Canada,North America,125,29-07-2022,25,500,375,Finance,Series C,681,2022
+604,Quantcast,San Francisco,California,USA,North America,40,29-07-2022,6,667,627,Marketing,Series C,65,2022
+605,Metigy,Sydney,Unknown,Australia,Oceana,75,31-07-2022,100,75,0,Marketing,Series B,18,2022
+606,Vee,Tel Aviv,Unknown,Israel,Asia,16,31-07-2022,32,50,34,HR,Seed,15,2022
+607,Hash,Sao Paulo,Unknown,Brazil,South America,58,01-08-2022,50,116,58,Finance,Series C,58,2022
+608,Glossier,New York City,New York,USA,North America,19,02-08-2022,8,238,219,Retail,Series E,266,2022
+609,Latch,New York City,New York,USA,North America,115,02-08-2022,37,311,196,Security,Post-IPO,342,2022
+610,Nylas,San Francisco,California,USA,North America,80,02-08-2022,25,320,240,Product,Series C,175,2022
+611,Outreach,Seattle,Washington,USA,North America,60,02-08-2022,5,1200,1140,Sales,Series G,489,2022
+612,Robinhood,Menlo Park,California,USA,North America,713,02-08-2022,23,3100,2387,Finance,Post-IPO,5600,2022
+613,Sendy,Nairobi,Unknown,Kenya,Africa,54,02-08-2022,20,270,216,Logistics,Series B,26,2022
+614,Sendy,Nairobi,Unknown,Kenya,Africa,30,02-08-2022,10,300,270,Logistics,Series B,26,2022
+615,Stedi,Boulder,Colorado,USA,North America,23,02-08-2022,30,77,54,Product,Series B,75,2022
+616,Beyond Meat,Los Angeles,California,USA,North America,40,03-08-2022,4,1000,960,Food,Post-IPO,122,2022
+617,Unbounce,Vancouver,Unknown,Canada,North America,47,03-08-2022,20,235,188,Marketing,Series A,39,2022
+618,10X Genomics,Pleasanton,California,USA,North America,100,04-08-2022,8,1250,1150,Healthcare,Post-IPO,242,2022
+619,Doma,Huntington Beach,California,USA,North America,250,04-08-2022,13,1923,1673,Finance,Post-IPO,679,2022
+620,Jam City,Los Angeles,California,USA,North America,200,04-08-2022,17,1176,976,Consumer,Unknown,652,2022
+621,LEAD,Mumbai,Unknown,India,Asia,80,04-08-2022,4,2000,1920,Education,Series E,166,2022
+622,On Deck,San Francisco,California,USA,North America,73,04-08-2022,33,221,148,Education,Series A,20,2022
+623,RenoRun,Montreal,Unknown,Canada,North America,70,04-08-2022,12,583,513,Construction,Series B,163,2022
+624,iRobot,Boston,Massachusetts,USA,North America,140,05-08-2022,10,1400,1260,Consumer,Acquired,30,2022
+625,Mejuri,Toronto,Unknown,Canada,North America,50,05-08-2022,10,500,450,Retail,Series B,28,2022
+626,Uberflip,Toronto,Unknown,Canada,North America,31,05-08-2022,17,182,151,Marketing,Series A,42,2022
+627,Groupon,Chicago,Illinois,USA,North America,500,08-08-2022,15,3333,2833,Retail,Post-IPO,Null,2022
+628,Loggi,Sao Paulo,Unknown,Brazil,South America,500,08-08-2022,15,3333,2833,Logistics,Series F,507,2022
+629,Perion,Tel Aviv,Unknown,Israel,Asia,20,08-08-2022,5,400,380,Marketing,Post-IPO,76,2022
+630,GoHealth,Chicago,Illinois,USA,North America,800,09-08-2022,20,4000,3200,Healthcare,Post-IPO,75,2022
+631,Hootsuite,Vancouver,Unknown,Canada,North America,400,09-08-2022,30,1333,933,Marketing,Series C,300,2022
+632,Linktree,Melbourne,Unknown,Australia,Oceana,50,09-08-2022,17,294,244,Consumer,Unknown,165,2022
+633,MadeiraMadeira,Curitiba,Unknown,Brazil,South America,60,09-08-2022,3,2000,1940,Retail,Series E,338,2022
+634,Nutanix,San Jose,California,USA,North America,270,09-08-2022,4,6750,6480,Infrastructure,Post-IPO,1100,2022
+635,Quanterix,Boston,Massachusetts,USA,North America,130,09-08-2022,25,520,390,Healthcare,Post-IPO,533,2022
+636,Shogun,Walnut,California,USA,North America,48,09-08-2022,30,160,112,Retail,Series C,114,2022
+637,Permutive,London,Unknown,UK,Europe,30,10-08-2022,12,250,220,Marketing,Series C,105,2022
+638,Trybe,Sao Paulo,Unknown,Brazil,South America,47,10-08-2022,10,470,423,Education,Series B,40,2022
+639,Calm,San Francisco,California,USA,North America,90,11-08-2022,20,450,360,Healthcare,Series C,218,2022
+640,FourKites,Chicago,Illinois,USA,North America,60,11-08-2022,8,750,690,Logistics,Series D,201,2022
+641,Marketforce,Nairobi,Unknown,Kenya,Africa,54,11-08-2022,9,600,546,Retail,Series A,42,2022
+642,Truepill,Hayward,California,USA,North America,175,11-08-2022,33,530,355,Healthcare,Series D,255,2022
+643,Peloton,New York City,New York,USA,North America,784,12-08-2022,13,6031,5247,Fitness,Post-IPO,1900,2022
+644,Blend,San Francisco,California,USA,North America,220,15-08-2022,12,1833,1613,Finance,Post-IPO,665,2022
+645,ContraFect,New York City,New York,USA,North America,16,15-08-2022,37,43,27,Healthcare,Post-IPO,380,2022
+646,Sema4,Stamford,Connecticut,USA,North America,250,15-08-2022,13,1923,1673,Healthcare,Post-IPO,791,2022
+647,AlayaCare,Montreal,Unknown,Canada,North America,80,16-08-2022,14,571,491,Healthcare,Series D,293,2022
+648,Pliops,Tel Aviv,Unknown,Israel,Asia,12,16-08-2022,9,133,121,Data,Series D,205,2022
+649,Woven,Indianapolis,Indiana,USA,North America,5,16-08-2022,15,33,28,HR,Series A,11,2022
+650,Malwarebytes,Santa Clara,California,USA,North America,125,17-08-2022,14,893,768,Security,Series B,80,2022
+651,New Relic,San Francisco,California,USA,North America,110,18-08-2022,5,2200,2090,Infrastructure,Post-IPO,214,2022
+652,Wheel,Austin,Texas,USA,North America,35,18-08-2022,17,206,171,Healthcare,Series C,215,2022
+653,Wayfair,Boston,Massachusetts,USA,North America,870,19-08-2022,5,17400,16530,Retail,Post-IPO,Null,2022
+654,Amperity,Seattle,Washington,USA,North America,13,20-08-2022,3,433,420,Marketing,Series D,187,2022
+655,NSO,Tel Aviv,Unknown,Israel,Asia,100,21-08-2022,14,714,614,Security,Seed,1,2022
+656,Tufin,Boston,Massachusetts,USA,North America,55,21-08-2022,10,550,495,Security,Acquired,21,2022
+657,DataRobot,Boston,Massachusetts,USA,North America,242,23-08-2022,26,931,689,Data,Series G,1000,2022
+658,Packable,New York City,New York,USA,North America,138,23-08-2022,20,690,552,Retail,Unknown,472,2022
+659,Plato,San Francisco,California,USA,North America,29,23-08-2022,50,58,29,HR,Seed,3,2022
+660,Q4,Toronto,Unknown,Canada,North America,50,23-08-2022,8,625,575,Other,Series C,91,2022
+661,Skedulo,San Francisco,California,USA,North America,31,23-08-2022,8,388,357,HR,Series C,114,2022
+662,Tier Mobility,Berlin,Berlin,Germany,Europe,180,23-08-2022,16,1125,945,Transportation,Series D,646,2022
+663,Loop,Austin,Texas,USA,North America,15,24-08-2022,20,75,60,Finance,Series A,24,2022
+664,Reali,San Mateo,California,USA,North America,140,24-08-2022,100,140,0,Real Estate,Series B,117,2022
+665,Argyle,New York City,New York,USA,North America,20,26-08-2022,7,286,266,Finance,Series B,78,2022
+666,54gene,Washington DC,District of Columbia,USA,North America,95,29-08-2022,30,317,222,Healthcare,Series B,44,2022
+667,Immersive Labs,Bristol,Unknown,UK,Europe,38,30-08-2022,10,380,342,Security,Series C,123,2022
+668,Apartment List,San Francisco,California,USA,North America,29,31-08-2022,10,290,261,Real Estate,Series D,169,2022
+669,GoodRx,Los Angeles,California,USA,North America,140,31-08-2022,16,875,735,Healthcare,Post-IPO,910,2022
+670,Hippo Insurance,Palo Alto,California,USA,North America,70,31-08-2022,10,700,630,Finance,Post-IPO,1300,2022
+671,Smava,Berlin,Berlin,Germany,Europe,100,31-08-2022,10,1000,900,Finance,Unknown,188,2022
+672,Snap,Los Angeles,California,USA,North America,1280,31-08-2022,20,6400,5120,Consumer,Post-IPO,4900,2022
+673,TCR2,Boston,Massachusetts,USA,North America,30,31-08-2022,20,150,120,Healthcare,Post-IPO,173,2022
+674,2TM,Sao Paulo,Unknown,Brazil,South America,100,01-09-2022,15,667,567,Crypto,Unknown,250,2022
+675,Innovaccer,San Francisco,California,USA,North America,90,01-09-2022,8,1125,1035,Healthcare,Series E,379,2022
+676,Urban Sports Club,Berlin,Berlin,Germany,Europe,55,01-09-2022,15,367,312,Fitness,Unknown,95,2022
+677,Kuda,Lagos,Unknown,Nigeria,Africa,23,02-09-2022,5,460,437,Finance,Series B,91,2022
+678,Brave Care,Portland,Oregon,USA,North America,40,06-09-2022,33,121,81,Healthcare,Series B,42,2022
+679,Lawgeex,Tel Aviv,Unknown,Israel,Asia,30,06-09-2022,33,91,61,Legal,Series C,41,2022
+680,Demandbase,San Francisco,California,USA,North America,27,07-09-2022,3,900,873,Sales,Series H,143,2022
+681,Intercom,San Francisco,California,USA,North America,49,07-09-2022,5,980,931,Support,Series D,240,2022
+682,Pendo,Raleigh,North Carolina,USA,North America,45,07-09-2022,5,900,855,Product,Series F,469,2022
+683,Simple Feast,Copenhagen,Unknown,Denmark,Europe,150,07-09-2022,100,150,0,Food,Unknown,173,2022
+684,Pomelo Fashion,Bangkok,Unknown,Thailand,Asia,55,08-09-2022,8,688,633,Retail,Unknown,120,2022
+685,Compete,Tel Aviv,Unknown,Israel,Asia,11,12-09-2022,28,39,28,HR,Series A,17,2022
+686,Checkout.com,London,Unknown,UK,Europe,100,13-09-2022,5,2000,1900,Finance,Series D,1800,2022
+687,Patreon,San Francisco,California,USA,North America,80,13-09-2022,17,471,391,Media,Series F,413,2022
+688,Rubius,Boston,Massachusetts,USA,North America,160,13-09-2022,75,213,53,Healthcare,Post-IPO,445,2022
+689,Taboola,New York City,New York,USA,North America,100,13-09-2022,6,1667,1567,Marketing,Post-IPO,445,2022
+690,Infarm,Berlin,Berlin,Germany,Europe,50,14-09-2022,5,1000,950,Other,Series D,604,2022
+691,Pitch,Berlin,Berlin,Germany,Europe,59,14-09-2022,30,197,138,Marketing,Series B,137,2022
+692,Twilio,San Francisco,California,USA,North America,800,14-09-2022,11,7273,6473,Other,Post-IPO,614,2022
+693,Acast,Stockholm,Unknown,Sweden,Europe,70,15-09-2022,15,467,397,Media,Post-IPO,126,2024
+694,LivePerson,New York City,New York,USA,North America,193,15-09-2022,11,1755,1562,Support,Post-IPO,42,2022
+695,WorkRamp,San Carlos,California,USA,North America,35,15-09-2022,20,175,140,HR,Series C,67,2022
+696,Clear,Bengaluru,Unknown,India,Asia,190,16-09-2022,20,950,760,Finance,Series C,140,2022
+697,TrueLayer,London,Unknown,UK,Europe,40,16-09-2022,10,400,360,Finance,Series E,271,2022
+698,Vesalius Therapeutics,Boston,Massachusetts,USA,North America,29,19-09-2022,43,67,38,Healthcare,Series B,75,2022
+699,99,Sao Paulo,Unknown,Brazil,South America,75,20-09-2022,2,3750,3675,Transportation,Acquired,244,2024
+700,Ada,Toronto,Unknown,Canada,North America,78,20-09-2022,16,488,410,Support,Series C,190,2024
+702,Kitty Hawk,Palo Alto,California,USA,North America,100,21-09-2022,100,100,0,Aerospace,Unknown,1,2022
+703,NYDIG,New York City,New York,USA,North America,110,22-09-2022,33,333,223,Crypto,Private Equity,1400,2022
+704,Foxtrot,Chicago,Illinois,USA,North America,26,23-09-2022,4,650,624,Food,Series C,166,2022
+705,Moss,Berlin,Berlin,Germany,Europe,70,23-09-2022,15,467,397,Finance,Series B,150,2022
+706,Truiloo,Vancouver,Unknown,Canada,North America,24,23-09-2022,5,480,456,Security,Series D,474,2022
+707,Divvy Homes,San Francisco,California,USA,North America,40,27-09-2022,12,333,293,Real Estate,Series B,180,2022
+708,DocuSign,San Francisco,California,USA,North America,671,28-09-2022,9,7456,6785,Sales,Post-IPO,536,2022
+709,Mux,San Francisco,California,USA,North America,40,29-09-2022,20,200,160,Infrastructure,Series D,173,2022
+710,Spin,San Francisco,California,USA,North America,78,30-09-2022,10,780,702,Transportation,Acquired,8,2022
+711,8x8,Campbell,California,USA,North America,200,04-10-2022,9,2222,2022,Support,Post-IPO,253,2022
+712,Homie,Salt Lake City,Utah,USA,North America,40,04-10-2022,13,308,268,Real Estate,Series B,35,2022
+713,Zoomo,Sydney,Unknown,Australia,Oceana,65,04-10-2022,16,406,341,Transportation,Series B,105,2022
+714,Built In,Chicago,Illinois,USA,North America,50,05-10-2022,25,200,150,HR,Series C,29,2022
+715,Crypto.com,Singapore,Unknown,Singapore,Asia,2000,06-10-2022,30,6667,4667,Crypto,Unknown,156,2022
+716,Impossible Foods,Redwood City,California,USA,North America,50,06-10-2022,6,833,783,Food,Series H,1900,2022
+717,Peloton,New York City,New York,USA,North America,500,06-10-2022,12,4167,3667,Fitness,Post-IPO,1900,2022
+718,BioMarin,San Rafael,California,USA,North America,120,07-10-2022,4,3000,2880,Healthcare,Post-IPO,585,2022
+719,Momentive,San Mateo,California,USA,North America,180,10-10-2022,11,1636,1456,Marketing,Post-IPO,1100,2022
+720,Pavilion Data,San Jose,California,USA,North America,96,10-10-2022,96,100,4,Infrastructure,Series D,103,2022
+721,Redesign Health,New York City,New York,USA,North America,67,10-10-2022,20,335,268,Healthcare,Series C,315,2022
+722,Brex,San Francisco,California,USA,North America,136,11-10-2022,11,1236,1100,Finance,Series D,1500,2022
+723,Linkfire,Copenhagen,Unknown,Denmark,Europe,35,11-10-2022,35,100,65,Marketing,Seed,2,2022
+724,Noom,New York City,New York,USA,North America,500,11-10-2022,10,5000,4500,Healthcare,Series F,657,2022
+725,Pacaso,San Francisco,California,USA,North America,100,11-10-2022,30,333,233,Real Estate,Series C,217,2022
+726,Udacity,Mountain View,California,USA,North America,55,11-10-2022,13,423,368,Education,Unknown,235,2022
+727,6sense,San Francisco,California,USA,North America,150,12-10-2022,10,1500,1350,Sales,Series E,426,2022
+728,Byju's,Bengaluru,Unknown,India,Asia,2500,12-10-2022,5,50000,47500,Education,Private Equity,Null,2022
+729,FrontRow,Bengaluru,Unknown,India,Asia,130,12-10-2022,75,173,43,Education,Series A,17,2022
+730,Playdots,New York City,New York,USA,North America,65,13-10-2022,100,65,0,Consumer,Acquired,10,2022
+731,Beyond Meat,Los Angeles,California,USA,North America,200,14-10-2022,19,1053,853,Food,Post-IPO,122,2022
+732,Flipboard,Palo Alto,California,USA,North America,24,16-10-2022,21,114,90,Media,Unknown,235,2022
+733,Faire,San Francisco,California,USA,North America,84,18-10-2022,7,1200,1116,Retail,Series G,1700,2022
+734,Leafly,Seattle,Washington,USA,North America,56,18-10-2022,21,267,211,Retail,Post-IPO,71,2022
+735,AtoB,San Francisco,California,USA,North America,32,19-10-2022,30,107,75,Finance,Series B,177,2022
+737,InfoSum,London,Unknown,UK,Europe,20,19-10-2022,12,167,147,Security,Series B,88,2022
+738,Hotmart,Belo Horizonte,Unknown,Brazil,South America,227,20-10-2022,12,1892,1665,Marketing,Series C,127,2022
+739,Loom,San Francisco,California,USA,North America,23,20-10-2022,11,209,186,Product,Series C,203,2022
+740,Zeus Living,San Francisco,California,USA,North America,64,20-10-2022,46,139,75,Real Estate,Series C,151,2022
+741,Elinvar,Berlin,Berlin,Germany,Europe,43,21-10-2022,33,130,87,Finance,Unknown,30,2022
+742,Khoros,Austin,Texas,USA,North America,120,21-10-2022,10,1200,1080,Sales,Private Equity,138,2022
+743,Synapsica,New Delhi,Unknown,India,Asia,30,21-10-2022,30,100,70,Healthcare,Series A,4,2022
+744,Antidote Health,Tel Aviv,Unknown,Israel,Asia,23,23-10-2022,38,61,38,Healthcare,Unknown,36,2022
+745,OrCam,Jerusalem,Unknown,Israel,Asia,62,23-10-2022,16,388,326,Healthcare,Unknown,86,2022
+746,Cerebral,Walnut,California,USA,North America,400,24-10-2022,20,2000,1600,Healthcare,Series C,462,2022
+747,Snyk,Boston,Massachusetts,USA,North America,198,24-10-2022,14,1414,1216,Security,Series F,849,2022
+748,Unico,Sao Paulo,Unknown,Brazil,South America,50,24-10-2022,4,1250,1200,Other,Series D,336,2022
+749,Embroker,San Francisco,California,USA,North America,30,25-10-2022,12,250,220,Finance,Series C,142,2022
+750,Fundbox,San Francisco,California,USA,North America,150,25-10-2022,42,357,207,Finance,Series D,553,2022
+751,Vee,Tel Aviv,Unknown,Israel,Asia,17,25-10-2022,50,34,17,HR,Seed,15,2022
+753,Cybereason,Boston,Massachusetts,USA,North America,200,26-10-2022,17,1176,976,Security,Series F,750,2022
+754,MindBody,San Luis Obispo,California,USA,North America,400,26-10-2022,15,2667,2267,Fitness,Post-IPO,114,2022
+755,Zillow,Seattle,Washington,USA,North America,300,26-10-2022,5,6000,5700,Real Estate,Post-IPO,97,2022
+756,Recharge,Los Angeles,California,USA,North America,84,27-10-2022,17,494,410,Finance,Series B,277,2022
+757,RenoRun,Montreal,Unknown,Canada,North America,210,27-10-2022,43,488,278,Construction,Series B,163,2022
+758,Amazon,Seattle,Washington,USA,North America,150,28-10-2022,0,333483,333333,Retail,Post-IPO,108,2022
+759,Fifth Season,Pittsburgh,Pennsylvania,USA,North America,100,28-10-2022,100,100,0,Food,Series B,35,2022
+760,Equitybee,Palo Alto,California,USA,North America,25,31-10-2022,20,125,100,Finance,Series B,85,2022
+761,EquityZen,New York City,New York,USA,North America,30,31-10-2022,27,111,81,Finance,Series B,11,2022
+762,Kry,Stockholm,Unknown,Sweden,Europe,300,31-10-2022,10,3000,2700,Healthcare,Series D,568,2022
+763,Gem,San Francisco,California,USA,North America,100,01-11-2022,33,303,203,HR,Series C,148,2022
+764,Hootsuite,Vancouver,Unknown,Canada,North America,50,01-11-2022,5,1000,950,Marketing,Series C,300,2022
+765,Oda,Oslo,Unknown,Norway,Europe,70,01-11-2022,18,389,319,Food,Unknown,377,2022
+766,Upstart,San Mateo,California,USA,North America,140,01-11-2022,7,2000,1860,Finance,Post-IPO,144,2022
+767,Chargebee,North Bethesda,California,USA,North America,142,02-11-2022,10,1420,1278,Finance,Series H,468,2022
+768,Checkmarx,Tel Aviv,Unknown,Israel,Asia,100,02-11-2022,10,1000,900,Security,Series C,92,2022
+769,Chime,San Francisco,California,USA,North America,156,02-11-2022,12,1300,1144,Finance,Series G,2300,2022
+770,Dapper Labs,Vancouver,Unknown,Canada,North America,134,02-11-2022,22,609,475,Crypto,Series D,607,2022
+771,Iron Ox,Gilroy,California,USA,North America,50,02-11-2022,50,100,50,Food,Series C,103,2022
+772,Opendoor,San Francisco,California,USA,North America,550,02-11-2022,18,3056,2506,Real Estate,Post-IPO,Null,2022
+773,Smava,Berlin,Berlin,Germany,Europe,100,02-11-2022,15,667,567,Finance,Unknown,188,2022
+775,Lyft,San Francisco,California,USA,North America,700,03-11-2022,13,5385,4685,Transportation,Post-IPO,4900,2022
+776,Pleo,Copenhagen,Unknown,Denmark,Europe,150,03-11-2022,15,1000,850,Finance,Series C,428,2022
+777,Shippo,San Francisco,California,USA,North America,60,03-11-2022,20,300,240,Logistics,Series E,154,2022
+778,Stripe,San Francisco,California,USA,North America,1000,03-11-2022,14,7143,6143,Finance,Series H,2300,2022
+779,Exodus,Nebraska City,Nebraska,USA,North America,59,04-11-2022,22,268,209,Crypto,Unknown,60,2022
+780,KoinWorks,Jakarta,Unknown,Indonesia,Asia,70,04-11-2022,8,875,805,Finance,Unknown,180,2022
+781,Planetly,Berlin,Berlin,Germany,Europe,200,04-11-2022,100,200,0,Other,Acquired,5,2022
+782,Twitter,San Francisco,California,USA,North America,3700,04-11-2022,50,7400,3700,Consumer,Post-IPO,12900,2022
+783,Varonis,New York City,New York,USA,North America,110,06-11-2022,5,2200,2090,Security,Post-IPO,30,2022
+784,Dock,Sao Paulo,Unknown,Brazil,South America,190,07-11-2022,12,1583,1393,Finance,Private Equity,280,2022
+785,SaleSan Francisco Bay Areaorce,San Francisco,California,USA,North America,1000,07-11-2022,1,100000,99000,Sales,Post-IPO,65,2022
+786,Unacademy,Bengaluru,Unknown,India,Asia,350,07-11-2022,10,3500,3150,Education,Series H,838,2022
+787,Zendesk,San Francisco,California,USA,North America,350,07-11-2022,5,7000,6650,Support,Acquired,85,2022
+788,Repertoire Immunity,Boston,Massachusetts,USA,North America,65,08-11-2022,50,130,65,Healthcare,Series B,257,2022
+789,AvantStay,Los Angeles,California,USA,North America,144,09-11-2022,22,655,511,Travel,Private Equity,686,2022
+790,Flyhomes,Seattle,Washington,USA,North America,300,09-11-2022,40,750,450,Real Estate,Series C,310,2022
+791,Kabam,San Francisco,California,USA,North America,35,09-11-2022,7,500,465,Consumer,Acquired,244,2022
+792,Liftoff,Redwood City,California,USA,North America,130,09-11-2022,15,867,737,Marketing,Acquired,6,2022
+793,Meta,Menlo Park,California,USA,North America,11000,09-11-2022,13,84615,73615,Consumer,Post-IPO,26000,2022
+794,Namogoo,Tel Aviv,Unknown,Israel,Asia,25,09-11-2022,15,167,142,Marketing,Series C,69,2022
+795,Plum,Bengaluru,Unknown,India,Asia,36,09-11-2022,10,360,324,Healthcare,Series A,20,2022
+796,Redfin,Seattle,Washington,USA,North America,862,09-11-2022,13,6631,5769,Real Estate,Post-IPO,320,2022
+797,Root Insurance,Columbus,Ohio,USA,North America,137,09-11-2022,20,685,548,Finance,Post-IPO,527,2022
+798,Blend,San Francisco,California,USA,North America,100,10-11-2022,6,1667,1567,Finance,Post-IPO,665,2022
+799,GoTo Group,Jakarta,Unknown,Indonesia,Asia,1300,10-11-2022,12,10833,9533,Transportation,Post-IPO,1300,2022
+800,InfluxData,San Francisco,California,USA,North America,65,10-11-2022,27,241,176,Data,Series D,119,2022
+801,Juul,San Francisco,California,USA,North America,400,10-11-2022,30,1333,933,Consumer,Unknown,1500,2022
+802,Ocavu,Lehi,Utah,USA,North America,20,10-11-2022,48,42,22,Crypto,Series A,11,2022
+803,SoundHound,Santa Clara,California,USA,North America,45,10-11-2022,10,450,405,Other,Post-IPO,326,2022
+804,Forto,Berlin,Berlin,Germany,Europe,60,11-11-2022,8,750,690,Logistics,Series D,593,2022
+805,Veev,Hayward,California,USA,North America,100,11-11-2022,30,333,233,Real Estate,Series D,597,2022
+806,Cloudinary,Santa Clara,California,USA,North America,40,14-11-2022,8,500,460,Media,Unknown,100,2022
+807,iFit,Logan,Utah,USA,North America,300,14-11-2022,20,1500,1200,Fitness,Private Equity,200,2022
+808,Illumina,San Diego,California,USA,North America,500,14-11-2022,5,10000,9500,Healthcare,Post-IPO,28,2022
+809,Intercom,San Francisco,California,USA,North America,124,14-11-2022,13,954,830,Support,Series D,240,2022
+810,Pipedrive,Tallinn,Unknown,Estonia,Europe,143,14-11-2022,15,953,810,Sales,Private Equity,90,2022
+811,Ribbon,New York City,New York,USA,North America,170,14-11-2022,85,200,30,Real Estate,Series C,405,2022
+812,Asana,San Francisco,California,USA,North America,180,15-11-2022,9,2000,1820,Other,Post-IPO,453,2022
+813,CaptivateIQ,San Francisco,California,USA,North America,31,15-11-2022,10,310,279,Sales,Series C,164,2022
+814,Deliveroo Australia,Melbourne,Unknown,Australia,Oceana,120,15-11-2022,100,120,0,Food,Post-IPO,Null,2022
+815,Jimdo,Hamburg,Hamburg,Germany,Europe,50,15-11-2022,16,313,263,Other,Unknown,28,2022
+816,OwnBackup,New York City,New York,USA,North America,170,15-11-2022,17,1000,830,Security,Series E,507,2022
+817,UiPath,New York City,New York,USA,North America,241,15-11-2022,6,4017,3776,Data,Post-IPO,Null,2022
+818,Amazon,Seattle,Washington,USA,North America,10000,16-11-2022,3,333333,323333,Retail,Post-IPO,108,2022
+819,Cisco,San Jose,California,USA,North America,4100,16-11-2022,5,82000,77900,Infrastructure,Post-IPO,2,2022
+820,Lokalise,Dover,Ohio,USA,North America,76,16-11-2022,23,330,254,Other,Series B,56,2022
+821,Pear Therapeutics,Boston,Massachusetts,USA,North America,59,16-11-2022,22,268,209,Healthcare,Post-IPO,409,2022
+822,Salsify,Boston,Massachusetts,USA,North America,90,16-11-2022,11,818,728,Retail,Series F,452,2022
+823,Similarweb,New York City,New York,USA,North America,120,16-11-2022,10,1200,1080,Other,Post-IPO,235,2022
+824,Twiga,Nairobi,Unknown,Kenya,Africa,211,16-11-2022,21,1005,794,Food,Series C,157,2022
+825,Wayflyer,Dublin,Unknown,Ireland,Europe,200,16-11-2022,40,500,300,Marketing,Unknown,889,2022
+826,Yotpo,New York City,New York,USA,North America,70,16-11-2022,9,778,708,Marketing,Unknown,436,2022
+827,&Open,Dublin,Unknown,Ireland,Europe,9,17-11-2022,9,100,91,Marketing,Series A,35,2022
+828,Capitolis,New York City,New York,USA,North America,37,17-11-2022,25,148,111,Finance,Series D,281,2022
+829,Juni,Gothenburg,Unknown,Sweden,Europe,72,17-11-2022,33,218,146,Finance,Unknown,281,2022
+830,Koho,Toronto,Unknown,Canada,North America,15,17-11-2022,4,375,360,Finance,Series D,278,2022
+831,Roku,San Jose,California,USA,North America,200,17-11-2022,7,2857,2657,Media,Post-IPO,208,2022
+832,TealBook,Toronto,Unknown,Canada,North America,34,17-11-2022,19,179,145,Other,Series B,73,2022
+833,Carvana,Phoenix,Arizona,USA,North America,1500,18-11-2022,8,18750,17250,Transportation,Post-IPO,1600,2022
+834,Nuro,Mountain View,California,USA,North America,300,18-11-2022,20,1500,1200,Transportation,Series D,2100,2022
+835,Synthego,Menlo Park,California,USA,North America,105,18-11-2022,20,525,420,Healthcare,Series E,459,2022
+836,Zomato,Gurugram,Unknown,India,Asia,100,19-11-2022,4,2500,2400,Food,Series J,914,2022
+837,Jumia,Lagos,Unknown,Nigeria,Africa,900,21-11-2022,20,4500,3600,Retail,Post-IPO,Null,2022
+838,Kitopi,Dubai,Unknown,United Arabian Emirates,Asia,93,21-11-2022,10,930,837,Food,Series C,804,2022
+839,SIRCLO,Jakarta,Unknown,Indonesia,Asia,160,22-11-2022,8,2000,1840,Retail,Series B,92,2022
+840,Trax,Singapore,Unknown,Singapore,Asia,80,22-11-2022,8,1000,920,Retail,Series E,1000,2022
+841,Lemon,Buenos Aires,Unknown,Argentina,South America,100,24-11-2022,38,263,163,Crypto,Series A,17,2022
+842,Quidax,Lagos,Unknown,Nigeria,Africa,20,24-11-2022,20,100,80,Crypto,Unknown,3,2022
+843,Carwow,London,Unknown,UK,Europe,70,25-11-2022,20,350,280,Transportation,Unknown,157,2022
+844,Vendease,Lagos,Unknown,Nigeria,Africa,27,25-11-2022,9,300,273,Food,Series A,43,2022
+845,VerSe Innovation,Bengaluru,Unknown,India,Asia,150,25-11-2022,5,3000,2850,Media,Series J,1700,2022
+846,Ajaib,Jakarta,Unknown,Indonesia,Asia,67,28-11-2022,8,838,771,Finance,Unknown,245,2022
+847,ApplyBoard,Waterloo,Unknown,Canada,North America,90,28-11-2022,6,1500,1410,Education,Series D,483,2022
+848,Candy Digital,New York City,New York,USA,North America,33,28-11-2022,33,100,67,Crypto,Series A,100,2022
+849,Infarm,Berlin,Berlin,Germany,Europe,500,28-11-2022,50,1000,500,Other,Series D,604,2022
+850,ResearchGate,Berlin,Berlin,Germany,Europe,25,28-11-2022,10,250,225,Other,Series D,87,2022
+851,Wildlife Studios,Sao Paulo,Unknown,Brazil,South America,300,28-11-2022,20,1500,1200,Consumer,Unknown,260,2022
+852,CoinJar,Melbourne,Unknown,Australia,Oceana,10,29-11-2022,20,50,40,Crypto,Unknown,1,2022
+853,Lyst,London,Unknown,UK,Europe,50,29-11-2022,25,200,150,Retail,Unknown,144,2022
+854,DoorDash,San Francisco,California,USA,North America,1250,30-11-2022,6,20833,19583,Food,Post-IPO,2500,2022
+855,Grin,Sacramento,California,USA,North America,60,30-11-2022,13,462,402,Marketing,Series B,145,2022
+856,Happy Money,Los Angeles,California,USA,North America,158,30-11-2022,34,465,307,Finance,Series D,191,2022
+857,Kraken,San Francisco,California,USA,North America,1100,30-11-2022,30,3667,2567,Crypto,Unknown,134,2022
+858,Teachmint,Bengaluru,Unknown,India,Asia,45,30-11-2022,5,900,855,Education,Series B,118,2022
+859,Thread,London,Unknown,UK,Europe,30,30-11-2022,50,60,30,Retail,Acquired,40,2022
+860,Ualá,Buenos Aires,Unknown,Argentina,South America,53,30-11-2022,3,1767,1714,Finance,Series D,544,2022
+861,Ula,Jakarta,Unknown,Indonesia,Asia,134,30-11-2022,23,583,449,Retail,Series B,140,2022
+862,Wonder,New York City,New York,USA,North America,130,30-11-2022,7,1857,1727,Food,Series B,850,2022
+863,Bizzabo,New York City,New York,USA,North America,100,01-12-2022,37,270,170,Marketing,Series E,194,2022
+864,Carousell,Singapore,Unknown,Singapore,Asia,110,01-12-2022,10,1100,990,Retail,Private Equity,372,2022
+865,Netlify,San Francisco,California,USA,North America,48,01-12-2022,16,300,252,Product,Series D,212,2022
+866,Springbig,Miami,Florida,USA,North America,37,01-12-2022,23,161,124,Sales,Post-IPO,32,2022
+867,Polly,Burlington,Vermont,USA,North America,47,02-12-2022,15,313,266,Finance,Series C,184,2022
+868,Aqua Security,Boston,Massachusetts,USA,North America,65,05-12-2022,10,650,585,Security,Series E,265,2022
+869,DataRails,Tel Aviv,Unknown,Israel,Asia,30,05-12-2022,18,167,137,Finance,Series B,103,2022
+870,Bridgit,Waterloo,Unknown,Canada,North America,13,06-12-2022,13,100,87,Construction,Series B,36,2022
+871,BuzzFeed,New York City,New York,USA,North America,180,06-12-2022,12,1500,1320,Media,Post-IPO,696,2022
+872,Chipper Cash,San Francisco,California,USA,North America,50,06-12-2022,13,385,335,Finance,Series C,302,2022
+873,Doma,Huntington Beach,California,USA,North America,515,06-12-2022,40,1288,773,Finance,Post-IPO,679,2022
+874,Perimeter 81,Tel Aviv,Unknown,Israel,Asia,20,06-12-2022,8,250,230,Security,Series C,165,2022
+875,Stash,New York City,New York,USA,North America,32,06-12-2022,8,400,368,Finance,Unknown,480,2022
+876,Grover,Berlin,Berlin,Germany,Europe,40,07-12-2022,10,400,360,Retail,Unknown,Null,2022
+877,Houzz,Palo Alto,California,USA,North America,95,07-12-2022,8,1188,1093,Consumer,Series E,613,2022
+878,Integral Ad Science,New York City,New York,USA,North America,120,07-12-2022,13,923,803,Marketing,Acquired,116,2022
+879,Lev,New York City,New York,USA,North America,30,07-12-2022,30,100,70,Real Estate,Series B,114,2022
+880,Lithic,New York City,New York,USA,North America,27,07-12-2022,18,150,123,Finance,Series C,115,2022
+881,Loft,Sao Paulo,Unknown,Brazil,South America,312,07-12-2022,12,2600,2288,Real Estate,Unknown,788,2022
+882,Motive,San Francisco,California,USA,North America,237,07-12-2022,6,3950,3713,Transportation,Series F,567,2022
+883,Plaid,San Francisco,California,USA,North America,260,07-12-2022,20,1300,1040,Finance,Series D,734,2022
+884,Relativity,Chicago,Illinois,USA,North America,150,07-12-2022,10,1500,1350,Legal,Private Equity,125,2022
+885,Voi,Stockholm,Unknown,Sweden,Europe,130,07-12-2022,13,1000,870,Transportation,Series D,515,2022
+886,Airtable,San Francisco,California,USA,North America,254,08-12-2022,20,1270,1016,Product,Series F,1400,2022
+887,Armis,San Francisco,California,USA,North America,25,08-12-2022,4,625,600,Security,Private Equity,537,2022
+888,BlackLine,Los Angeles,California,USA,North America,95,08-12-2022,5,1900,1805,Finance,Private Equity,220,2022
+889,Buser,Sao Paulo,Unknown,Brazil,South America,160,08-12-2022,30,533,373,Transportation,Series C,138,2022
+890,CyCognito,Palo Alto,California,USA,North America,30,08-12-2022,15,200,170,Security,Series C,153,2022
+891,Glints,Singapore,Unknown,Singapore,Asia,198,08-12-2022,18,1100,902,HR,Series D,82,2022
+892,Otonomo,Tel Aviv,Unknown,Israel,Asia,80,08-12-2022,50,160,80,Transportation,Post-IPO,231,2022
+893,Swiggy,Bengaluru,Unknown,India,Asia,250,08-12-2022,3,8333,8083,Food,Unknown,Null,2022
+894,TechTarget,Boston,Massachusetts,USA,North America,60,08-12-2022,5,1200,1140,Marketing,Post-IPO,115,2022
+895,Alice,Sao Paulo,Unknown,Brazil,South America,113,09-12-2022,16,706,593,Healthcare,Series C,174,2022
+896,C2FO,Kansas City,Kansas,USA,North America,20,09-12-2022,2,1000,980,Finance,Series H,537,2022
+897,OneFootball,Berlin,Berlin,Germany,Europe,62,09-12-2022,12,517,455,Marketing,Series D,442,2022
+898,Primer,London,Unknown,UK,Europe,85,09-12-2022,33,258,173,Finance,Series B,73,2022
+899,Outschool,San Francisco,California,USA,North America,43,10-12-2022,25,172,129,Education,Series D,240,2022
+900,Xentral,Munich,Bayern,Germany,Europe,20,10-12-2022,10,200,180,Product,Series B,94,2022
+901,Pluralsight,Salt Lake City,Utah,USA,North America,400,12-12-2022,20,2000,1600,Education,Acquired,192,2022
+902,Edgio,Phoenix,Arizona,USA,North America,95,13-12-2022,10,950,855,Infrastructure,Post-IPO,462,2022
+903,Komodo Health,San Francisco,California,USA,North America,78,13-12-2022,9,867,789,Healthcare,Series E,514,2022
+904,Thumbtack,San Francisco,California,USA,North America,160,13-12-2022,14,1143,983,Consumer,Series I,698,2022
+905,ChowNow,Los Angeles,California,USA,North America,40,14-12-2022,10,400,360,Food,Series C,64,2022
+906,Headspace,Los Angeles,California,USA,North America,50,14-12-2022,4,1250,1200,Healthcare,Unknown,215,2022
+907,JD.ID,Jakarta,Unknown,Indonesia,Asia,200,14-12-2022,30,667,467,Retail,Post-IPO,Null,2022
+908,BigCommerce,Austin,Texas,USA,North America,180,15-12-2022,13,1385,1205,Retail,Post-IPO,224,2022
+909,Freshworks,San Mateo,California,USA,North America,90,15-12-2022,2,4500,4410,Support,Post-IPO,484,2022
+910,LeafLink,New York City,New York,USA,North America,80,15-12-2022,31,258,178,Other,Series C,379,2022
+911,Workmotion,Berlin,Berlin,Germany,Europe,60,15-12-2022,20,300,240,HR,Series B,76,2022
+912,Revelate,Montreal,Unknown,Canada,North America,24,16-12-2022,30,80,56,Data,Series A,26,2022
+913,Tomorrow,Hamburg,Hamburg,Germany,Europe,30,16-12-2022,25,120,90,Finance,Unknown,29,2022
+914,Homebot,Denver,Colorado,USA,North America,18,19-12-2022,13,138,120,Real Estate,Acquired,4,2022
+915,Briza,Toronto,Unknown,Canada,North America,26,20-12-2022,40,65,39,Finance,Series A,10,2022
+916,Chope,Singapore,Unknown,Singapore,Asia,65,20-12-2022,24,271,206,Food,Series E,50,2022
+917,TuSimple,San Diego,California,USA,North America,350,21-12-2022,25,1400,1050,Transportation,Post-IPO,648,2022
+918,Back Market,Paris,Unknown,France,Europe,93,23-12-2022,13,715,622,Retail,Series E,1000,2022
+919,Micron,Boise,Idaho,USA,North America,4800,01-01-2023,10,48000,43200,Hardware,Post-IPO,50,2023
+920,Uniphore,Palo Alto,California,USA,North America,76,03-01-2023,10,760,684,Support,Series E,620,2023
+921,Amazon,Seattle,Washington,USA,North America,8000,04-01-2023,2,400000,392000,Retail,Post-IPO,108,2023
+922,Astronomer,Cincinnati,Ohio,USA,North America,76,04-01-2023,20,380,304,Data,Series C,282,2023
+923,Augury,New York City,New York,USA,North America,20,04-01-2023,5,400,380,Manufacturing,Series E,274,2023
+924,Kaltura,New York City,New York,USA,North America,75,04-01-2023,11,682,607,Media,Post-IPO,166,2023
+925,SaleSan Francisco Bay Areaorce,San Francisco,California,USA,North America,8000,04-01-2023,10,80000,72000,Sales,Post-IPO,65,2023
+926,Everlane,San Francisco,California,USA,North America,30,05-01-2023,17,176,146,Retail,Unknown,176,2023
+927,Moglix,Singapore,Unknown,Singapore,Asia,40,05-01-2023,2,2000,1960,Retail,Series F,472,2023
+928,Pecan AI,Tel Aviv,Unknown,Israel,Asia,30,05-01-2023,25,120,90,Data,Series C,116,2023
+929,Personetics,New York City,New York,USA,North America,30,05-01-2023,8,375,345,Support,Private Equity,178,2023
+930,Socure,Reno,Nevada,USA,North America,104,05-01-2023,19,547,443,Finance,Series E,646,2023
+931,SoundHound,Santa Clara,California,USA,North America,200,05-01-2023,50,400,200,Other,Post-IPO,326,2023
+932,Twine Solutions,Tel Aviv,Unknown,Israel,Asia,30,05-01-2023,33,91,61,Hardware,Unknown,50,2023
+933,UpScalio,Gurugram,Unknown,India,Asia,25,05-01-2023,15,167,142,Retail,Series B,62,2023
+934,Bounce,Bengaluru,Unknown,India,Asia,40,06-01-2023,5,800,760,Transportation,Series D,214,2023
+935,Huobi,Bejing,Unknown,China,Asia,275,06-01-2023,20,1375,1100,Crypto,Unknown,2,2023
+936,Minute Media,London,Unknown,UK,Europe,50,08-01-2023,10,500,450,Media,Series I,160,2023
+937,WalkMe,San Francisco,California,USA,North America,43,08-01-2023,3,1433,1390,Other,Post-IPO,307,2023
+938,Fate Therapeutics,San Diego,California,USA,North America,315,09-01-2023,57,553,238,Healthcare,Post-IPO,Null,2023
+939,Blend,San Francisco,California,USA,North America,340,10-01-2023,28,1214,874,Finance,Post-IPO,665,2023
+940,Cart.com,Austin,Texas,USA,North America,25,10-01-2023,4,625,600,Retail,Unknown,383,2023
+941,Coinbase,San Francisco,California,USA,North America,950,10-01-2023,20,4750,3800,Crypto,Post-IPO,549,2023
+942,ConsenSys,New York City,New York,USA,North America,100,10-01-2023,11,909,809,Crypto,Series D,726,2023
+943,ForeScout,Tel Aviv,Unknown,Israel,Asia,100,10-01-2023,10,1000,900,Security,Acquired,125,2023
+944,GoBolt,Toronto,Unknown,Canada,North America,55,10-01-2023,5,1100,1045,Logistics,Series C,178,2023
+945,Parler,Nashville,Tennessee,USA,North America,60,10-01-2023,75,80,20,Consumer,Series B,36,2023
+946,StreamElements,Tel Aviv,Unknown,Israel,Asia,40,10-01-2023,20,200,160,Media,Series B,111,2023
+947,Thinkific,Vancouver,Unknown,Canada,North America,76,10-01-2023,19,400,324,Education,Post-IPO,22,2023
+948,Flexport,San Francisco,California,USA,North America,640,11-01-2023,20,3200,2560,Logistics,Series E,2400,2023
+949,Jumio,Sunnyvale,California,USA,North America,100,11-01-2023,6,1667,1567,Security,Private Equity,205,2023
+950,Qualtrics,Salt Lake City,Utah,USA,North America,270,11-01-2023,5,5400,5130,Other,Post-IPO,400,2023
+951,Tipalti,Agoura Hills,California,USA,North America,123,11-01-2023,11,1118,995,Finance,Series F,565,2023
+952,Akili Labs,Boston,Massachusetts,USA,North America,46,12-01-2023,30,153,107,Healthcare,Post-IPO,301,2023
+953,Blockchain.com,London,Unknown,UK,Europe,110,12-01-2023,28,393,283,Crypto,Series D,490,2023
+954,Greenlight,Atlanta,Georgia,USA,North America,104,12-01-2023,21,495,391,Finance,Series D,556,2023
+955,Lattice,San Francisco,California,USA,North America,105,12-01-2023,15,700,595,HR,Series F,328,2023
+956,Lending Club,San Francisco,California,USA,North America,225,12-01-2023,14,1607,1382,Finance,Post-IPO,392,2023
+957,Pier,Sao Paulo,Unknown,Brazil,South America,111,12-01-2023,39,285,174,Finance,Series B,42,2023
+958,SmartNews,Tokyo,Unknown,Japan,Asia,120,12-01-2023,40,300,180,Media,Series F,410,2023
+959,BharatAgri,Mumbai,Unknown,India,Asia,40,15-01-2023,43,93,53,Food,Series A,21,2023
+960,Snappy,New York City,New York,USA,North America,100,15-01-2023,30,333,233,Marketing,Series C,104,2023
+961,ClearCo,Toronto,Unknown,Canada,North America,50,16-01-2023,30,167,117,Finance,Series C,698,2023
+962,ShareChat,Bengaluru,Unknown,India,Asia,500,16-01-2023,20,2500,2000,Consumer,Series H,1700,2023
+963,American Robotics,Boston,Massachusetts,USA,North America,50,17-01-2023,65,77,27,Other,Acquired,92,2023
+964,Britishvolt,London,Unknown,UK,Europe,206,17-01-2023,100,206,0,Transportation,Unknown,2400,2023
+965,Exotel,Bengaluru,Unknown,India,Asia,142,17-01-2023,15,947,805,Support,Series D,87,2023
+966,Lightspeed Company,Montreal,Unknown,Canada,North America,300,17-01-2023,10,3000,2700,Retail,Post-IPO,Null,2023
+967,Unico,Sao Paulo,Unknown,Brazil,South America,110,17-01-2023,10,1100,990,Other,Series D,336,2023
+968,Unity,San Francisco,California,USA,North America,284,17-01-2023,3,9467,9183,Other,Post-IPO,1300,2023
+969,8x8,Campbell,California,USA,North America,155,18-01-2023,7,2214,2059,Support,Post-IPO,253,2023
+970,Addepar,Mountain View,California,USA,North America,20,18-01-2023,3,667,647,Finance,Series F,491,2023
+971,Benevity,Calgary,Unknown,Canada,North America,137,18-01-2023,14,979,842,Other,Unknown,69,2023
+972,Clue,Berlin,Berlin,Germany,Europe,31,18-01-2023,31,100,69,Healthcare,Unknown,47,2023
+973,Hootsuite,Vancouver,Unknown,Canada,North America,70,18-01-2023,7,1000,930,Marketing,Series C,300,2023
+974,Inspirato,Denver,Colorado,USA,North America,109,18-01-2023,12,908,799,Travel,Post-IPO,179,2023
+975,Jumpcloud,Boulder,Colorado,USA,North America,100,18-01-2023,12,833,733,Security,Series F,416,2023
+976,Microsoft,Seattle,Washington,USA,North America,10000,18-01-2023,5,200000,190000,Software Development,Post-IPO,Null,2023
+977,nCino,Wilmington,Delaware,USA,North America,100,18-01-2023,7,1429,1329,Finance,Post-IPO,Null,2023
+978,Pagaya,New York City,New York,USA,North America,140,18-01-2023,20,700,560,Finance,Post-IPO,571,2023
+979,Sophos,Oxford,Unknown,UK,Europe,450,18-01-2023,10,4500,4050,Security,Acquired,125,2023
+980,Starry,Boston,Massachusetts,USA,North America,100,18-01-2023,24,417,317,Other,Post-IPO,260,2023
+981,Teladoc Health,New York City,New York,USA,North America,300,18-01-2023,6,5000,4700,Healthcare,Post-IPO,172,2023
+982,Vroom,New York City,New York,USA,North America,275,18-01-2023,20,1375,1100,Transportation,Post-IPO,Null,2023
+983,CS Disco,Austin,Texas,USA,North America,62,19-01-2023,9,689,627,Legal,Post-IPO,233,2023
+984,Hubilo,San Francisco,California,USA,North America,115,19-01-2023,35,329,214,Other,Series B,153,2023
+985,Saks.com,New York City,New York,USA,North America,100,19-01-2023,5,2000,1900,Retail,Unknown,965,2023
+986,Citrine Informatics,Redwood City,California,USA,North America,22,20-01-2023,27,81,59,Data,Series C,64,2023
+987,Enjoei,Sao Paulo,Unknown,Brazil,South America,31,20-01-2023,10,310,279,Retail,Unknown,14,2023
+988,Google,Mountain View,California,USA,North America,12000,20-01-2023,6,200000,188000,Consumer,Post-IPO,26,2023
+989,MediBuddy,Bengaluru,Unknown,India,Asia,200,20-01-2023,8,2500,2300,Healthcare,Acquired,192,2023
+990,Swiggy,Bengaluru,Unknown,India,Asia,380,20-01-2023,6,6333,5953,Food,Unknown,Null,2023
+991,Vox Media,Washington DC,District of Columbia,USA,North America,130,20-01-2023,7,1857,1727,Media,Series F,307,2023
+992,Wayfair,Boston,Massachusetts,USA,North America,1750,20-01-2023,10,17500,15750,Retail,Post-IPO,1700,2023
+993,Ermetic,Palo Alto,California,USA,North America,30,23-01-2023,17,176,146,Security,Series B,97,2023
+994,Innovid,New York City,New York,USA,North America,40,23-01-2023,10,400,360,Marketing,Post-IPO,295,2023
+995,Namogoo,Tel Aviv,Unknown,Israel,Asia,20,23-01-2023,15,133,113,Marketing,Series C,69,2023
+996,Spotify,Stockholm,Unknown,Sweden,Europe,600,23-01-2023,6,10000,9400,Media,Post-IPO,2100,2023
+997,Uber Freight,San Francisco,California,USA,North America,150,23-01-2023,3,5000,4850,Logistics,Subsidiary,2700,2023
+998,Bolt,San Francisco,California,USA,North America,50,24-01-2023,10,500,450,Finance,Series E,1300,2023
+999,Gitpod,Kiel,Schleswig-Holstein,Germany,Europe,21,24-01-2023,28,75,54,Product,Series A,41,2023
+1000,Innovaccer,San Francisco,California,USA,North America,245,24-01-2023,15,1633,1388,Healthcare,Series E,379,2023
+1001,PartnerStack,Toronto,Unknown,Canada,North America,40,24-01-2023,20,200,160,Sales,Series B,36,2023
+1002,Vacasa,Portland,Oregon,USA,North America,1300,24-01-2023,17,7647,6347,Travel,Post-IPO,834,2023
+1003,Guardant Health,Palo Alto,California,USA,North America,130,25-01-2023,7,1857,1727,Healthcare,Post-IPO,550,2023
+1004,Luno,London,Unknown,UK,Europe,330,25-01-2023,35,943,613,Crypto,Acquired,13,2023
+1005,SirionLabs,Seattle,Washington,USA,North America,130,25-01-2023,15,867,737,Legal,Series D,171,2023
+1006,Tier Mobility,Berlin,Berlin,Germany,Europe,80,25-01-2023,7,1143,1063,Transportation,Series D,646,2023
+1007,Confluent,Mountain View,California,USA,North America,221,26-01-2023,8,2763,2542,Data,Post-IPO,455,2023
+1008,Glisser,London,Unknown,UK,Europe,25,26-01-2023,100,25,0,Travel,Unknown,1,2023
+1009,SAP,Walldorf,Baden-Würtemberg,Germany,Europe,3000,26-01-2023,3,100000,97000,Other,Post-IPO,1300,2023
+1010,#Paid,Toronto,Unknown,Canada,North America,19,27-01-2023,17,112,93,Marketing,Series B,21,2023
+1011,DealShare,Bengaluru,Unknown,India,Asia,100,27-01-2023,6,1667,1567,Retail,Series E,390,2023
+1012,Matrixport,Singapore,Unknown,Singapore,Asia,29,27-01-2023,10,290,261,Crypto,Series C,100,2023
+1013,Shakepay,Montreal,Unknown,Canada,North America,21,27-01-2023,25,84,63,Crypto,Series A,45,2023
+1014,Arrival,London,Unknown,UK,Europe,800,30-01-2023,50,1600,800,Transportation,Post-IPO,629,2023
+1015,Chrono24,Karlsruhe,Baden-Würtemberg,Germany,Europe,65,30-01-2023,13,500,435,Retail,Series C,205,2023
+1016,Delivery Hero,Berlin,Berlin,Germany,Europe,156,30-01-2023,4,3900,3744,Food,Post-IPO,Null,2023
+1017,Glovo,Barcelona,Unknown,Spain,Europe,250,30-01-2023,6,4167,3917,Food,Acquired,Null,2023
+1018,Impossible Foods,Redwood City,California,USA,North America,140,30-01-2023,20,700,560,Food,Series H,1900,2023
+1019,AU10TIX,Tel Aviv,Unknown,Israel,Asia,19,31-01-2023,9,211,192,Security,Unknown,80,2023
+1020,HubSpot,Boston,Massachusetts,USA,North America,500,31-01-2023,7,7143,6643,Marketing,Post-IPO,100,2023
+1021,PayPal,San Jose,California,USA,North America,2000,31-01-2023,7,28571,26571,Finance,Post-IPO,216,2023
+1022,Software AG,Frankfurt am Main,Hessen,Germany,Europe,200,31-01-2023,4,5000,4800,Data,Post-IPO,344,2023
+1023,Tilting Point,New York City,New York,USA,North America,60,31-01-2023,14,429,369,Consumer,Unknown,235,2023
+1024,Upstart,San Mateo,California,USA,North America,365,31-01-2023,20,1825,1460,Finance,Post-IPO,144,2023
+1025,Wish,San Francisco,California,USA,North America,150,31-01-2023,17,882,732,Retail,Post-IPO,1600,2023
+1026,Workday,Pleasanton,California,USA,North America,525,31-01-2023,3,17500,16975,HR,Post-IPO,230,2023
+1027,Chainalysis,New York City,New York,USA,North America,44,01-02-2023,5,880,836,Crypto,Series F,536,2023
+1028,DraftKings,Boston,Massachusetts,USA,North America,140,01-02-2023,4,3500,3360,Consumer,Post-IPO,719,2023
+1029,Exterro,Portland,Oregon,USA,North America,24,01-02-2023,3,800,776,Legal,Private Equity,100,2023
+1030,Splunk,San Jose,California,USA,North America,325,01-02-2023,4,8125,7800,Data,Post-IPO,2400,2023
+1031,TheSkimm,New York City,New York,USA,North America,17,01-02-2023,10,170,153,Media,Series C,28,2023
+1032,Wheel,Austin,Texas,USA,North America,56,01-02-2023,28,200,144,Healthcare,Series C,215,2023
+1033,Workato,Mountain View,California,USA,North America,90,01-02-2023,10,900,810,Other,Series E,415,2023
+1034,Highspot,Seattle,Washington,USA,North America,100,02-02-2023,10,1000,900,Sales,Series F,644,2023
+1035,Miro,San Francisco,California,USA,North America,119,02-02-2023,7,1700,1581,Other,Series C,476,2023
+1036,Okta,San Francisco,California,USA,North America,300,02-02-2023,5,6000,5700,Security,Post-IPO,1200,2023
+1037,Eightfold AI,Santa Clara,California,USA,North America,90,03-02-2023,15,600,510,HR,Series E,396,2023
+1038,Protocol Labs,San Francisco,California,USA,North America,89,03-02-2023,20,445,356,Crypto,Unknown,10,2023
+1039,Lightico,Tel Aviv,Unknown,Israel,Asia,20,05-02-2023,25,80,60,Finance,Series B,42,2023
+1040,Loggi,Sao Paulo,Unknown,Brazil,South America,300,06-02-2023,7,4286,3986,Logistics,Series F,507,2023
+1041,Pocket Aces,Mumbai,Unknown,India,Asia,50,06-02-2023,25,200,150,Media,Unknown,19,2023
+1042,eBay,San Francisco,California,USA,North America,500,07-02-2023,4,12500,12000,e-commerce,Post-IPO,1200,2023
+1043,LearnUpon,Dublin,Unknown,Ireland,Europe,27,07-02-2023,9,300,273,Education,Private Equity,56,2023
+1044,Openpay,Melbourne,Unknown,Australia,Oceana,83,07-02-2023,100,83,0,Finance,Post-IPO,299,2023
+1045,Salesloft,Atlanta,Georgia,USA,North America,100,07-02-2023,10,1000,900,Sales,Acquired,245,2023
+1046,SecureWorks,Atlanta,Georgia,USA,North America,212,07-02-2023,9,2356,2144,Security,Post-IPO,83,2023
+1047,Zoom,San Jose,California,USA,North America,1300,07-02-2023,15,8667,7367,Other,Post-IPO,276,2023
+1048,Affirm,San Francisco,California,USA,North America,500,08-02-2023,19,2632,2132,Finance,Post-IPO,1500,2023
+1049,Beam Benefits,Columbus,Ohio,USA,North America,31,08-02-2023,8,388,357,Healthcare,Series E,168,2023
+1050,Equitybee,Palo Alto,California,USA,North America,24,08-02-2023,25,96,72,Finance,Series B,85,2023
+1051,GoDaddy,Phoenix,Arizona,USA,North America,530,08-02-2023,8,6625,6095,Marketing,Post-IPO,800,2023
+1052,Gong,San Francisco,California,USA,North America,80,08-02-2023,7,1143,1063,Sales,Series E,583,2023
+1053,Gusto,San Francisco,California,USA,North America,126,08-02-2023,5,2520,2394,HR,Series E,746,2023
+1054,Deliveroo,London,Unknown,UK,Europe,350,09-02-2023,9,3889,3539,Food,Post-IPO,1700,2023
+1055,GitLab,San Francisco,California,USA,North America,130,09-02-2023,7,1857,1727,Product,Post-IPO,413,2023
+1056,MiSan Francisco Bay Areaits Market,Philadelphia,Pennsylvania,USA,North America,649,09-02-2023,33,1967,1318,Food,Series C,526,2023
+1057,Olive AI,Columbus,Ohio,USA,North America,215,09-02-2023,35,614,399,Healthcare,Series H,856,2023
+1058,Oportun,San Carlos,California,USA,North America,155,09-02-2023,10,1550,1395,Finance,Post-IPO,566,2023
+1059,REE Automotive,Tel Aviv,Unknown,Israel,Asia,31,09-02-2023,11,282,251,Transportation,Post-IPO,317,2023
+1060,Veriff,Tallinn,Unknown,Estonia,Europe,66,09-02-2023,12,550,484,Security,Series C,192,2023
+1061,Yahoo,Sunnyvale,California,USA,North America,1600,09-02-2023,20,8000,6400,Consumer,Acquired,6,2023
+1062,Titan Medical,Toronto,Unknown,Canada,North America,48,10-02-2023,72,67,19,Healthcare,Post-IPO,278,2023
+1063,TripleLift,New York City,New York,USA,North America,100,10-02-2023,20,500,400,Marketing,Acquired,16,2023
+1064,Moladin,Jakarta,Unknown,Indonesia,Asia,360,12-02-2023,11,3273,2913,Transportation,Series B,138,2023
+1065,Electric,New York City,New York,USA,North America,141,13-02-2023,25,564,423,Other,Series D,212,2023
+1066,iRobot,Boston,Massachusetts,USA,North America,85,13-02-2023,7,1214,1129,Consumer,Acquired,30,2023
+1067,Twilio,San Francisco,California,USA,North America,1500,13-02-2023,17,8824,7324,Other,Post-IPO,614,2023
+1068,Dropp,Berlin,Berlin,Germany,Europe,60,14-02-2023,100,60,0,Retail,Unknown,2,2023
+1069,DigitalOcean,New York City,New York,USA,North America,200,15-02-2023,11,1818,1618,Infrastructure,Post-IPO,491,2023
+1070,Neon,Sao Paulo,Unknown,Brazil,South America,210,15-02-2023,9,2333,2123,Finance,Series D,720,2023
+1071,ServiceTitan,Los Angeles,California,USA,North America,221,15-02-2023,8,2763,2542,Sales,Series G,1100,2023
+1072,Sprinklr,New York City,New York,USA,North America,100,15-02-2023,4,2500,2400,Software Development,Post-IPO,429,2023
+1073,Wix,Tel Aviv,Unknown,Israel,Asia,370,15-02-2023,6,6167,5797,Marketing,Post-IPO,58,2023
+1074,DocuSign,San Francisco,California,USA,North America,680,16-02-2023,10,6800,6120,Sales,Post-IPO,536,2023
+1075,Pico Interactive,San Francisco,California,USA,North America,400,16-02-2023,20,2000,1600,Other,Acquired,62,2023
+1076,Smartsheet,Seattle,Washington,USA,North America,85,16-02-2023,3,2833,2748,Other,Post-IPO,152,2023
+1077,The RealReal,San Francisco,California,USA,North America,230,16-02-2023,7,3286,3056,Retail,Post-IPO,356,2023
+1078,Chipper Cash,San Francisco,California,USA,North America,100,17-02-2023,33,303,203,Finance,Series C,302,2023
+1079,Micron,Boise,Idaho,USA,North America,2400,17-02-2023,5,48000,45600,Hardware,Post-IPO,50,2023
+1080,Fireblocks,New York City,New York,USA,North America,30,20-02-2023,5,600,570,Crypto,Series E,1000,2023
+1081,Kinde,Sydney,Unknown,Australia,Oceana,8,20-02-2023,28,29,21,Other,Seed,10,2023
+1082,MyGate,Bengaluru,Unknown,India,Asia,200,20-02-2023,30,667,467,Other,Series B,79,2023
+1083,Basis Technologies,Chicago,Illinois,USA,North America,40,21-02-2023,4,1000,960,Marketing,Series B,52,2023
+1084,Green Labs,Seoul,Unknown,South Korea,Asia,350,21-02-2023,70,500,150,Food,Series C,214,2023
+1085,Polygon,Bengaluru,Unknown,India,Asia,100,21-02-2023,20,500,400,Crypto,Unknown,451,2023
+1086,OneFootball,Berlin,Berlin,Germany,Europe,150,23-02-2023,32,469,319,Marketing,Series D,442,2023
+1087,Ericsson,Stockholm,Unknown,Sweden,Europe,8500,24-02-2023,8,106250,97750,Other,Post-IPO,663,2023
+1088,Twitter,San Francisco,California,USA,North America,200,25-02-2023,10,2000,1800,Consumer,Post-IPO,12900,2023
+1089,Amount,Chicago,Illinois,USA,North America,130,27-02-2023,25,520,390,Finance,Unknown,283,2023
+1090,Cerebral,Walnut,California,USA,North America,285,27-02-2023,15,1900,1615,Healthcare,Series C,462,2023
+1091,Outreach,Seattle,Washington,USA,North America,70,27-02-2023,7,1000,930,Sales,Series G,489,2023
+1092,Palantir,Denver,Colorado,USA,North America,75,27-02-2023,2,3750,3675,Data,Post-IPO,3000,2023
+1093,Stytch,San Francisco,California,USA,North America,19,27-02-2023,25,76,57,Security,Series B,126,2023
+1094,Eventbrite,San Francisco,California,USA,North America,80,28-02-2023,8,1000,920,Consumer,Post-IPO,557,2023
+1095,iFood,Sao Paulo,Unknown,Brazil,South America,355,01-03-2023,6,5917,5562,Food,Subsidiary,2100,2023
+1096,PayFit,Paris,Unknown,France,Europe,200,01-03-2023,20,1000,800,HR,Series E,495,2023
+1097,Sonder,San Francisco,California,USA,North America,100,01-03-2023,14,714,614,Travel,Post-IPO,839,2023
+1098,Thoughtworks,Chicago,Illinois,USA,North America,500,01-03-2023,4,12500,12000,Other,Post-IPO,748,2023
+1099,Waymo,Mountain View,California,USA,North America,209,01-03-2023,8,2613,2404,Transportation,Subsidiary,5500,2023
+1100,CNET,San Francisco,California,USA,North America,12,02-03-2023,10,120,108,Media,Acquired,20,2023
+1101,Fittr,Pune,Unknown,India,Asia,30,02-03-2023,11,273,243,Fitness,Series A,13,2023
+1102,Zscaler,San Jose,California,USA,North America,177,02-03-2023,3,5900,5723,Security,Post-IPO,148,2023
+1103,Embark Trucks,San Francisco,California,USA,North America,230,03-03-2023,70,329,99,Transportation,Post-IPO,317,2023
+1104,Loft,Sao Paulo,Unknown,Brazil,South America,340,03-03-2023,15,2267,1927,Real Estate,Unknown,788,2023
+1105,Atlassian,Sydney,Unknown,Australia,Oceana,500,06-03-2023,5,10000,9500,Other,Post-IPO,210,2023
+1106,SiriusXM,New York City,New York,USA,North America,475,06-03-2023,8,5938,5463,Media,Post-IPO,525,2023
+1107,Pristyn Care,Gurugram,Unknown,India,Asia,300,07-03-2023,15,2000,1700,Healthcare,Series E,177,2023
+1108,Zwift,Los Angeles,California,USA,North America,80,07-03-2023,15,533,453,Fitness,Series C,619,2023
+1109,Wattpad,Toronto,Unknown,Canada,North America,42,08-03-2023,15,280,238,Media,Acquired,117,2023
+1110,Gopuff,Philadelphia,Pennsylvania,USA,North America,100,09-03-2023,2,5000,4900,Food,Series H,3400,2023
+1111,Xero,Wellington,Unknown,New Zealand,Oceana,800,09-03-2023,15,5333,4533,Finance,Post-IPO,681,2023
+1112,Anchorage Digital,San Francisco,California,USA,North America,75,14-03-2023,20,375,300,Crypto,Series D,487,2023
+1113,Avidbots,Kitchener,Unknown,Canada,North America,50,14-03-2023,14,357,307,Hardware,Series C,106,2023
+1114,Fetch,Madison,Wisconsin,USA,North America,100,14-03-2023,10,1000,900,Retail,Series E,581,2023
+1115,Kaleidoscope,Minneapolis,Minnesota,USA,North America,15,14-03-2023,30,50,35,Finance,Series A,16,2023
+1117,Boxed,New York City,New York,USA,North America,32,15-03-2023,25,128,96,Retail,Post-IPO,365,2023
+1118,Dukaan,Bengaluru,Unknown,India,Asia,56,15-03-2023,30,187,131,Retail,Series A,17,2023
+1119,TradeWindow,Auckland,Unknown,New Zealand,Oceana,25,15-03-2023,30,83,58,Finance,Series B,24,2023
+1120,Course Hero,Redwood City,California,USA,North America,42,16-03-2023,15,280,238,Education,Series C,477,2023
+1121,Freshworks,San Mateo,California,USA,North America,114,16-03-2023,2,5700,5586,Support,Post-IPO,484,2023
+1122,Leafly,Seattle,Washington,USA,North America,40,16-03-2023,21,190,150,Retail,Post-IPO,71,2023
+1123,Livspace,Bengaluru,Unknown,India,Asia,100,17-03-2023,2,5000,4900,Retail,Series F,431,2023
+1124,Symend,Calgary,Unknown,Canada,North America,50,17-03-2023,25,200,150,Other,Series C,148,2023
+1126,FreshBooks,Toronto,Unknown,Canada,North America,80,21-03-2023,10,800,720,Finance,Unknown,331,2023
+1127,Smallcase,Bengaluru,Unknown,India,Asia,15,21-03-2023,4,375,360,Finance,Series C,62,2023
+1128,Workhuman,Dublin,Unknown,Ireland,Europe,130,21-03-2023,10,1300,1170,HR,Unknown,131,2023
+1129,Glassdoor,San Francisco,California,USA,North America,140,22-03-2023,15,933,793,HR,Acquired,204,2023
+1130,Indeed,Austin,Texas,USA,North America,2200,22-03-2023,15,14667,12467,HR,Acquired,5,2023
+1131,Wejo,Chester,Unknown,UK,Europe,40,22-03-2023,16,250,210,Transportation,Post-IPO,376,2023
+1132,Slite,Paris,Unknown,France,Europe,10,23-03-2023,25,40,30,Other,Series A,15,2023
+1133,AEye,San Francisco,California,USA,North America,46,28-03-2023,33,139,93,Transportation,Post-IPO,314,2023
+1134,Lucid Motors,Newark,California,USA,North America,1300,28-03-2023,18,7222,5922,Transportation,Post-IPO,8300,2023
+1135,Electronic Arts,Redwood City,California,USA,North America,780,29-03-2023,6,13000,12220,Consumer,Post-IPO,2,2023
+1136,iCAD,Nashua,New Hampshire,USA,North America,23,29-03-2023,28,82,59,Healthcare,Post-IPO,59,2023
+1137,Crossbeam,Philadelphia,Pennsylvania,USA,North America,17,30-03-2023,15,113,96,Sales,Series C,116,2023
+1138,FanClash,Gurugram,Unknown,India,Asia,100,30-03-2023,75,133,33,Consumer,Series B,50,2023
+1139,Loop,Austin,Texas,USA,North America,19,30-03-2023,25,76,57,Finance,Series A,24,2023
+1140,Roku,San Jose,California,USA,North America,200,30-03-2023,6,3333,3133,Media,Post-IPO,208,2023
+1141,Domestika,Madrid,Unknown,Spain,Europe,89,31-03-2023,45,198,109,Education,Series D,130,2023
+1142,Guideline,Burlingame,California,USA,North America,48,03-04-2023,11,436,388,Finance,Series E,339,2023
+1143,Textio,Seattle,Washington,USA,North America,15,03-04-2023,12,125,110,HR,Unknown,42,2023
+1144,View,Mountain View,California,USA,North America,170,03-04-2023,23,739,569,Other,Post-IPO,2300,2023
+1145,Boost,New York City,New York,USA,North America,15,04-04-2023,20,75,60,Finance,Series B,37,2023
+1146,Amplitude,Milpitas,California,USA,North America,99,05-04-2023,13,762,663,Data,Post-IPO,311,2023
+1147,Dunzo,Bengaluru,Unknown,India,Asia,300,05-04-2023,30,1000,700,Food,Unknown,382,2023
+1148,Talent.com,Montreal,Unknown,Canada,North America,86,05-04-2023,18,478,392,HR,Series B,150,2023
+1149,Pear Therapeutics,Boston,Massachusetts,USA,North America,170,07-04-2023,92,185,15,Healthcare,Post-IPO,409,2023
+1150,ZestMoney,Bengaluru,Unknown,India,Asia,100,07-04-2023,20,500,400,Finance,Series C,120,2023
+1151,Simpl,Bengaluru,Unknown,India,Asia,150,09-04-2023,25,600,450,Finance,Series B,71,2023
+1152,Flock Freight,San Diego,California,USA,North America,45,10-04-2023,8,563,518,Logistics,Series D,399,2023
+1153,Nori,Seattle,Washington,USA,North America,10,10-04-2023,37,27,17,Energy,Unknown,13,2023
+1154,Examedi,Santiago,Unknown,Chile,South America,45,11-04-2023,25,180,135,Healthcare,Unknown,19,2023
+1155,Milkrun,Sydney,Unknown,Australia,Oceana,400,11-04-2023,100,400,0,Food,Series A,86,2023
+1156,Permutive,London,Unknown,UK,Europe,80,11-04-2023,40,200,120,Marketing,Series C,105,2023
+1157,Redfin,Seattle,Washington,USA,North America,201,11-04-2023,4,5025,4824,Real Estate,Post-IPO,320,2023
+1158,Viasat,San Diego,California,USA,North America,300,12-04-2023,4,7500,7200,Other,Post-IPO,366,2023
+1159,Astronomer,Cincinnati,Ohio,USA,North America,100,13-04-2023,40,250,150,Data,Series C,282,2023
+1160,Community Gaming,New York City,New York,USA,North America,17,14-04-2023,17,100,83,Crypto,Series A,18,2023
+1161,Drip Capital,Palo Alto,California,USA,North America,75,14-04-2023,20,375,300,Finance,Series C,85,2023
+1162,Clearcover,Chicago,Illinois,USA,North America,81,17-04-2023,15,540,459,Finance,Series D,304,2023
+1163,Paper,Montreal,Unknown,Canada,North America,81,17-04-2023,3,2700,2619,Education,Series D,389,2023
+1164,Ynsect,Paris,Unknown,France,Europe,17,17-04-2023,25,68,51,Food,Series D,579,2023
+1165,Culture Amp,Melbourne,Unknown,Australia,Oceana,90,18-04-2023,9,1000,910,HR,Series F,257,2023
+1166,Opendoor,San Francisco,California,USA,North America,560,18-04-2023,22,2545,1985,Real Estate,Post-IPO,1900,2023
+1167,TRM Labs,San Francisco,California,USA,North America,16,18-04-2023,9,178,162,Crypto,Series B,149,2023
+1168,WalkMe,San Francisco,California,USA,North America,112,19-04-2023,10,1120,1008,Other,Post-IPO,307,2023
+1169,BuzzFeed,New York City,New York,USA,North America,180,20-04-2023,15,1200,1020,Media,Post-IPO,696,2023
+1170,Gloat,New York City,New York,USA,North America,35,20-04-2023,12,292,257,HR,Series D,192,2023
+1171,Koo,Bengaluru,Unknown,India,Asia,78,20-04-2023,30,260,182,Consumer,Series B,50,2023
+1172,Benchling,San Francisco,California,USA,North America,74,21-04-2023,9,822,748,Other,Series F,411,2023
+1173,Lyft,San Francisco,California,USA,North America,1072,21-04-2023,26,4123,3051,Transportation,Post-IPO,4900,2023
+1174,BigPanda,Redwood City,California,USA,North America,40,24-04-2023,13,308,268,Infrastructure,Series E,337,2023
+1175,Flink,Berlin,Berlin,Germany,Europe,8000,24-04-2023,40,20000,12000,Food,Series B,1000,2023
+1176,Rapid,San Francisco,California,USA,North America,115,25-04-2023,50,230,115,Finance,Series D,272,2023
+1177,Rapid,San Francisco,California,USA,North America,70,25-04-2023,30,233,163,Finance,Series D,272,2023
+1178,Teampay,New York City,New York,USA,North America,30,26-04-2023,33,91,61,Finance,Series B,79,2023
+1179,Airtasker,Sydney,Unknown,Australia,Oceana,45,27-04-2023,20,225,180,Retail,Series C,26,2023
+1180,Alteryx,Los Angeles,California,USA,North America,320,27-04-2023,11,2909,2589,Data,Post-IPO,613,2023
+1181,Chief,New York City,New York,USA,North America,43,27-04-2023,14,307,264,Other,Series B,140,2023
+1182,Dropbox,San Francisco,California,USA,North America,500,27-04-2023,16,3125,2625,Other,Post-IPO,1700,2023
+1183,Greenhouse,New York City,New York,USA,North America,100,27-04-2023,12,833,733,HR,Private Equity,110,2023
+1184,Megaport,Brisbane,Unknown,Australia,Oceana,50,27-04-2023,16,313,263,Infrastructure,Post-IPO,98,2023
+1185,Tickertape,Bengaluru,Unknown,India,Asia,29,27-04-2023,29,100,71,Finance,Seed,5,2023
+1186,Vroom,New York City,New York,USA,North America,120,27-04-2023,11,1091,971,Transportation,Post-IPO,1300,2023
+1187,Cue Health,San Diego,California,USA,North America,326,28-04-2023,30,1087,761,Healthcare,Post-IPO,899,2023
+1188,N26,Berlin,Berlin,Germany,Europe,71,28-04-2023,4,1775,1704,Finance,Series E,1700,2023
+1189,Bishop Fox,Phoenix,Arizona,USA,North America,50,02-05-2023,13,385,335,Security,Series B,146,2023
+1190,Zoomo,Sydney,Unknown,Australia,Oceana,27,02-05-2023,8,338,311,Transportation,Series B,105,2023
+1191,Brightcove,Boston,Massachusetts,USA,North America,70,03-05-2023,10,700,630,Marketing,Post-IPO,145,2023
+1192,Healthy.io,Tel Aviv,Unknown,Israel,Asia,70,03-05-2023,33,212,142,Healthcare,Series D,185,2023
+1193,TheSkimm,New York City,New York,USA,North America,22,03-05-2023,13,169,147,Media,Series C,28,2023
+1194,Unity,San Francisco,California,USA,North America,600,03-05-2023,8,7500,6900,Other,Post-IPO,1300,2023
+1195,Upwork,San Francisco,California,USA,North America,137,03-05-2023,15,913,776,Other,Post-IPO,168,2023
+1196,Autograph,Los Angeles,California,USA,North America,30,04-05-2023,33,91,61,Crypto,Series B,205,2023
+1197,Earnix,Tel Aviv,Unknown,Israel,Asia,30,04-05-2023,10,300,270,Finance,Unknown,100,2023
+1198,Karma,Tel Aviv,Unknown,Israel,Asia,20,04-05-2023,28,71,51,Retail,Series A,34,2023
+1199,Sabre,Dallas,Texas,USA,North America,1100,04-05-2023,15,7333,6233,Travel,Post-IPO,Null,2023
+1200,Shopify,Ottawa,Unknown,Canada,North America,2300,04-05-2023,20,11500,9200,Retail,Post-IPO,122,2023
+1201,Meesho,Bengaluru,Unknown,India,Asia,251,05-05-2023,15,1673,1422,Retail,Series F,1100,2023
+1202,Twist Bioscience,San Francisco,California,USA,North America,270,05-05-2023,25,1080,810,Healthcare,Post-IPO,503,2023
+1203,LinkedIn,Sunnyvale,California,USA,North America,716,08-05-2023,4,17900,17184,HR,Acquired,154,2023
+1204,Akamai,Boston,Massachusetts,USA,North America,290,09-05-2023,3,9667,9377,Security,Post-IPO,35,2023
+1205,AudioCodes,Tel Aviv,Unknown,Israel,Asia,80,09-05-2023,6,1333,1253,Other,Post-IPO,91,2023
+1206,Sonatype,Baltimore,Maryland,USA,North America,100,09-05-2023,14,714,614,Security,Acquired,154,2023
+1207,Redbubble,Melbourne,Unknown,Australia,Oceana,70,10-05-2023,23,304,234,Retail,Post-IPO,55,2023
+1208,Similarweb,New York City,New York,USA,North America,60,10-05-2023,6,1000,940,Other,Post-IPO,235,2023
+1209,Stack Overflow,New York City,New York,USA,North America,58,10-05-2023,10,580,522,HR,Acquired,153,2023
+1210,Cornershop,Santiago,Unknown,Chile,South America,250,11-05-2023,11,2273,2023,Food,Acquired,31,2023
+1211,Happay,Bengaluru,Unknown,India,Asia,160,12-05-2023,35,457,297,Finance,Acquired,21,2023
+1212,Nuro,Mountain View,California,USA,North America,340,12-05-2023,30,1133,793,Transportation,Series D,2100,2023
+1213,Lemonade,New York City,New York,USA,North America,45,16-05-2023,3,1500,1455,Finance,Post-IPO,481,2023
+1214,Zepz,London,Unknown,UK,Europe,420,16-05-2023,26,1615,1195,Finance,Series E,700,2023
+1215,Stash,New York City,New York,USA,North America,40,17-05-2023,10,400,360,Finance,Unknown,480,2023
+1216,Pie Insurance,Washington DC,District of Columbia,USA,North America,63,18-05-2023,14,450,387,Finance,Series D,621,2023
+1217,Flink,Berlin,Berlin,Germany,Europe,100,24-05-2023,16,625,525,Food,Series B,1000,2023
+1218,Guild,Denver,Colorado,USA,North America,172,24-05-2023,12,1433,1261,Education,Series F,643,2023
+1219,Western Digital,Kfar Saba,Unknown,Israel,Asia,60,24-05-2023,7,857,797,Hardware,Post-IPO,900,2023
+1220,Airmeet,Bengaluru,Unknown,India,Asia,75,25-05-2023,30,250,175,Marketing,Series B,50,2023
+1221,Project44,Chicago,Illinois,USA,North America,130,26-05-2023,10,1300,1170,Logistics,Unknown,817,2023
+1222,Evolve,Denver,Colorado,USA,North America,164,29-05-2023,14,1171,1007,Travel,Series F,224,2023
+1223,Taxfix,Berlin,Berlin,Germany,Europe,120,30-05-2023,20,600,480,Finance,Series D,330,2023
+1224,Away,New York City,New York,USA,North America,22,31-05-2023,8,275,253,Retail,Series D,181,2023
+1225,Mux,San Francisco,California,USA,North America,40,31-05-2023,30,133,93,Infrastructure,Series D,173,2023
+1226,Vendr,Boston,Massachusetts,USA,North America,100,31-05-2023,25,400,300,Other,Series B,216,2023
+1227,Zendesk,San Francisco,California,USA,North America,320,31-05-2023,8,4000,3680,Support,Acquired,85,2023
+1228,ZipRecruiter,Los Angeles,California,USA,North America,270,31-05-2023,20,1350,1080,HR,Post-IPO,769,2023
+1229,Outbrain,New York City,New York,USA,North America,90,01-06-2023,10,900,810,Marketing,Post-IPO,394,2023
+1230,ZoomInfo,Vancouver,Unknown,Canada,North America,120,02-06-2023,3,4000,3880,Sales,Post-IPO,7,2023
+1231,Spotify,Stockholm,Unknown,Sweden,Europe,200,05-06-2023,2,10000,9800,Media,Post-IPO,2100,2023
+1232,Dragos,Baltimore,Maryland,USA,North America,50,06-06-2023,9,556,506,Security,Series D,364,2023
+1233,Edgio,Phoenix,Arizona,USA,North America,134,06-06-2023,12,1117,983,Infrastructure,Post-IPO,462,2023
+1234,Linktree,Melbourne,Unknown,Australia,Oceana,60,06-06-2023,27,222,162,Consumer,Unknown,165,2023
+1235,Reddit,San Francisco,California,USA,North America,90,06-06-2023,5,1800,1710,Consumer,Series F,1300,2023
+1236,Cityblock Health,New York City,New York,USA,North America,155,08-06-2023,12,1292,1137,Healthcare,Series D,891,2023
+1237,Highspot,Seattle,Washington,USA,North America,140,08-06-2023,15,933,793,Sales,Series F,644,2023
+1238,23andMe,San Francisco,California,USA,North America,75,09-06-2023,9,833,758,Healthcare,Post-IPO,1100,2023
+1239,Expel,Washington DC,District of Columbia,USA,North America,60,09-06-2023,10,600,540,Security,Series E,288,2023
+1240,Trybe,Sao Paulo,Unknown,Brazil,South America,128,09-06-2023,35,366,238,Education,Series B,40,2023
+1241,TaxBit,San Francisco,California,USA,North America,80,11-06-2023,40,200,120,Crypto,Unknown,253,2023
+1242,Chegg,Santa Clara,California,USA,North America,80,12-06-2023,4,2000,1920,Education,Post-IPO,227,2023
+1243,GoCardless,London,Unknown,UK,Europe,150,12-06-2023,17,882,732,Finance,Series G,529,2023
+1244,Grubhub,San Francisco,California,USA,North America,400,12-06-2023,15,2667,2267,Food,Acquired,284,2023
+1245,Pendo,Raleigh,North Carolina,USA,North America,100,12-06-2023,12,833,733,Product,Series F,469,2023
+1246,Bitwise,Fresno,California,USA,North America,900,14-06-2023,100,900,0,Crypto,Series B,84,2023
+1247,Olo,New York City,New York,USA,North America,81,14-06-2023,11,736,655,Food,Post-IPO,184,2023
+1248,Sonos,New York City,New York,USA,North America,130,14-06-2023,7,1857,1727,Consumer,Post-IPO,455,2023
+1249,TrueCar,Los Angeles,California,USA,North America,102,14-06-2023,24,425,323,Transportation,Post-IPO,340,2023
+1250,CareRev,Los Angeles,California,USA,North America,100,15-06-2023,33,303,203,Healthcare,Series A,51,2023
+1251,FrontRow,Bengaluru,Unknown,India,Asia,39,15-06-2023,90,43,4,Education,Series A,17,2023
+1252,Pilot,San Francisco,California,USA,North America,45,16-06-2023,13,346,301,Finance,Unknown,116,2023
+1253,Mojocare,Bengaluru,Unknown,India,Asia,170,17-06-2023,80,213,43,Healthcare,Series A,24,2023
+1254,Chingari,Bengaluru,Unknown,India,Asia,48,19-06-2023,20,240,192,Media,Unknown,88,2023
+1255,Grab,Singapore,Unknown,Singapore,Asia,1000,20-06-2023,11,9091,8091,Transportation,Post-IPO,16500,2023
+1256,Ritual,Toronto,Unknown,Canada,North America,38,21-06-2023,40,95,57,Food,Series C,134,2023
+1257,Uber,San Francisco,California,USA,North America,200,21-06-2023,1,20000,19800,Transportation,Post-IPO,25200,2023
+1258,Convoy,Seattle,Washington,USA,North America,30,26-06-2023,5,600,570,Logistics,Series E,1100,2023
+1259,Robinhood,Menlo Park,California,USA,North America,150,26-06-2023,7,2143,1993,Finance,Post-IPO,5600,2023
+1260,New Relic,San Francisco,California,USA,North America,255,27-06-2023,10,2550,2295,Infrastructure,Post-IPO,214,2023
+1261,ClickUp,San Diego,California,USA,North America,90,28-06-2023,10,900,810,Other,Series C,537,2023
+1262,Plex,Campbell,California,USA,North America,37,28-06-2023,20,185,148,Media,Unknown,81,2023
+1263,Artsy,New York City,New York,USA,North America,35,29-06-2023,15,233,198,Retail,Series D,100,2023
+1264,Headspace,Los Angeles,California,USA,North America,181,29-06-2023,15,1207,1026,Healthcare,Unknown,216,2023
+1265,Torii,Ra'anana,Unknown,Israel,Asia,28,29-06-2023,30,93,65,Other,Series B,65,2023
+1266,Zip,Sydney,Unknown,Australia,Oceana,300,02-07-2023,20,1500,1200,Finance,Post-IPO,896,2023
+1267,Highsnobiety,Berlin,Berlin,Germany,Europe,24,03-07-2023,10,240,216,Media,Acquired,8,2023
+1268,FNZ,London,Unknown,UK,Europe,1000,06-07-2023,15,6667,5667,Finance,Private Equity,Null,2023
+1269,Perfect Day,Berkeley,California,USA,North America,134,06-07-2023,15,893,759,Food,Series D,711,2023
+1270,TytoCare,New York City,New York,USA,North America,20,06-07-2023,10,200,180,Healthcare,Series D,156,2023
+1271,FrontRow,Bengaluru,Unknown,India,Asia,4,10-07-2023,100,4,0,Education,Series A,17,2023
+1272,Matterport,Sunnyvale,California,USA,North America,170,11-07-2023,30,567,397,Data,Post-IPO,409,2023
+1273,Sisense,New York City,New York,USA,North America,100,11-07-2023,15,667,567,Data,Series F,274,2023
+1274,WayCool,Chennai,Unknown,India,Asia,300,11-07-2023,12,2500,2200,Food,Unknown,363,2023
+1275,DeepVerge,Dublin,Unknown,Ireland,Europe,50,12-07-2023,100,50,0,Healthcare,Post-IPO,20,2023
+1276,Freightos,Miami,Florida,USA,North America,50,12-07-2023,13,385,335,Logistics,Post-IPO,118,2023
+1277,AudioCodes,Tel Aviv,Unknown,Israel,Asia,80,13-07-2023,6,1333,1253,Other,Post-IPO,91,2023
+1278,Deepwatch,Tampa Bay,Florida,USA,North America,30,13-07-2023,7,429,399,Security,Series C,256,2023
+1279,PayScale,Seattle,Washington,USA,North America,14,14-07-2023,2,700,686,HR,Acquired,33,2023
+1280,Sarcos,Salt Lake City,Utah,USA,North America,75,17-07-2023,25,300,225,Aerospace,Post-IPO,316,2023
+1281,AgentSync,Denver,Colorado,USA,North America,67,19-07-2023,24,279,212,Finance,Series B,111,2023
+1282,Inspirato,Denver,Colorado,USA,North America,50,19-07-2023,6,833,783,Travel,Post-IPO,179,2023
+1283,Tilia,San Francisco,California,USA,North America,28,19-07-2023,32,88,60,Finance,Unknown,32,2023
+1284,Deep Instict,New York City,New York,USA,North America,46,25-07-2023,15,307,261,Security,Unknown,322,2023
+1285,Calendly,Atlanta,Georgia,USA,North America,60,26-07-2023,10,600,540,Other,Series B,351,2023
+1286,Copia,Nairobi,Unknown,Kenya,Africa,350,26-07-2023,25,1400,1050,Retail,Series C,103,2023
+1287,Figure,San Francisco,California,USA,North America,90,26-07-2023,20,450,360,Crypto,Unknown,1500,2023
+1288,Milkbasket,Gurugram,Unknown,India,Asia,400,27-07-2023,67,597,197,Food,Acquired,39,2023
+1289,Point,Palo Alto,California,USA,North America,61,27-07-2023,28,218,157,Real Estate,Series C,149,2023
+1290,Verbit,New York City,New York,USA,North America,60,27-07-2023,6,1000,940,Data,Series E,569,2023
+1291,Wish,San Francisco,California,USA,North America,255,27-07-2023,34,750,495,Retail,Post-IPO,1600,2023
+1292,Eroad,Auckland,Unknown,New Zealand,Oceana,200,28-07-2023,31,645,445,Transportation,Unknown,46,2023
+1293,Kape Technologies,London,Unknown,UK,Europe,200,30-07-2023,30,667,467,Security,Post-IPO,188,2023
+1294,Fable,Toronto,Unknown,Canada,North America,13,31-07-2023,9,144,131,Other,Series A,12,2023
+1295,Archipelago,San Francisco,California,USA,North America,40,01-08-2023,30,133,93,Real Estate,Series B,57,2023
+1296,Paper,Montreal,Unknown,Canada,North America,106,01-08-2023,4,2650,2544,Education,Series D,389,2023
+1297,Planet,San Francisco,California,USA,North America,117,01-08-2023,10,1170,1053,Aerospace,Post-IPO,574,2023
+1298,Vesttoo,Tel Aviv,Unknown,Israel,Asia,150,01-08-2023,75,200,50,Finance,Series C,110,2023
+1299,Augury,New York City,New York,USA,North America,70,02-08-2023,18,389,319,Manufacturing,Series E,274,2023
+1300,BetterUp,San Francisco,California,USA,North America,100,02-08-2023,16,625,525,HR,Series E,567,2023
+1301,Gupy,Sao Paulo,Unknown,Brazil,South America,58,02-08-2023,8,725,667,HR,Series B,105,2023
+1302,Spinny,Gurugram,Unknown,India,Asia,300,02-08-2023,5,6000,5700,Transportation,Series E,513,2023
+1303,Tekion,Bengaluru,Unknown,India,Asia,300,02-08-2023,10,3000,2700,Other,Series D,435,2023
+1304,Discord,San Francisco,California,USA,North America,37,03-08-2023,4,925,888,Consumer,Series H,Null,2023
+1305,Top Hat,Toronto,Unknown,Canada,North America,42,04-08-2023,7,600,558,Education,Series E,234,2023
+1306,23andMe,San Francisco,California,USA,North America,71,08-08-2023,11,645,574,Healthcare,Post-IPO,1100,2023
+1307,Doximity,San Francisco,California,USA,North America,100,08-08-2023,10,1000,900,Healthcare,Post-IPO,82,2023
+1308,Rapid7,Boston,Massachusetts,USA,North America,470,08-08-2023,18,2611,2141,Security,Post-IPO,89,2023
+1309,Thoughtworks,Chicago,Illinois,USA,North America,579,08-08-2023,5,11580,11001,Other,Post-IPO,748,2023
+1310,Blend,San Francisco,California,USA,North America,150,09-08-2023,19,789,639,Finance,Post-IPO,665,2023
+1311,Dealtale,Tel Aviv,Unknown,Israel,Asia,70,09-08-2023,100,70,0,Sales,Acquired,2,2023
+1312,SecureWorks,Atlanta,Georgia,USA,North America,300,14-08-2023,15,2000,1700,Security,Post-IPO,83,2023
+1313,AppFolio,Santa Barbara,California,USA,North America,149,17-08-2023,9,1656,1507,Real Estate,Post-IPO,30,2023
+1314,StreamElements,Tel Aviv,Unknown,Israel,Asia,60,17-08-2023,35,171,111,Media,Series B,111,2023
+1315,Twiga,Nairobi,Unknown,Kenya,Africa,283,20-08-2023,33,858,575,Food,Series C,157,2023
+1316,Getir,London,Unknown,UK,Europe,2500,22-08-2023,11,22727,20227,Food,Series E,1800,2023
+1317,Atlas,Chicago,Illinois,USA,North America,150,23-08-2023,30,500,350,HR,Series B,220,2023
+1318,BlackLine,Los Angeles,California,USA,North America,95,23-08-2023,5,1900,1805,Finance,Post-IPO,220,2023
+1319,Veriff,Tallinn,Unknown,Estonia,Europe,101,23-08-2023,21,481,380,Security,Series C,192,2023
+1320,Captiv8,San Francisco,California,USA,North America,8,24-08-2023,3,267,259,Marketing,Unknown,4,2023
+1321,Zebra Technologies,Chicago,Illinois,USA,North America,700,28-08-2023,7,10000,9300,Manufacturing,Post-IPO,Null,2023
+1322,Huma,London,Unknown,UK,Europe,45,30-08-2023,10,450,405,Healthcare,Unknown,217,2023
+1323,Kenko Health,Mumbai,Unknown,India,Asia,50,30-08-2023,20,250,200,Healthcare,Series A,14,2023
+1324,Omuni,Bengaluru,Unknown,India,Asia,60,30-08-2023,35,171,111,Retail,Acquired,10,2023
+1325,Zeplin,San Francisco,California,USA,North America,37,30-08-2023,35,106,69,Product,Seed,1,2023
+1326,Nexar,New York City,New York,USA,North America,17,04-09-2023,14,121,104,Transportation,Series D,149,2023
+1327,Absci,Portland,Oregon,USA,North America,30,05-09-2023,15,200,170,Healthcare,Post-IPO,238,2024
+1328,Hodinkee,New York City,New York,USA,North America,24,05-09-2023,20,120,96,Retail,Seed,40,2023
+1329,Roku,San Jose,California,USA,North America,360,06-09-2023,10,3600,3240,Media,Post-IPO,208,2023
+1330,Drift,Boston,Massachusetts,USA,North America,100,07-09-2023,25,400,300,Marketing,Acquired,107,2023
+1331,Chargebee,North Bethesda,California,USA,North America,100,11-09-2023,10,1000,900,Finance,Series H,468,2023
+1332,Grabango,Berkeley,California,USA,North America,34,11-09-2023,40,85,51,Food,Unknown,94,2023
+1333,At-Bay,San Francisco,California,USA,North America,27,12-09-2023,9,300,273,Security,Unknown,296,2023
+1334,Evolve,Denver,Colorado,USA,North America,175,12-09-2023,20,875,700,Travel,Series F,224,2023
+1335,Homeday,Berlin,Berlin,Germany,Europe,40,12-09-2023,20,200,160,Real Estate,Unknown,71,2023
+1336,Paper,Montreal,Unknown,Canada,North America,87,12-09-2023,3,2900,2813,Education,Series D,389,2023
+1337,Airtable,San Francisco,California,USA,North America,237,14-09-2023,27,878,641,Product,Series F,1400,2023
+1338,VideoAmp,Los Angeles,California,USA,North America,40,14-09-2023,10,400,360,Marketing,Series F,456,2023
+1339,7shifts,Saskatoon,Unknown,Canada,North America,30,15-09-2023,7,429,399,Food,Series C,131,2023
+1340,Lucid Software,Salt Lake City,Utah,USA,North America,75,25-09-2023,7,1071,996,Other,Series E,170,2023
+1341,Dunzo,Bengaluru,Unknown,India,Asia,150,26-09-2023,30,500,350,Food,Unknown,458,2023
+1342,Flexe,Seattle,Washington,USA,North America,131,26-09-2023,33,397,266,Logistics,Series D,263,2023
+1343,Fi.Money,Bengaluru,Unknown,India,Asia,30,27-09-2023,10,300,270,Finance,Series C,137,2023
+1344,Epic Gaming,Raleigh,North Carolina,USA,North America,870,28-09-2023,16,5438,4568,Consumer,Unknown,Null,2023
+1345,Cowbell,Pleasanton,California,USA,North America,28,29-09-2023,12,233,205,Finance,Series B,123,2023
+1346,Chainalysis,New York City,New York,USA,North America,150,02-10-2023,15,1000,850,Crypto,Series F,536,2023
+1347,Chia Network,San Francisco,California,USA,North America,26,02-10-2023,37,70,44,Crypto,Series D,70,2023
+1348,Synapse,San Francisco,California,USA,North America,86,02-10-2023,40,215,129,Finance,Series B,50,2023
+1349,Hopper,Montreal,Unknown,Canada,North America,250,04-10-2023,30,833,583,Travel,Unknown,730,2023
+1350,Qualtrics,Salt Lake City,Utah,USA,North America,780,04-10-2023,14,5571,4791,Other,Post-IPO,400,2023
+1351,Arrival,London,Unknown,UK,Europe,200,05-10-2023,25,800,600,Transportation,Post-IPO,629,2023
+1352,SchoolMint,San Francisco,California,USA,North America,29,05-10-2023,14,207,178,Education,Acquired,8,2023
+1353,InvestCloud,Los Angeles,California,USA,North America,80,06-10-2023,5,1600,1520,Finance,Private Equity,54,2023
+1354,Carbon Health,San Francisco,California,USA,North America,114,09-10-2023,5,2280,2166,Healthcare,Series D,522,2023
+1355,Deepgram,San Francisco,California,USA,North America,20,11-10-2023,20,100,80,AI,Series B,86,2023
+1356,Lending Club,San Francisco,California,USA,North America,172,12-10-2023,14,1229,1057,Finance,Post-IPO,392,2023
+1357,MariaDB,Redwood City,California,USA,North America,84,12-10-2023,28,300,216,Data,Post-IPO,272,2023
+1358,C2FO,Kansas City,Kansas,USA,North America,80,16-10-2023,3,2667,2587,Finance,Series H,537,2023
+1359,LinkedIn,Sunnyvale,California,USA,North America,660,16-10-2023,3,22000,21340,HR,Acquired,154,2023
+1360,ManoMano,Paris,Unknown,France,Europe,230,18-10-2023,25,920,690,Retail,Series F,705,2023
+1361,WeTranSan Francisco Bay Areaer,Amsterdam,Unknown,Netherlands,Europe,35,18-10-2023,10,350,315,Other,Series A,64,2023
+1362,Bullhorn,Boston,Massachusetts,USA,North America,140,19-10-2023,9,1556,1416,Sales,Acquired,32,2023
+1363,Convoy,Seattle,Washington,USA,North America,500,19-10-2023,100,500,0,Logistics,Series E,1100,2023
+1364,StellarAlgo,Calgary,Unknown,Canada,North America,21,19-10-2023,28,75,54,Data,Series A,16,2023
+1365,Nomad Health,New York City,New York,USA,North America,119,20-10-2023,17,700,581,Healthcare,Unknown,218,2023
+1366,SiFive,Santa Clara,California,USA,North America,130,24-10-2023,20,650,520,Hardware,Series F,365,2023
+1367,Hippo Insurance,Palo Alto,California,USA,North America,120,26-10-2023,20,600,480,Finance,Post-IPO,1300,2023
+1368,Faire,San Francisco,California,USA,North America,250,01-11-2023,20,1250,1000,Retail,Series G,1700,2023
+1369,Sana Benefits,Austin,Texas,USA,North America,73,01-11-2023,50,146,73,HR,Series B,106,2023
+1370,Splunk,San Jose,California,USA,North America,500,01-11-2023,7,7143,6643,Data,Post-IPO,2400,2023
+1371,Beyond Meat,Los Angeles,California,USA,North America,65,02-11-2023,8,813,748,Food,Post-IPO,122,2023
+1372,Viasat,San Diego,California,USA,North America,800,02-11-2023,10,8000,7200,Other,Post-IPO,366,2023
+1373,TripAdvisor,Boston,Massachusetts,USA,North America,125,12-11-2023,4,3125,3000,Travel,Post-IPO,3,2023
+1374,Physics Wallah,Noida,Unknown,India,Asia,120,19-11-2023,1,12000,11880,Education,Series A,100,2023
+1375,Our Next Energy,Detroit,Michigan,USA,North America,128,27-11-2023,25,512,384,Transportation,Series B,390,2023
+1376,Dataminr,New York City,New York,USA,North America,150,28-11-2023,20,750,600,AI,Series F,1100,2023
+1377,Unity,San Francisco,California,USA,North America,265,28-11-2023,4,6625,6360,Other,Post-IPO,1300,2023
+1378,Loco,Mumbai,Unknown,India,Asia,40,30-11-2023,36,111,71,Consumer,Acquired,52,2023
+1379,Zepz,London,Unknown,UK,Europe,30,30-11-2023,2,1500,1470,Finance,Series E,700,2023
+1380,Spotify,Stockholm,Unknown,Sweden,Europe,1500,04-12-2023,17,8824,7324,Media,Post-IPO,2100,2023
+1381,Incredibuild,Tel Aviv,Unknown,Israel,Asia,40,05-12-2023,20,200,160,Product,Series B,35,2023
+1382,Navan,Palo Alto,California,USA,North America,145,05-12-2023,5,2900,2755,Finance,Unknown,Null,2023
+1383,ZestMoney,Bengaluru,Unknown,India,Asia,150,05-12-2023,100,150,0,Finance,Series C,120,2023
+1384,Zulily,Seattle,Washington,USA,North America,839,08-12-2023,100,839,0,Retail,Acquired,194,2023
+1386,SmileDirectClub,Nashville,Tennessee,USA,North America,94,09-12-2023,100,94,0,Healthcare,Post-IPO,694,2024
+1387,Sunfolding,San Francisco,California,USA,North America,162,09-12-2023,100,162,0,Energy,Series B,32,2024
+1388,Chipper Cash,San Francisco,California,USA,North America,15,11-12-2023,33,45,30,Finance,Series C,302,2023
+1391,Etsy,New York City,New York,USA,North America,225,13-12-2023,11,2045,1820,Retail,Post-IPO,97,2023
+1392,Etsy,New York City,New York,USA,North America,225,13-12-2023,11,2045,1820,Retail,Post-IPO,97,2024
+1395,FourKites,Chicago,Illinois,USA,North America,47,13-12-2023,15,313,266,Logistics,Unknown,241,2024
+1396,Invitae,San Francisco,California,USA,North America,235,13-12-2023,15,1567,1332,Healthcare,Post-IPO,Null,2023
+1397,Sojern,San Francisco,California,USA,North America,50,13-12-2023,20,250,200,Marketing,Unknown,172,2024
+1398,Bolt,San Francisco,California,USA,North America,130,14-12-2023,29,448,318,Finance,Series E,1300,2023
+1399,Cruise,San Francisco,California,USA,North America,900,14-12-2023,24,3750,2850,Transportation,Acquired,15000,2023
+1400,Curalie,Berlin,Berlin,Germany,Europe,94,14-12-2023,100,94,0,Healthcare,Unknown,Null,2024
+1404,Stellar Pizza,Los Angeles,California,USA,North America,125,14-12-2023,50,250,125,Food,Series A,25,2024
+1412,Enphase Energy,Fremont,California,USA,North America,350,18-12-2023,10,3500,3150,Energy,Post-IPO,116,2023
+1413,Udaan,Bengaluru,Unknown,India,Asia,100,18-12-2023,10,1000,900,Retail,Unknown,Null,2023
+1414,InSightec,Haifa,Unknown,Israel,Asia,100,19-12-2023,20,500,400,Healthcare,Unknown,733,2023
+1415,InSightec,Haifa,Unknown,Israel,Asia,100,19-12-2023,20,500,400,Healthcare,Unknown,733,2024
+1416,Kaspien,Seattle,Washington,USA,North America,115,19-12-2023,100,115,0,Retail,Post-IPO,52,2024
+1417,ShareChat,Bengaluru,Unknown,India,Asia,200,20-12-2023,15,1333,1133,Consumer,Series H,1700,2023
+1418,Hyperloop One,Los Angeles,California,USA,North America,100,21-12-2023,100,100,0,Transportation,Unknown,368,2024
+1422,Strake,Boulder,Colorado,USA,North America,540,28-12-2023,100,540,0,Infrastructure,Unknown,Null,2024
+1423,Bolt.Earth,Bengaluru,Unknown,India,Asia,162,29-12-2023,20,810,648,Energy,Series B,24,2024
+1424,Frontdesk,Milwaukee,Wisconsin,USA,North America,200,02-01-2024,100,200,0,Travel,Unknown,26,2024
+1426,Lazada Group,Singapore,Unknown,Singapore,Asia,100,03-01-2024,30,333,233,Retail,Acquired,7,2024
+1427,Orca Security,Tel Aviv,Unknown,Israel,Asia,60,03-01-2024,15,400,340,Security,Series C,632,2024
+1428,Xerox,Norwalk,Connecticut,USA,North America,3000,03-01-2024,15,20000,17000,Hardware,Post-IPO,27,2024
+1429,InVision,New York City,New York,USA,North America,59,04-01-2024,100,59,0,Product,Series F,356,2024
+1430,Trigo,Tel Aviv,Unknown,Israel,Asia,30,04-01-2024,15,200,170,Retail,Series C,199,2024
+1431,VideoAmp,Los Angeles,California,USA,North America,50,04-01-2024,20,250,200,Marketing,Series F,456,2024
+1432,Cue Health,San Diego,California,USA,North America,94,05-01-2024,13,723,629,Healthcare,Post-IPO,899,2024
+1434,NanoString Technology,Seattle,Washington,USA,North America,50,06-01-2024,9,556,506,Healthcare,Post-IPO,826,2024
+1436,BenchSci,Toronto,Unknown,Canada,North America,70,08-01-2024,17,412,342,Healthcare,Series D,164,2024
+1437,Flexe,Seattle,Washington,USA,North America,99,08-01-2024,38,261,162,Logistics,Series D,263,2024
+1438,Flipkart,Bengaluru,Unknown,India,Asia,1100,08-01-2024,5,22000,20900,Retail,Acquired,13,2024
+1439,Here,Miami,Florida,USA,North America,82,08-01-2024,100,82,0,Real Estate,Seed,5,2024
+1440,Ledger Investing,New York City,New York,USA,North America,65,08-01-2024,25,260,195,Finance,Series B,91,2024
+1442,MeridianLink,Los Angeles,California,USA,North America,65,08-01-2024,9,722,657,Finance,Post-IPO,485,2024
+1443,NuScale Power,Corvallis,Oregon,USA,North America,154,08-01-2024,28,550,396,Energy,Post-IPO,470,2024
+1444,Pitch,Berlin,Berlin,Germany,Europe,80,08-01-2024,67,119,39,Other,Series B,138,2024
+1445,Unity,San Francisco,California,USA,North America,1800,08-01-2024,25,7200,5400,Other,Post-IPO,1,2024
+1448,FullStory,Atlanta,Georgia,USA,North America,50,09-01-2024,10,500,450,Marketing,Unknown,197,2024
+1449,Humane,San Francisco,California,USA,North America,10,09-01-2024,4,250,240,Hardware,Series C,230,2024
+1451,Nevro,Redwood City,California,USA,North America,63,09-01-2024,5,1260,1197,Healthcare,Post-IPO,556,2024
+1452,Rent the Runway,New York City,New York,USA,North America,37,09-01-2024,10,370,333,Retail,Post-IPO,526,2024
+1453,Treasure Financial,San Francisco,California,USA,North America,14,09-01-2024,60,23,9,Finance,Series A,14,2024
+1454,Trend Micro,Tokyo,Unknown,Japan,Asia,60,09-01-2024,2,3000,2940,Security,Unknown,Null,2024
+1455,Twitch,San Francisco,California,USA,North America,500,09-01-2024,35,1429,929,Consumer,Acquired,35,2024
+1459,ChargePoint,Campbell,California,USA,North America,71,10-01-2024,12,592,521,Manufacturing,Unknown,1,2024
+1460,Citrix,Miami,Florida,USA,North America,1000,10-01-2024,12,8333,7333,Infrastructure,Acquired,20,2024
+1461,FreshDirect,New York City,New York,USA,North America,100,10-01-2024,3,3333,3233,Food,Acquired,280,2024
+1465,SoFi,San Francisco,California,USA,North America,65,10-01-2024,4,1625,1560,Finance,Post-IPO,3,2024
+1467,7Shifts,Saskatoon,Unknown,Canada,North America,68,11-01-2024,19,358,290,Food,Series C,131,2024
+1468,Audible,New York City,New York,USA,North America,100,11-01-2024,5,2000,1900,Media,Acquired,14,2024
+1472,Dextrous Robotics,Memphis,Tennessee,USA,North America,47,11-01-2024,100,47,0,Logistics,Unknown,Null,2024
+1473,Discord,San Francisco,California,USA,North America,170,11-01-2024,17,1000,830,Consumer,Series H,995,2024
+1474,Inmobi,Bengaluru,Unknown,India,Asia,125,11-01-2024,5,2500,2375,Marketing,Unknown,320,2024
+1476,Playtika,Tel Aviv,Unknown,Israel,Asia,300,11-01-2024,10,3000,2700,Consumer,Post-IPO,Null,2024
+1477,Sisense,New York City,New York,USA,North America,60,11-01-2024,13,462,402,Data,Series F,274,2024
+1478,Artifact,San Francisco,California,USA,North America,60,12-01-2024,100,60,0,Media,Unknown,Null,2024
+1479,Dastgyr,Karachi,Unknown,Pakistan,Asia,115,12-01-2024,80,144,29,Retail,Series A,41,2024
+1484,ALI Technologies,Tokyo,Unknown,Japan,Asia,100,16-01-2024,100,100,0,Transportation,Unknown,Null,2024
+1485,First Mode,Seattle,Washington,USA,North America,48,16-01-2024,20,240,192,Transportation,Acquired,9,2024
+1487,SonderMind,Denver,Colorado,USA,North America,49,16-01-2024,17,288,239,Healthcare,Series C,183,2024
+1488,Thursday,London,Unknown,UK,Europe,200,16-01-2024,70,286,86,Consumer,Seed,3,2024
+1494,Wayfair,Boston,Massachusetts,USA,North America,1650,19-01-2024,13,12692,11042,Retail,Post-IPO,2,2024
+1495,SolarEdge,Tel Aviv,Unknown,Israel,Asia,900,21-01-2024,16,5625,4725,Energy,Post-IPO,155,2024
+1498,Riot Gaming,Los Angeles,California,USA,North America,530,22-01-2024,11,4818,4288,Consumer,Acquired,21,2024
+1501,Brex,San Francisco,California,USA,North America,282,23-01-2024,20,1410,1128,Finance,Series D,2,2024
+1503,eBay,San Francisco,California,USA,North America,1000,23-01-2024,9,11111,10111,e-commerce,Post-IPO,1,2024
+1506,SAP,Walldorf,Baden-Würtemberg,Germany,Europe,8000,23-01-2024,7,114286,106286,Other,Post-IPO,1,2024
+1508,Vroom,New York City,New York,USA,North America,800,23-01-2024,90,889,89,Transportation,Post-IPO,1,2024
+1509,Aurora,Pittsburgh,Pennsylvania,USA,North America,100,24-01-2024,3,3333,3233,Transportation,Post-IPO,4,2024
+1510,Desktop Metal,Boston,Massachusetts,USA,North America,109,24-01-2024,20,545,436,Other,Post-IPO,811,2024
+1513,Storytel,Stockholm,Unknown,Sweden,Europe,80,24-01-2024,13,615,535,Media,Post-IPO,275,2024
+1515,Business Insider,New York City,New York,USA,North America,60,25-01-2024,8,750,690,Media,Acquired,56,2024
+1516,Cova,Lagos,Unknown,Nigeria,Africa,65,25-01-2024,100,65,0,Finance,Unknown,Null,2024
+1517,Jamf,Minneapolis,Minnesota,USA,North America,109,25-01-2024,6,1817,1708,Other,Post-IPO,332,2024
+1519,MVPindex,Austin,Texas,USA,North America,12,25-01-2024,30,40,28,Marketing,Series B,27,2024
+1520,Swiggy,Bengaluru,Unknown,India,Asia,400,25-01-2024,7,5714,5314,Food,Unknown,4,2024
+1521,Veho,Boulder,Colorado,USA,North America,65,25-01-2024,19,342,277,Logistics,Series B,299,2024
+1522,Flexport,San Francisco,California,USA,North America,47,26-01-2024,20,235,188,Logistics,Series E,2,2024
+1524,Salesforce,San Francisco,California,USA,North America,700,26-01-2024,1,70000,69300,Sales,Post-IPO,65,2024
+1526,iRobot,Boston,Massachusetts,USA,North America,350,29-01-2024,31,1129,779,Consumer,Post-IPO,30,2024
+1527,Loopio,Toronto,Unknown,Canada,North America,67,29-01-2024,6,1117,1050,Sales,Private Equity,263,2024
+1528,Aurora Solar,San Francisco,California,USA,North America,111,30-01-2024,20,555,444,Energy,Series D,523,2024
+1529,Block,San Francisco,California,USA,North America,1000,30-01-2024,10,10000,9000,Finance,Post-IPO,150,2024
+1530,Kiwi.com,Brno,Unknown,Czech Republic,Europe,216,30-01-2024,18,1200,984,Travel,Unknown,107,2024
+1532,PayPal,San Jose,California,USA,North America,2500,30-01-2024,9,27778,25278,Finance,Post-IPO,216,2024
+1533,Procore,Santa Barbara,California,USA,North America,90,30-01-2024,4,2250,2160,Construction,Post-IPO,654,2024
+1536,Wattpad,Toronto,Unknown,Canada,North America,20,30-01-2024,10,200,180,Media,Acquired,117,2024
+1538,Innoviz,Tel Aviv,Unknown,Israel,Asia,60,31-01-2024,13,462,402,Transportation,Post-IPO,547,2024
+1539,Proofpoint,Sunnyvale,California,USA,North America,280,31-01-2024,6,4667,4387,Security,Acquired,885,2024
+1540,The Messenger,Miami,Florida,USA,North America,60,31-01-2024,100,60,0,Media,Unknown,Null,2024
+1543,Zuora,Redwood City,California,USA,North America,65,31-01-2024,8,813,748,Finance,Post-IPO,647,2024
+1546,Okta,San Francisco,California,USA,North America,400,01-02-2024,7,5714,5314,Security,Post-IPO,1,2024
+1547,Polygon,Cayman Islands,Unknown,Cayman Islands,North America,60,01-02-2024,19,316,256,Crypto,Unknown,451,2024
+1548,Zoom,San Jose,California,USA,North America,150,01-02-2024,2,7500,7350,Other,Post-IPO,276,2024
+1549,Cake Bikes,Stockholm,Unknown,Sweden,Europe,100,02-02-2024,100,100,0,Transportation,Unknown,74,2024
+1550,Cue Health,San Diego,California,USA,North America,245,02-02-2024,30,817,572,Healthcare,Post-IPO,899,2024
+1551,Small Robot Computer,Salisbury,Unknown,UK,Europe,125,02-02-2024,100,125,0,Food,Unknown,10,2024
+1552,Top Hat,Toronto,Unknown,Canada,North America,35,02-02-2024,7,500,465,Education,Series E,234,2024
+1553,Twig,London,Unknown,UK,Europe,65,02-02-2024,100,65,0,Finance,Unknown,41,2024
+1554,Astrate Medical,Philadelphia,Pennsylvania,USA,North America,94,05-02-2024,100,94,0,Healthcare,Series A,13,2024
+1556,Drizly,Boston,Massachusetts,USA,North America,168,05-02-2024,100,168,0,Retail,Acquired,119,2024
+1557,Impact.com,Los Angeles,California,USA,North America,40,05-02-2024,3,1333,1293,Sales,Private Equity,361,2024
+1559,Muvin,Bengaluru,Unknown,India,Asia,65,05-02-2024,100,65,0,Finance,Seed,4,2024
+1561,Snap,Los Angeles,California,USA,North America,500,05-02-2024,10,5000,4500,Consumer,Post-IPO,5,2024
+1564,DocuSign,San Francisco,California,USA,North America,440,06-02-2024,6,7333,6893,Sales,Post-IPO,536,2024
+1566,Fireblocks,New York City,New York,USA,North America,20,07-02-2024,3,667,647,Crypto,Series E,1,2024
+1568,Tenable,Baltimore,Maryland,USA,North America,60,07-02-2024,5,1200,1140,Security,Post-IPO,565,2024
+1569,Workfellow,Espoo,Unknown,Finland,Europe,248,07-02-2024,100,248,0,HR,Seed,3,2024
+1570,Getaround,San Francisco,California,USA,North America,100,08-02-2024,30,333,233,Transportation,Post-IPO,948,2024
+1571,Journera,Chicago,Illinois,USA,North America,104,08-02-2024,100,104,0,Travel,Series B,31,2024
+1572,Otovo,Oslo,Unknown,Norway,Europe,65,08-02-2024,15,433,368,Energy,Post-IPO,247,2024
+1574,BlissClub,Bengaluru,Unknown,India,Asia,21,09-02-2024,18,117,96,Retail,Series A,20,2024
+1576,Licious,Bengaluru,Unknown,India,Asia,80,09-02-2024,3,2667,2587,Food,Series F,490,2024
+1577,SiriusXM,New York City,New York,USA,North America,160,12-02-2024,3,5333,5173,Media,Post-IPO,525,2024
+1578,Everybuddy,Tel Aviv,Unknown,Israel,Asia,200,13-02-2024,100,200,0,Consumer,Series A,15,2024
+1579,Impinj,Seattle,Washington,USA,North America,50,13-02-2024,10,500,450,Other,Post-IPO,137,2024
+1580,Instacart,San Francisco,California,USA,North America,250,13-02-2024,7,3571,3321,Food,Post-IPO,3,2024
+1581,Mozilla,San Francisco,California,USA,North America,60,13-02-2024,5,1200,1140,Consumer,Unknown,2,2024
+1583,Riskified,New York City,New York,USA,North America,40,13-02-2024,6,667,627,Retail,Post-IPO,229,2024
+1584,Wisense,Tel Aviv,Unknown,Israel,Asia,100,13-02-2024,100,100,0,Transportation,Unknown,37,2024
+1585,Away,New York City,New York,USA,North America,115,14-02-2024,25,460,345,Retail,Series D,181,2024
+1586,Cisco,San Jose,California,USA,North America,4250,14-02-2024,5,85000,80750,Infrastructure,Post-IPO,2,2024
+1587,Wint Wealth,Nashik,Unknown,India,Asia,19,14-02-2024,20,95,76,Finance,Series A,16,2024
+1588,CodeSee,San Francisco,California,USA,North America,238,15-02-2024,100,238,0,Data,Seed,10,2024
+1589,Gro Intelligence,New York City,New York,USA,North America,20,15-02-2024,10,200,180,Food,Series B,118,2024
+1590,May Mobility,Ann Arbor,Michigan,USA,North America,100,15-02-2024,13,769,669,Transportation,Series D,303,2024
+1591,Sonder,San Francisco,California,USA,North America,106,15-02-2024,17,624,518,Travel,Post-IPO,839,2024
+1592,Storytel,Stockholm,Unknown,Sweden,Europe,80,15-02-2024,13,615,535,Consumer,Post-IPO,312,2024
+1593,Toast,Boston,Massachusetts,USA,North America,550,15-02-2024,10,5500,4950,Food,Post-IPO,962,2024
+1594,Farfetch,London,Unknown,UK,Europe,2000,16-02-2024,25,8000,6000,Retail,Acquired,2,2024
+1595,Voi,Stockholm,Unknown,Sweden,Europe,120,16-02-2024,12,1000,880,Transportation,Series D,515,2024
+1598,KnownOrigin,Manchester,Unknown,UK,Europe,40,20-02-2024,30,133,93,Crypto,Acquired,3,2024
+1599,Meati,Boulder,Colorado,USA,North America,125,20-02-2024,30,417,292,Food,Series C,274,2024
+1600,Tails.com,London,Unknown,UK,Europe,55,20-02-2024,25,220,165,Retail,Series A,5,2024
+1602,BuzzFeed,New York City,New York,USA,North America,60,21-02-2024,16,375,315,Media,Post-IPO,696,2024
+1603,Finder,Sydney,Unknown,Australia,Oceana,60,21-02-2024,17,353,293,Retail,Unknown,30,2024
+1604,Rivian,Detroit,Michigan,USA,North America,100,21-02-2024,10,1000,900,Transportation,Post-IPO,11,2024
+1609,Expedia,Seattle,Washington,USA,North America,1500,26-02-2024,8,18750,17250,Travel,Post-IPO,3,2024
+1612,Bumble,Austin,Texas,USA,North America,350,27-02-2024,30,1167,817,Consumer,Post-IPO,313,2024
+1614,Sony Interactive,San Mateo,California,USA,North America,900,27-02-2024,8,11250,10350,Consumer,Subsidiary,Null,2024
+1615,Electronic Arts,Redwood City,California,USA,North America,670,28-02-2024,5,13400,12730,Consumer,Post-IPO,2,2024
+1616,Motional,Boston,Massachusetts,USA,North America,100,28-02-2024,5,2000,1900,Transportation,Unknown,Null,2024
+1617,Treasury Prime,San Francisco,California,USA,North America,40,28-02-2024,40,100,60,Finance,Series C,71,2024
+1618,Vacasa,Portland,Oregon,USA,North America,320,28-02-2024,5,6400,6080,Travel,Post-IPO,834,2024
+1619,Fisker,Los Angeles,California,USA,North America,100,29-02-2024,15,667,567,Transportation,Post-IPO,2,2024
+1620,Kevin,Vilnius,Unknown,Lithuania,Europe,65,29-02-2024,14,464,399,Finance,Series A,79,2024
+1621,Gro Intelligence,New York City,New York,USA,North America,90,01-03-2024,60,150,60,Food,Series B,118,2024
+1622,Pristyn Care,Gurugram,Unknown,India,Asia,120,01-03-2024,7,1714,1594,Healthcare,Series E,177,2024
+1623,Project Ronin,San Mateo,California,USA,North America,150,01-03-2024,100,150,0,Healthcare,Unknown,Null,2024
+1625,Edgio,Phoenix,Arizona,USA,North America,80,04-03-2024,10,800,720,Infrastructure,Post-IPO,462,2024
+1626,Melio,New York City,New York,USA,North America,40,04-03-2024,7,571,531,Finance,Series D,504,2024
+1627,Our Next Energy,Detroit,Michigan,USA,North America,40,04-03-2024,13,308,268,Transportation,Series B,390,2024
+1629,MessageBird,Amsterdam,Unknown,Netherlands,Europe,90,05-03-2024,20,450,360,Other,Series C,1,2024
+1633,Sorare,New York City,New York,USA,North America,22,06-03-2024,13,169,147,Crypto,Series B,739,2024
+1635,Turnitin,Oakland,California,USA,North America,15,07-03-2024,2,750,735,Education,Acquired,Null,2024
+1636,Inscribe,San Francisco,California,USA,North America,65,08-03-2024,40,163,98,Finance,Series B,39,2024
+1637,Niche,Pittsburgh,Pennsylvania,USA,North America,24,08-03-2024,7,343,319,Education,Series C,44,2024
+1638,Deadspin,New York City,New York,USA,North America,11,11-03-2024,100,11,0,Media,Acquired,Null,2024
+1640,Phantom Auto,San Francisco,California,USA,North America,100,12-03-2024,100,100,0,Transportation,Unknown,86,2024
+1641,Stash,New York City,New York,USA,North America,80,13-03-2024,25,320,240,Finance,Unknown,480,2024
+1642,Textio,Seattle,Washington,USA,North America,14,14-03-2024,16,88,74,HR,Unknown,42,2024
+1643,Blueboard,San Diego,California,USA,North America,248,15-03-2024,100,248,0,HR,Series A,16,2024
+1646,Longi,Xi'an,Unknown,China,Asia,162,18-03-2024,5,3240,3078,Energy,Unknown,Null,2024
+1647,Airmeet,Bengaluru,Unknown,India,Asia,50,19-03-2024,20,250,200,Marketing,Series B,50,2024
+1649,ShopBack,Singapore,Unknown,Singapore,Asia,195,19-03-2024,24,813,618,Retail,Series F,355,2024
+1652,Dell,Austin,Texas,USA,North America,6000,25-03-2024,5,120000,114000,Hardware,Post-IPO,Null,2024
+1653,Synctera,Palo Alto,California,USA,North America,17,26-03-2024,15,113,96,Finance,Series A,79,2024
+1654,ChowNow,Los Angeles,California,USA,North America,60,28-03-2024,20,300,240,Food,Series C,64,2024
+1655,Identiq,Tel Aviv,Unknown,Israel,Asia,20,01-04-2024,44,45,25,Security,Series A,52,2024
+1657,Ranger Insurance,New York City,New York,USA,North America,65,01-04-2024,100,65,0,Finance,Seed,5,2024
+1658,Rezi,New York City,New York,USA,North America,82,01-04-2024,100,82,0,Real Estate,Series B,230,2024
+1660,Byju's,Bengaluru,Unknown,India,Asia,500,02-04-2024,3,16667,16167,Education,Private Equity,Null,2024
+1662,Thepeer,Lagos,Unknown,Nigeria,Africa,65,02-04-2024,100,65,0,Finance,Seed,2,2024
+1666,Lightspeed Commerce,Montreal,Unknown,Canada,North America,280,03-04-2024,10,2800,2520,Retail,Post-IPO,1200,2024
+1669,Yummly,San Carlos,California,USA,North America,125,03-04-2024,100,125,0,Food,Acquired,24,2024
+1672,Ghost Autonomy,Mountain View,California,USA,North America,100,05-04-2024,100,100,0,Transportation,Series E,247,2024
+1673,Bolt.Earth,Bengaluru,Unknown,India,Asia,70,06-04-2024,40,175,105,Software Development,Unknown,Null,2024
+1674,EXL,New York City,New York,USA,North America,800,06-04-2024,2,40000,39200,IT Services,Unknown,Null,2024
+1675,Fission,Vancouver,Unknown,Canada,North America,109,07-04-2024,100,109,0,Other,Unknown,Null,2024
+1676,Singularity 6,Los Angeles,California,USA,North America,49,08-04-2024,35,140,91,Gaming,Series B,49,2024
+1677,Trendsales,Copenhagen,Unknown,Denmark,Europe,79,08-04-2024,100,79,0,Retail,Acquired,Null,2024
+1678,Checkr,San Francisco,California,USA,North America,382,09-04-2024,32,1194,812,HR,Series D,Null,2024
+1682,Fabric,New York City,New York,USA,North America,30,11-04-2024,15,200,170,Logistics,Series C,336,2024
+1683,Hinge Health,San Francisco,California,USA,North America,94,11-04-2024,10,940,846,Healthcare,Series E,826,2024
+1684,Zoe,London,Unknown,UK,Europe,94,11-04-2024,20,470,376,Healthcare,Series B,89,2024
+1685,Criteo,Paris,Unknown,France,Europe,140,12-04-2024,4,3500,3360,Marketing,Unknown,Null,2024
+1686,Criteo,Paris,Unknown,France,Europe,140,12-04-2024,4,3500,3360,Marketing,Post-IPO,61,2024
+1689,McKinsey & Co,New York City,New York,USA,North America,360,15-04-2024,3,12000,11640,Business Consulting and Services,Unknown,Null,2024
+1690,Tesla,Austin,Texas,USA,North America,14000,15-04-2024,10,140000,126000,Motor Vehicle Manufacturing,Unknown,Null,2024
+1691,Kwalee,Leamington Spa,Unknown,UK,Europe,40,16-04-2024,10,400,360,Gaming,Unknown,Null,2024
+1692,Take-Two,New York City,New York,USA,North America,600,16-04-2024,5,12000,11400,Entertainment Providers,Post-IPO,4100,2024
+1693,Tome,San Francisco,California,USA,North America,12,16-04-2024,20,60,48,AI,Series B,75,2024
+1694,Tome,San Francisco,California,USA,North America,12,16-04-2024,25,48,36,AI,Series B,75,2024
+1696,Data.ai,San Francisco,California,USA,North America,44,17-04-2024,11,400,356,Software Development,Unknown,Null,2024
+1698,Rivian,Detroit,Michigan,USA,North America,100,17-04-2024,1,10000,9900,Transportation,Post-IPO,10700,2024
+1699,Toshiba,Tokyo,Unknown,Japan,Asia,5000,17-04-2024,10,50000,45000,Appliances,Post-IPO,574,2024
+1700,Good Glamm Group,New Delhi,Unknown,India,Asia,150,18-04-2024,15,1000,850,IT Services,Unknown,Null,2024
+1701,Pax8,Greenwood Village,Colorado,USA,North America,475,18-04-2024,5,9500,9025,IT Services,Unknown,400,2024
+1702,Showpad,Ghent,Unknown,Belgium,Europe,50,18-04-2024,10,500,450,Marketing,Series D,159,2024
+1703,Stability AI,London,Unknown,UK,Europe,20,18-04-2024,10,200,180,AI,Unknown,174,2024
+1704,The Good Glamour,New Delhi,Unknown,India,Asia,150,18-04-2024,15,1000,850,Retail,Unknown,180,2024
+1706,OutSystems,Boston,Massachusetts,USA,North America,150,19-04-2024,8,1875,1725,Product,Series G,802,2024
+1707,Post.,New York City,New York,USA,North America,90,19-04-2024,100,90,0,Social posting site,Unknown,Null,2024
+1710,Freenome,San Francisco,California,USA,North America,100,24-04-2024,20,500,400,Healthcare,Unknown,Null,2024
+1711,Heureka Group,Prague,Unknown,Czech Republic,Europe,100,24-04-2024,16,625,525,Retail,Acquired,Null,2024
+1717,True Anomaly,Denver,Colorado,USA,North America,30,26-04-2024,25,120,90,Aerospace,Series B,158,2024
+1719,HealthifyMe,Bengaluru,Unknown,India,Asia,150,27-04-2024,27,556,406,Healthcare,Series D,130,2024
+1720,ComplYant,Los Angeles,California,USA,North America,65,29-04-2024,100,65,0,Finance,Seed,6,2024
+1722,Ninja Van,Singapore,Unknown,Singapore,Asia,21,29-04-2024,10,210,189,Transportation,Series E,974,2024
+1723,Ola,Bengaluru,Unknown,India,Asia,180,29-04-2024,10,1800,1620,Transportation,Series J,3800,2024
+1724,Akili Interactive,Boston,Massachusetts,USA,North America,94,30-04-2024,46,204,110,Healthcare,Post-IPO,Null,2024
+1726,KeokeN,Hoofddorp,Unknown,Netherlands,Europe,44,30-04-2024,100,44,0,Gaming,Unknown,Null,2024
+1727,RiseUp,London,Unknown,UK,Europe,50,30-04-2024,50,100,50,Fintech,Series B,30,2024
+1729,Assurance,Seattle,Washington,USA,North America,112,01-05-2024,100,112,0,Insurance,Unknown,Null,2024
+1731,Sproutt,Hartford,Connecticut,USA,North America,68,01-05-2024,100,68,0,Insurance,Series B,38,2024
+1734,Peloton,New York City,New York,USA,North America,400,02-05-2024,15,2667,2267,Fitness,Post-IPO,1900,2024
+1737,Sprinklr,New York City,New York,USA,North America,116,03-05-2024,3,3867,3751,Software Development,Post-IPO,429,2024
+1738,Cue Health,San Diego,California,USA,North America,230,04-05-2024,49,469,239,Healthcare,Post-IPO,899,2024
+1739,Luminar,Orlando,Florida,USA,North America,147,04-05-2024,20,735,588,Transportation,Post-IPO,780,2024
+1740,Enovix,Fremont,California,USA,North America,170,06-05-2024,33,515,345,Energy,Post-IPO,516,2024
+1743,Arkane Studios,Austin,Texas,USA,North America,96,08-05-2024,100,96,0,Consumer,Unknown,Null,2024
+1744,Brilliant,San Francisco,California,USA,North America,807,08-05-2024,100,807,0,Hardware,Unknown,Null,2024
+1745,Kinaxis,Ottawa,Unknown,Canada,North America,109,08-05-2024,6,1817,1708,Other,Post-IPO,79,2024
+1746,PrepLadder,New Delhi,Unknown,India,Asia,145,08-05-2024,25,580,435,Education,Unknown,Null,2024
+1747,Simpl,Bengaluru,Unknown,India,Asia,100,08-05-2024,15,667,567,Finance,Series B,71,2024
+1748,Sight Diagnostics,Tel Aviv,Unknown,Israel,Asia,40,09-05-2024,30,133,93,Healthcare,Series D,124,2024
+1749,Vacasa,Portland,Oregon,USA,North America,800,09-05-2024,13,6154,5354,Hospitality,Unknown,Null,2024
+1752,Motional,Pittsburgh,Pennsylvania,USA,North America,550,10-05-2024,40,1375,825,Transportation,Unknown,Null,2024
+1754,Indeed,Austin,Texas,USA,North America,1000,13-05-2024,8,12500,11500,HR,Acquired,5,2024
+1755,Mighty Kingdom,Adelaide,Unknown,Australia,Oceana,44,13-05-2024,28,157,113,Gaming,Unknown,Null,2024
+1756,Mainvest,Boston,Massachusetts,USA,North America,65,14-05-2024,100,65,0,Finance,Unknown,3,2024
+1758,Gopuff,Philadelphia,Pennsylvania,USA,North America,125,16-05-2024,6,2083,1958,Food,Series H,3400,2024
+1759,Karhoo,London,Unknown,UK,Europe,100,16-05-2024,100,100,0,Transportation,Acquired,39,2024
+1761,Replit,San Francisco,California,USA,North America,30,16-05-2024,20,150,120,Software Development,Unknown,222,2024
+1765,Joonko,New York City,New York,USA,North America,248,19-05-2024,100,248,0,HR,Series B,38,2024
+1766,SeekOut,Seattle,Washington,USA,North America,248,20-05-2024,30,827,579,HR,Series C,Null,2024
+1767,Exscientia,Oxford,Unknown,UK,Europe,184,21-05-2024,25,736,552,Biotechnology Research,Unknown,Null,2024
+1769,Guild,Denver,Colorado,USA,North America,300,22-05-2024,25,1200,900,Education,Series F,643,2024
+1770,Silo,San Francisco,California,USA,North America,125,22-05-2024,30,417,292,Food,Series C,272,2024
+1771,Cue Health,San Diego,California,USA,North America,180,23-05-2024,100,180,0,Healthcare,Post-IPO,899,2024
+1772,Lucid Motors,Newark,California,USA,North America,400,24-05-2024,6,6667,6267,Transportation,Post-IPO,8300,2024
+1773,Satellogic,Montevideo,Unknown,Uruquay,South America,34,24-05-2024,13,262,228,Aerospace,Post-IPO,424,2024
+1774,Foursquare,New York City,New York,USA,North America,105,27-05-2024,25,420,315,Marketing,Series G,390,2024
+1775,Ualá,Buenos Aires,Unknown,Argentina,South America,140,28-05-2024,9,1556,1416,Fintech,Unknown,Null,2024
+1779,Walnut,Tel Aviv,Unknown,Israel,Asia,15,29-05-2024,20,75,60,Sales,Series B,56,2024
+1781,ICANN,Los Angeles,California,USA,North America,33,30-05-2024,7,471,438,Infrastructure,Unknown,Null,2024
+1783,Gro Intelligence,New York City,New York,USA,North America,125,31-05-2024,10,1250,1125,Food,Series B,118,2024
+1789,Aleph Farms,Tel Aviv,Unknown,Israel,Asia,30,05-06-2024,30,100,70,Food,Unknown,Null,2024
+1790,MoonPay,Dover,Ohio,USA,North America,30,05-06-2024,10,300,270,Crypto,Unknown,651,2024
+1791,Pagaya,Tel Aviv,Unknown,Israel,Asia,100,05-06-2024,14,714,614,Finance,Post-IPO,571,2024
+1792,Yext,New York City,New York,USA,North America,50,05-06-2024,12,417,367,Marketing,Post-IPO,117,2024
+1797,Kissflow,Chennai,Unknown,India,Asia,45,10-06-2024,11,409,364,SaaS,Unknown,Null,2024
+1800,Ladenzeile,Berlin,Berlin,Germany,Europe,115,11-06-2024,100,115,0,Retail,Subsidiary,Null,2024
+1802,Sumo Group,Sheffield,Alabama,USA,North America,44,11-06-2024,15,293,249,Gaming,Unknown,Null,2024
+1804,Paxos,New York City,New York,USA,North America,65,12-06-2024,20,325,260,Finance,Unknown,543,2024
+1805,SCiFi Foods,San Leandro,California,USA,North America,125,12-06-2024,100,125,0,Food,Series A,39,2024
+1807,VRChat,San Francisco,California,USA,North America,90,13-06-2024,30,300,210,Cloud,Series D,95,2024
+1810,Care/of,New York City,New York,USA,North America,143,15-06-2024,100,143,0,Healthcare,Acquired,83,2024
+1811,Galvanic Gaming,Seattle,Washington,USA,North America,44,16-06-2024,100,44,0,Gaming,Unknown,Null,2024
+1812,Moovit,Ness Ziona,Unknown,Israel,Asia,23,16-06-2024,10,230,207,Transportation,Acquired,131,2024
+1813,Running Tide,Portland,Oregon,USA,North America,90,16-06-2024,100,90,0,Environmental Services,Acquired,83,2024
+1814,Chegg,Santa Clara,California,USA,North America,441,17-06-2024,23,1917,1476,Education,Post-IPO,Null,2024
+1815,Loop,Austin,Texas,USA,North America,23,17-06-2024,77,30,7,Insurance,Series A,34,2024
+1816,Satellogic,Montevideo,Unknown,Uruquay,South America,70,17-06-2024,30,233,163,Aerospace,Post-IPO,424,2024
+1817,Stackpath,Dallas,Texas,USA,North America,540,17-06-2024,100,540,0,Infrastructure,Series B,396,2024
+1819,Chegg,Santa Clara,California,USA,North America,441,18-06-2024,23,1917,1476,Education,Post-IPO,227,2024
+1820,Fisker,Los Angeles,California,USA,North America,100,18-06-2024,100,100,0,Transportation,Post-IPO,1700,2024
+1822,Rapyd,Tel Aviv,Unknown,Israel,Asia,30,18-06-2024,4,750,720,Finance,Unknown,770,2024
+1823,Unit,New York City,New York,USA,North America,65,18-06-2024,15,433,368,Finance,Series C,170,2024
+1824,Wex,Portland,Oregon,USA,North America,375,18-06-2024,5,7500,7125,Finance,Post-IPO,400,2024
+1825,Intel,Santa Clara,California,USA,North America,22,19-06-2024,10,220,198,Semiconductors,Post-IPO,12,2024
+1826,Bluevine,Tel Aviv,Unknown,Israel,Asia,65,20-06-2024,12,542,477,Finance,Unknown,769,2024
+1827,Emma Sleep,Frankfurt am Main,Hessen,Germany,Europe,200,21-06-2024,18,1111,911,Retail,Acquired,Null,2024
+1828,ReshaMandi,Bengaluru,Unknown,India,Asia,125,21-06-2024,80,156,31,Food,Unknown,54,2024
+1830,Flutterwave,San Francisco,California,USA,North America,30,24-06-2024,3,1000,970,Finance,Unknown,509,2024
+1831,Ginkgo Bioworks,Boston,Massachusetts,USA,North America,400,24-06-2024,35,1143,743,Healthcare,Post-IPO,100,2024
+1833,Octopus Ventures,London,Unknown,UK,Europe,8,25-06-2024,16,50,42,Finance,Unknown,Null,2024
+1836,Perion,Tel Aviv,Unknown,Israel,Asia,35,26-06-2024,5,700,665,Marketing,Post-IPO,76,2024
+1837,Planet,San Francisco,California,USA,North America,180,26-06-2024,17,1059,879,Aerospace,Post-IPO,574,2024
+1838,RealPage,Dallas,Texas,USA,North America,20,27-06-2024,4,500,480,Real Estate,Acquired,105,2024
+1839,Priceline,Norwalk,Connecticut,USA,North America,103,28-06-2024,17,606,503,Travel,Acquired,77,2024
+1841,Drata,San Diego,California,USA,North America,40,26-09-2024,9,444,404,Security,Series C,328,2024
+1845,Olo,New York City,New York,USA,North America,125,23-09-2024,9,1389,1264,Food,Post-IPO,184,2024
+1846,Healthy.io,Tel Aviv ,Unknown,Israel,Asia,40,22-09-2024,30,133,93,Healthcare,Series D,185,2024
+1848,Luminar,Orlando,Florida,USA,North America,100,20-09-2024,15,667,567,Transportation,Post-IPO,780,2024
+1849,Notable Labs,Foster City,California,USA,North America,94,20-09-2024,65,145,51,Healthcare,Series B,Null,2024
+1850,CarTrawler,Dublin,Unknown,Ireland,Europe,40,19-09-2024,10,400,360,Transportation,Acquired,Null,2024
+1851,ApplyBoard,Waterloo,Unknown,Canada,North America,150,19-09-2024,4,3750,3600,Education,Series D,483,2024
+1856,Amperity,Seattle,Washington,USA,North America,50,12-09-2024,13,385,335,Marketing,Series D,187,2024
+1859,InsurStaq.ai,New Delhi,Unknown,India,Asia,12,09-09-2024,100,12,0,AI,Seed,Null,2024
+1860,Nori,Seattle,Washington,USA,North America,162,09-09-2024,100,162,0,Energy,Unknown,19,2024
+1861,WeTransfer,Amsterdam,Unknown,Netherlands,Europe,260,08-09-2024,75,347,87,Other,Acquired,64,2024
+1862,Goop,Los Angeles,California,USA,North America,39,06-09-2024,18,217,178,Retail,Unknown,75,2024
+1863,Motif Foodworks,Boston,Massachusetts,USA,North America,125,06-09-2024,100,125,0,Food,Unknown,343,2024
+1864,ChargePoint,Campbell,California,USA,North America,250,04-09-2024,15,1667,1417,Manufacturing,Unknown,1,2024
+1866,Lyft,San Francisco,California,USA,North America,30,04-09-2024,1,3000,2970,Transportation,Post-IPO,5,2024
+1868,Matter Labs,Berlin,Berlin,Germany,Europe,40,03-09-2024,16,250,210,Crypto,Unknown,380,2024
+1870,Dunzo,Bengaluru,Unknown,India,Asia,150,31-08-2024,75,200,50,Food,Unknown,458,2024
+1871,Character.ai,Menlo Park,California,USA,North America,6,29-08-2024,5,120,114,AI,Series A,150,2024
+1872,Brave,San Francisco,California,USA,North America,27,28-08-2024,14,193,166,Consumer,Series B,42,2024
+1875,Tome Biosciences,Boston,Massachusetts,USA,North America,131,26-08-2024,100,131,0,Healthcare,Series A,213,2024
+1877,Kenko Health,Mumbai,Unknown,India,Asia,94,23-08-2024,100,94,0,Healthcare,Series A,14,2024
+1878,Received,New York City,New York,USA,North America,65,23-08-2024,100,65,0,Finance,Unknown,Null,2024
+1880,Redfin,Seattle,Washington,USA,North America,82,22-08-2024,2,4100,4018,Real Estate,Post-IPO,320,2024
+1881,Kaiyo,New York City,New York,USA,North America,115,21-08-2024,100,115,0,Retail,Series B,43,2024
+1883,Five9,San Ramon,California,USA,North America,190,20-08-2024,7,2714,2524,Support,Post-IPO,862,2024
+1884,ReshaMandi,Bengaluru,Unknown,India,Asia,125,20-08-2024,100,125,0,Food,Unknown,54,2024
+1885,GoPro,San Mateo,California,USA,North America,139,19-08-2024,15,927,788,Consumer,Post-IPO,288,2024
+1887,Paper,Montreal,Unknown,Canada,North America,81,16-08-2024,45,180,99,Education,Series D,389,2024
+1890,Regrow Ag,Durham,North Carolina,USA,North America,125,16-08-2024,19,658,533,Food,Series B,64,2024
+1892,Inuitive,Ra'anana,Unknown,Israel,Asia,16,15-08-2024,20,80,64,Manufacturing,Unknown,23,2024
+1894,Mister Spex,Berlin,Berlin,Germany,Europe,115,15-08-2024,10,1150,1035,Retail,Post-IPO,158,2024
+1896,Sampler,Toronto,Unknown,Canada,North America,115,15-08-2024,100,115,0,Retail,Series B,10,2024
+1897,Sonos,Santa Barbara,California,USA,North America,100,14-08-2024,6,1667,1567,Consumer,Post-IPO,455,2024
+1899,DayTwo,Walnut Creek,California,USA,North America,94,13-08-2024,100,94,0,Healthcare,Series B,90,2024
+1900,Quizac,Lagos ,Unknown,Nigeria,Africa,150,13-08-2024,100,150,0,Education,Acquired,Null,2024
+1901,Tally,San Francisco,California,USA,North America,65,12-08-2024,100,65,0,Finance,Series C,172,2024
+1902,Cisco,San Jose,California,USA,North America,5600,09-08-2024,7,80000,74400,Infrastructure,Post-IPO,2,2024
+1906,Fastly,San Francisco,California,USA,North America,540,08-08-2024,11,4909,4369,Infrastructure,Post-IPO,219,2024
+1907,Eventbrite,San Francisco,California,USA,North America,100,07-08-2024,11,909,809,Consumer,Post-IPO,557,2024
+1908,LegalZoom,Los Angeles,California,USA,North America,90,07-08-2024,15,600,510,Legal,Post-IPO,952,2024
+1909,Axios Media,Washington DC,District of Columbia,USA,North America,50,06-08-2024,10,500,450,Media,Acquired,57,2024
+1910,Mobius Motors,Nairobi,Unknown,Kenya,Africa,100,06-08-2024,100,100,0,Transportation,Unknown,6,2024
+1911,Teradata,San Diego,California,USA,North America,238,06-08-2024,13,1831,1593,Data,Post-IPO,Null,2024
+1913,Jam City,Los Angeles,California,USA,North America,85,05-08-2024,10,850,765,Consumer,Unknown,652,2024
+1915,ShareChat,Bengaluru,Unknown,India,Asia,30,03-08-2024,5,600,570,Marketing,Series D,222,2024
+1916,Intel,Santa Clara,California,USA,North America,15000,01-08-2024,15,100000,85000,Hardware,Post-IPO,12,2024
+1918,Bungie,Seattle,Washington,USA,North America,220,31-07-2024,17,1294,1074,Consumer,Acquired,100,2024
+1920,Match Group,New York City,New York,USA,North America,200,31-07-2024,6,3333,3133,Consumer,Post-IPO,Null,2024
+1921,NerdWallet,San Francisco,California,USA,North America,65,30-07-2024,15,433,368,Finance,Post-IPO,105,2024
+1922,Moxion Power,Richmond,California,USA,North America,248,29-07-2024,100,248,0,Energy,Unknown,124,2024
+1926,Webflow,San Francisco,California,USA,North America,50,25-07-2024,8,625,575,Marketing,Series C,335,2024
+1927,Humble Games,San Francisco,California,USA,North America,36,23-07-2024,100,36,0,Media,Acquired,4,2024
+1928,Cohere,Toronto,Unknown,Canada,North America,20,23-07-2024,5,400,380,AI,Series D,935,2024
+1929,Bluelearn,Bengaluru,Unknown,India,Asia,150,22-07-2024,100,150,0,Education,Seed,4,2024
+1931,Mercari U.S.,Palo Alto,California,USA,North America,115,19-07-2024,50,230,115,Retail,Subsidiary,Null,2024
+1932,Aqua Security,Boston,Massachusetts,USA,North America,50,17-07-2024,10,500,450,Security,Series E,325,2024
+1933,EverC,Tel Aviv,Unknown,Israel,Asia,16,17-07-2024,10,160,144,Security,Unknown,61,2024
+1935,ON,San Francisco,California,USA,North America,60,16-07-2024,100,60,0,Retail,Unknown,81,2024
+1941,SadaPay,Islamabad,Unknown,Pakistan,Asia,65,12-07-2024,30,217,152,Finance,Acquired,20,2024
+1943,Intuit,Mountain View,California,USA,North America,1800,10-07-2024,10,18000,16200,Finance,Post-IPO,18,2024
+1944,Redbox,Chicago,Illinois,USA,North America,1000,10-07-2024,100,1000,0,Media,Acquired,51,2024
+1945,CyberProof,Los Angeles,California,USA,North America,60,10-07-2024,7,857,797,Security,Subsidiary,Null,2024
+1946,UIPath,New York City,New York,USA,North America,420,09-07-2024,10,4200,3780,Other,Post-IPO,2,2024
+1947,UKG,Boston,Massachusetts,USA,North America,2200,03-07-2024,14,15714,13514,HR,Unknown,Null,2024
+1948,OpenText,Waterloo,Unknown,Canada,North America,1200,03-07-2024,2,60000,58800,Data,Post-IPO,1,2024
+1951,Koo,Bengaluru,Unknown,India,Asia,200,02-07-2024,100,200,0,Consumer,Unknown,51,2024
+1952,Lightricks,Jerusalem,Unknown,Israel,Asia,70,01-07-2024,12,583,513,Consumer,Series D,335,2024
+1954,Sightful,Tel Aviv,Unknown,Israel,Asia,20,01-07-2024,33,61,41,Hardware,Unknown,61,2024
+1956,Ninja Van,Singapore,Unknown,Singapore,Asia,100,01-07-2024,5,2000,1900,Transportation,Series E,974,2024
+1957,Priceline,Norwalk,Connecticut,USA,North America,103,28-06-2024,7,1471,1368,Travel,Acquired,77,2024
+1958,RealPage,Dallas,Texas,USA,North America,260,27-06-2024,4,6500,6240,Real Estate,Acquired,105,2024
+1959,Planet,San Francisco,California,USA,North America,180,26-06-2024,17,1059,879,Aerospace,Post-IPO,574,2024
+1962,Perion,Tel Aviv,Unknown,Israel,Asia,35,25-06-2024,5,700,665,Marketing,Post-IPO,76,2024
+1964,Flutterwave,San Francisco,California,USA,North America,30,24-06-2024,3,1000,970,Finance,Unknown,509,2024
+1967,Ginkgo Bioworks,Boston,Massachusetts,USA,North America,400,20-06-2024,35,1143,743,Healthcare,Post-IPO,2,2024
+1969,ReshaMandi,Bengaluru,Unknown,India,Asia,125,20-06-2024,80,156,31,Food,Unknown,54,2024
+1970,Emma Sleep,Frankfurt am Main,Hessen,Germany,Europe,200,19-06-2024,18,1111,911,Retail,Acquired,Null,2024
+1971,Moovit,Tel Aviv,Unknown,Israel,Asia,20,19-06-2024,10,200,180,Transportation,Acquired,131,2024
+1972,Wex,Portland,Oregon,USA,North America,375,18-06-2024,5,7500,7125,Finance,Post-IPO,400,2024
+1976,Fisker,Los Angeles,California,USA,North America,100,18-06-2024,100,100,0,Transportation,Post-IPO,2,2024
+1977,Chegg,Santa Clara,California,USA,North America,441,17-06-2024,23,1917,1476,Education,Post-IPO,227,2024
+1978,Stackpath,Dallas,Texas,USA,North America,540,17-06-2024,100,540,0,Infrastructure,Series B,396,2024
+1979,Bench,Vancouver,Unknown,Canada,North America,450,27-12-2024,100,450,0,Finance,Series C,Null,2024
+1980,Lilium,Munich,Bayern,Germany,Europe,1000,23-12-2024,100,1000,0,Aerospace,Post-IPO,Null,2024
+1981,BionicHIVE,Sderot,Unknown,Israel,Asia,807,22-12-2024,100,807,0,Hardware,Unknown,Null,2024
+1983,Thrive,Mumbai,Unknown,India,Asia,125,14-12-2024,100,125,0,Food,Series A,Null,2024
+1985,Foundry,Boston,Massachusetts,USA,North America,74,11-12-2024,27,274,200,Crypto,Subsidiary,Null,2024
+1986,Calendly,Atlanta,Georgia,USA,North America,70,11-12-2024,13,538,468,Other,Series B,Null,2024
+1988,OfferUp,Seattle,Washington,USA,North America,115,11-12-2024,22,523,408,Retail,Unknown,Null,2024
+1990,Bluevine,Tel Aviv,Unknown,Israel,Asia,100,10-12-2024,18,556,456,Finance,Unknown,Null,2024
+1992,EasyKnock,New York City,New York,USA,North America,82,09-12-2024,100,82,0,Real Estate,Series D,Null,2024
+1993,Carousell,Singapore,Unknown,Singapore,Asia,76,06-12-2024,7,1086,1010,Retail,Unknown,Null,2024
+1994,Mixtroz,Birmingham,Alabama,USA,North America,109,06-12-2024,100,109,0,Other,Seed,Null,2024
+1995,Circle,Boston,Massachusetts,USA,North America,50,05-12-2024,6,833,783,Crypto,Private Equity,Null,2024
+1997,Stash,New York City,New York,USA,North America,88,04-12-2024,40,220,132,Finance,Unknown,Null,2024
+2000,Skai,Tel Aviv,Unknown,Israel,Asia,80,03-12-2024,14,571,491,Marketing,Series E,Null,2024
+2003,AlphaSense,New York City,New York,USA,North America,150,27-11-2024,8,1875,1725,Other,Series F,Null,2024
+2008,LinkedIn,Sunnyvale,California,USA,North America,202,21-11-2024,1,20200,19998,Recruiting,Acquired,Null,2024
+2009,Headspace,Los Angeles,California,USA,North America,94,20-11-2024,13,723,629,Healthcare,Unknown,Null,2024
+2011,TrueLayer,London,Unknown,UK,Europe,71,15-11-2024,25,284,213,Finance,Series E,Null,2024
+2013,AMD,Santa Clara,California,USA,North America,1000,13-11-2024,4,25000,24000,Hardware,Post-IPO,Null,2024
+2015,Chegg,Santa Clara,California,USA,North America,31,12-11-2024,21,148,117,Education,Post-IPO,Null,2024
+2016,Forward,San Francisco,California,USA,North America,200,12-11-2024,100,200,0,Healthcare,Series E,Null,2024
+2017,Lyra Health,Burlingame,California,USA,North America,77,12-11-2024,2,3850,3773,Healthcare,Series F,Null,2024
+2019,Stoa,Bengaluru,Unknown,India,Asia,150,12-11-2024,100,150,0,Education,Seed,Null,2024
+2020,Enphase Energy,Fremont,California,USA,North America,500,11-11-2024,17,2941,2441,Energy,Post-IPO,Null,2024
+2021,23andMe,San Francisco,California,USA,North America,200,11-11-2024,40,500,300,Healthcare,Post-IPO,Null,2024
+2023,Monarch Tractor,Livermore,California,USA,North America,35,08-11-2024,10,350,315,Other,Unknown,Null,2024
+2026,Exosonic,Los Angeles,California,USA,North America,125,08-11-2024,100,125,0,Aerospace,Seed,Null,2024
+2027,Freshworks,San Mateo,California,USA,North America,660,07-11-2024,13,5077,4417,Support,Post-IPO,Null,2024
+2028,Just Eat,Amsterdam,Unknown,Netherlands,Europe,300,07-11-2024,2,15000,14700,Food,Acquired,Null,2024
+2029,Opendoor,San Francisco,California,USA,North America,300,07-11-2024,17,1765,1465,Real Estate,Post-IPO,Null,2024
+2030,Akamai,Boston,Massachusetts,USA,North America,250,07-11-2024,2,12500,12250,Security,Post-IPO,Null,2024
+2032,Personio,Munich,Bayern,Germany,Europe,115,07-11-2024,6,1917,1802,HR,Series E,Null,2024
+2033,iRobot,Boston,Massachusetts,USA,North America,105,06-11-2024,16,656,551,Consumer,Post-IPO,Null,2024
+2036,Mozilla,San Francisco,California,USA,North America,200,05-11-2024,30,667,467,Consumer,Subsidiary,Null,2024
+2037,Incredibuild,Tel Aviv,Unknown,Israel,Asia,18,04-11-2024,11,164,146,Product,Acquired,Null,2024
+2038,Atera,Tel Aviv,Unknown,Israel,Asia,20,03-11-2024,6,333,313,Other,Series B,Null,2024
+2039,Maven Clinic,New York City,New York,USA,North America,60,01-11-2024,10,600,540,Healthcare,Series F,Null,2024
+2040,Bowery Farming,New York City,New York,USA,North America,125,01-11-2024,100,125,0,Food,Unknown,Null,2024
+2042,Dropbox,San Francisco,California,USA,North America,527,30-10-2024,20,2635,2108,Other,Post-IPO,Null,2024
+2043,Kraken,San Francisco,California,USA,North America,400,30-10-2024,15,2667,2267,Crypto,Unknown,Null,2024
+2044,Miro,San Francisco,California,USA,North America,275,30-10-2024,18,1528,1253,Other,Series C,Null,2024
+2045,ConsenSys,New York City,New York,USA,North America,163,29-10-2024,20,815,652,Crypto,Series D,Null,2024
+2046,F5,Seattle,Washington,USA,North America,100,29-10-2024,2,5000,4900,Security,Post-IPO,Null,2024
+2047,Docker,Palo Alto,California,USA,North America,540,29-10-2024,10,5400,4860,Infrastructure,Series C,Null,2024
+2048,dYdX,San Francisco,California,USA,North America,40,29-10-2024,35,114,74,Crypto,Series C,Null,2024
+2049,Coursera,Mountain View,California,USA,North America,150,25-10-2024,10,1500,1350,Education,Post-IPO,Null,2024
+2050,Kyte,San Francisco,California,USA,North America,100,25-10-2024,40,250,150,Transportation,Unknown,Null,2024
+2054,Upwork,San Francisco,California,USA,North America,109,23-10-2024,21,519,410,Other,Post-IPO,Null,2024
+2058,CapWay,Atlanta,Georgia,USA,North America,65,17-10-2024,100,65,0,Finance,Unknown,Null,2024
+2061,Fable,New York City,New York,USA,North America,59,15-10-2024,100,59,0,Product,Series A,Null,2024
+2063,Nikola,Phoenix,Arizona,USA,North America,130,11-10-2024,15,867,737,Transportation,Post-IPO,Null,2024
+2064,Toplyne,Bengaluru,Unknown,India,Asia,67,11-10-2024,100,67,0,Sales,Series A,Null,2024
+2065,CareerBuilder + Monster,Chicago,Illinois,USA,North America,200,10-10-2024,15,1333,1133,Recruiting,Acquired,Null,2024
+2066,GoWild,Louisville,Kentucky,USA,North America,115,10-10-2024,100,115,0,Retail,Seed,Null,2024
+2068,Grabango,Berkeley,California,USA,North America,125,09-10-2024,100,125,0,Food,Unknown,Null,2024
+2069,BeepKart,Bengaluru,Unknown,India,Asia,130,08-10-2024,40,325,195,Retail,Series A,Null,2024
+2071,Eaze,San Francisco,California,USA,North America,500,07-10-2024,100,500,0,Consumer,Series D,Null,2024
+2072,PubMatic,Redwood City,California,USA,North America,12,07-10-2024,1,1200,1188,Marketing,Post-IPO,Null,2024
+2073,Zapata Computing,Boston,Massachusetts,USA,North America,109,07-10-2024,100,109,0,Other,Post-IPO,Null,2024
+2074,Tome,San Francisco,California,USA,North America,12,02-10-2024,31,39,27,Sales,Series B,Null,2024
+2076,Flexport,San Francisco,California,USA,North America,47,02-10-2024,2,2350,2303,Logistics,Series E,Null,2024
